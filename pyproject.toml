@@ -1,7 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
 [project]
 name = "parlay"
 version = "0.1.0"
-description = "Add your description here"
+description = "A correlation-aware NFL parlay pricing engine"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
@@ -9,4 +13,25 @@ dependencies = [
     "nflreadpy>=0.1.5",
     "polars>=1.36.1",
     "pyarrow>=21.0.0",
+    "numpy",
+    "scipy",
+    "pydantic",
+    "fastapi",
+    "uvicorn",
 ]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "ruff",
+    "mypy",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["parlay"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
