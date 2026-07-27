@@ -1,7 +1,6 @@
-import nflreadpy as nfl
-import polars as pl
-import duckdb
 from pathlib import Path
+
+import nflreadpy as nfl
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "raw"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
