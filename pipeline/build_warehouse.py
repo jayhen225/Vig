@@ -1,6 +1,6 @@
-import polars as pl
-import duckdb
 from pathlib import Path
+
+import duckdb
 
 connection = duckdb.connect(Path(__file__).parent.parent / "data" / "nfl_data.duckdb")
 
