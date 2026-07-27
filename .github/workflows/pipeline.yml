@@ -1,0 +1,40 @@
+name: Data pipeline
+
+on:
+  # Weekly during NFL season, Tuesday 11:00 UTC (~6-7am US Eastern, after
+  # Monday Night Football). Months restricted to Sep-Feb so it stays quiet
+  # in the offseason. Note: scheduled runs only fire from the default branch.
+  schedule:
+    - cron: "0 11 * 9-12,1-2 2"
+  # Lets you run it by hand from the repo's Actions tab (great for testing).
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -e .
+
+      - name: Ingest raw NFL data
+        run: python pipeline/ingest.py
+
+      - name: Build DuckDB warehouse
+        run: python pipeline/build_warehouse.py
+
+      - name: Upload warehouse
+        uses: actions/upload-artifact@v4
+        with:
+          name: nfl-warehouse
+          path: |
+            data/nfl_data.duckdb
+            data/raw/*.parquet
+          retention-days: 30
+          if-no-files-found: error
