@@ -1,0 +1,62 @@
+name: Odds snapshot
+
+on:
+  # Manual trigger. Use this FIRST to test, and to see how many API credits one
+  # run costs (look for "Credits remaining" in the log) BEFORE enabling the
+  # schedule below.
+  workflow_dispatch:
+
+  # Scheduled capture during NFL game windows (times in UTC), in-season only
+  # (Sep-Feb). COMMENTED OUT on purpose -- uncomment only after a manual run
+  # confirms it works and you've checked the credit cost. Hourly by default;
+  # change the "0" minute to "0,30" or "*/15" for finer line-movement capture
+  # (burns more credits).
+  #
+  # schedule:
+  #   # Thursday Night Football: 23:00 Thu -> 03:00 Fri
+  #   - cron: "0 23 * 9-12,1-2 4"
+  #   - cron: "0 0-3 * 9-12,1-2 5"
+  #   # Sunday slate: 17:00 Sun -> 05:00 Mon
+  #   - cron: "0 17-23 * 9-12,1-2 0"
+  #   - cron: "0 0-5 * 9-12,1-2 1"
+  #   # Monday Night Football: 23:00 Mon -> 03:00 Tue
+  #   - cron: "0 23 * 9-12,1-2 1"
+  #   - cron: "0 0-3 * 9-12,1-2 2"
+
+# The job commits new snapshot files back to the repo, so it needs write access.
+permissions:
+  contents: write
+
+# Never let two snapshot runs push at the same time (queue, don't cancel --
+# every snapshot matters).
+concurrency:
+  group: odds-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Pure standard-library script -- no pip install needed.
+      - name: Capture odds snapshot
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python pipeline/snapshot_odds.py
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/odds_raw
+          if git diff --staged --quiet; then
+            echo "No new snapshot to commit."
+          else
+            git commit -m "Odds snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
+            git push
+          fi
