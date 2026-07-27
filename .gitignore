@@ -1,29 +1,13 @@
-<<<<<<< HEAD
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-
-# Virtual environments
-.venv
-
-# Local data — rebuildable via make data
-data/
-=======
-# Data (gitignored, keep directory via .gitkeep)
-parlay/data/*
-!parlay/data/.gitkeep
-
 # Python
 __pycache__/
 *.py[cod]
-*.egg-info/
-.eggs/
 build/
 dist/
+wheels/
+*.egg-info/
+.eggs/
+
+# Virtual environments
 .venv/
 venv/
 
@@ -34,11 +18,17 @@ venv/
 .coverage
 htmlcov/
 
-# Env
+# Env / secrets
 .env
+
+# Rebuildable data (re-pullable from nflverse) -- not committed
+data/raw/
+data/*.duckdb
+
+# NOTE: data/odds_raw/ is intentionally NOT ignored. Those odds snapshots are
+# capture-or-lose (line movement can't be backfilled), so they must be committed.
 
 # Editors / OS
 .DS_Store
 .idea/
 .vscode/
->>>>>>> 77bf262666f31af9ff667f2740498c7856e15c2a
