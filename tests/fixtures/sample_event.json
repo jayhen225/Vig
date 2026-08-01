@@ -1,0 +1,45 @@
+{
+  "id": "evt_test_1",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-10T00:20:00Z",
+  "home_team": "Kansas City Chiefs",
+  "away_team": "Baltimore Ravens",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-09T23:00:00Z",
+          "outcomes": [
+            {"name": "Over", "description": "Patrick Mahomes", "price": -115, "point": 274.5},
+            {"name": "Under", "description": "Patrick Mahomes", "price": -105, "point": 274.5}
+          ]
+        },
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-09T23:00:00Z",
+          "outcomes": [
+            {"name": "Yes", "description": "Isiah Pacheco", "price": 120}
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-09T23:05:00Z",
+          "outcomes": [
+            {"name": "Over", "description": "Patrick Mahomes", "price": 100, "point": 274.5},
+            {"name": "Under", "description": "Patrick Mahomes", "price": -122, "point": 274.5}
+          ]
+        }
+      ]
+    }
+  ]
+}

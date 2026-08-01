@@ -35,3 +35,6 @@ line-length = 100
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+# Put the repo root on sys.path so tests can import the top-level `pipeline`
+# package (the installed wheel only contains `parlay`).
+pythonpath = ["."]

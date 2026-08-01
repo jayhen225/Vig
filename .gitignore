@@ -21,9 +21,10 @@ htmlcov/
 # Env / secrets
 .env
 
-# Rebuildable data (re-pullable from nflverse) -- not committed
-data/raw/
-data/*.duckdb
+# Rebuildable data -- not committed
+data/raw/          # re-pullable from nflverse
+data/*.duckdb      # rebuilt by build_warehouse.py / devig_odds.py
+data/odds_devig/   # recomputable from the committed data/odds_raw/ snapshots
 
 # NOTE: data/odds_raw/ is intentionally NOT ignored. Those odds snapshots are
 # capture-or-lose (line movement can't be backfilled), so they must be committed.
