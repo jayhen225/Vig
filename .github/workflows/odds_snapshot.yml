@@ -46,7 +46,7 @@ jobs:
       # Pure standard-library script -- no pip install needed.
       - name: Capture odds snapshot
         env:
-          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          ODDS_API_KEY: ${{ secrets.THE_ODDS_API }}
         run: python pipeline/snapshot_odds.py
 
       - name: Commit snapshot
