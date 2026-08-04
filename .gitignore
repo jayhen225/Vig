@@ -33,3 +33,5 @@ data/odds_devig/   # recomputable from the committed data/odds_raw/ snapshots
 .DS_Store
 .idea/
 .vscode/
+parlay/data/raw/
+parlay/data/*.duckdb
