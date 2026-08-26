@@ -19,7 +19,7 @@ import os
 import sys
 import urllib.error
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlencode
 
@@ -39,14 +39,33 @@ MARKETS = [
     "player_anytime_td",
 ]
 
-# Snapshots live under data/odds_raw/, separate from the nflverse parquet files
-# in data/raw/. Path is anchored to this file, not the working directory.
+# Only snapshot games kicking off within this many days. Books post player props
+# close to game time, so pulling every future game on the schedule just wastes
+# API credits (and time) on events that have no props yet.
+SNAPSHOT_WINDOW_DAYS = 7
+
+# Snapshots live under parlay/data/odds_raw/, separate from the nflverse parquet
+# files in parlay/data/raw/. Path is anchored to this file, not the cwd.
 SNAPSHOT_ROOT = Path(__file__).parent.parent / "data" / "odds_raw"
 
 
 def build_url(path, **params):
     """Build a full API URL with query parameters."""
     return f"{API_BASE}{path}?{urlencode(params)}"
+
+
+def upcoming_events(events, now, window_days=SNAPSHOT_WINDOW_DAYS):
+    """Keep only events kicking off between now and now + window_days."""
+    cutoff = now + timedelta(days=window_days)
+    kept = []
+    for event in events:
+        commence = event.get("commence_time")
+        if not commence:
+            continue
+        start = datetime.fromisoformat(commence.replace("Z", "+00:00"))
+        if now <= start <= cutoff:
+            kept.append(event)
+    return kept
 
 
 def get_json(url):
@@ -60,13 +79,9 @@ def main():
     if not api_key:
         sys.exit("ODDS_API_KEY is not set. Add it as an env var / GitHub secret.")
 
-    # One folder per run, named by UTC timestamp, so nothing is overwritten.
-    stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-    out_dir = SNAPSHOT_ROOT / stamp
-    out_dir.mkdir(parents=True, exist_ok=True)
-    print(f"Writing snapshot to {out_dir}")
+    now = datetime.now(timezone.utc)
 
-    # Step 1: list this week's events. Need each event id to pull its props.
+    # Step 1: list events, then keep only games within the snapshot window.
     events_url = build_url(f"/sports/{SPORT}/events", apiKey=api_key)
     try:
         events, headers = get_json(events_url)
@@ -75,12 +90,25 @@ def main():
     except urllib.error.URLError as e:
         sys.exit(f"Failed to list events: {e.reason}")
 
-    (out_dir / "events.json").write_text(json.dumps(events, indent=2))
-    print(f"{len(events)} events. Credits remaining: {headers.get('x-requests-remaining')}")
+    events = upcoming_events(events, now)
+    print(
+        f"{len(events)} games within {SNAPSHOT_WINDOW_DAYS} days. "
+        f"Credits remaining: {headers.get('x-requests-remaining')}"
+    )
+    if not events:
+        print("No upcoming games in window -- nothing to snapshot.")
+        return
 
-    # Step 2: for each event, pull player props. Wrap each call so one failure
-    # doesn't lose the rest of the week's snapshot.
-    saved, failed = 0, 0
+    # One folder per run, named by UTC timestamp, so nothing is overwritten.
+    out_dir = SNAPSHOT_ROOT / now.strftime("%Y%m%dT%H%M%SZ")
+    out_dir.mkdir(parents=True, exist_ok=True)
+    (out_dir / "events.json").write_text(json.dumps(events, indent=2))
+    print(f"Writing snapshot to {out_dir}")
+
+    # Step 2: pull player props per event. Wrap each call so one failure doesn't
+    # lose the rest of the week's snapshot; skip events with no props posted yet
+    # so we don't commit empty files.
+    saved, empty, failed = 0, 0, 0
     for event in events:
         event_id = event["id"]
         matchup = f"{event.get('away_team')} @ {event.get('home_team')}"
@@ -102,15 +130,20 @@ def main():
             failed += 1
             continue
 
+        if not props.get("bookmakers"):
+            print(f"  {matchup}: no props posted yet -- skipping")
+            empty += 1
+            continue
+
         (out_dir / f"{event_id}.json").write_text(json.dumps(props, indent=2))
         saved += 1
         print(f"  {matchup} -> saved (credits left: {headers.get('x-requests-remaining')})")
 
-    print(f"Done. {saved} saved, {failed} failed.")
-    # A run that lists games but captures zero props means something is wrong
-    # (bad markets, exhausted quota) -- fail loudly rather than commit an empty snapshot.
-    if events and saved == 0:
-        sys.exit("No event props were captured -- check markets / quota.")
+    print(f"Done. {saved} saved, {empty} empty, {failed} failed.")
+    # Fail loudly only if every request errored -- an all-empty result is normal
+    # early in the week before books post props.
+    if failed and saved == 0:
+        sys.exit("All prop requests failed -- check markets / quota.")
 
 
 if __name__ == "__main__":

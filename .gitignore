@@ -23,7 +23,6 @@ htmlcov/
 
 # Rebuildable data -- not committed
 data/raw/          # re-pullable from nflverse
-parlay/data # rest of sql files/trace files
 data/*.duckdb      # rebuilt by build_warehouse.py / devig_odds.py
 data/odds_devig/   # recomputable from the committed data/odds_raw/ snapshots
 
@@ -34,6 +33,8 @@ data/odds_devig/   # recomputable from the committed data/odds_raw/ snapshots
 .DS_Store
 .idea/
 .vscode/
-parlay/data/raw/
-parlay/data/*.duckdb
-parlay/data/
+# Everything under parlay/data is local/rebuildable (nflverse parquets, duckdb
+# warehouses, de-vig output, sql/trace files) EXCEPT the odds snapshots, which
+# are capture-or-lose (line movement can't be backfilled) and must be committed.
+parlay/data/*
+!parlay/data/odds_raw/

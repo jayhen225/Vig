@@ -12,7 +12,7 @@ from parlay.core.devig import (
     is_positive_ev,
     prob_to_american,
 )
-from pipeline.devig_odds import devig_rows, flatten_event
+from parlay.pipeline.devig_odds import devig_rows, flatten_event
 
 FIXTURES = Path(__file__).parent / "fixtures"
 

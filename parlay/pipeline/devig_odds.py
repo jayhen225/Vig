@@ -128,7 +128,7 @@ def _group_by(rows, keys):
 def main():
     snapshot = latest_snapshot()
     if snapshot is None:
-        sys.exit(f"No snapshots in {ODDS_RAW}. Run pipeline/snapshot_odds.py first.")
+        sys.exit(f"No snapshots in {ODDS_RAW}. Run parlay/pipeline/snapshot_odds.py first.")
 
     rows = parse_snapshot(snapshot)
     if not rows:

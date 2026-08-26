@@ -47,13 +47,13 @@ jobs:
       - name: Capture odds snapshot
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-        run: python pipeline/snapshot_odds.py
+        run: python parlay/pipeline/snapshot_odds.py
 
       - name: Commit snapshot
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/odds_raw
+          git add parlay/data/odds_raw
           if git diff --staged --quiet; then
             echo "No new snapshot to commit."
           else
