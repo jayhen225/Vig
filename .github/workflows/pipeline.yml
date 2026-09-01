@@ -24,7 +24,7 @@ jobs:
         run: pip install -e .
 
       - name: Ingest raw NFL data
-        run: python pipeline/ingest.py
+        run: python parlay/pipeline/ingest.py
 
       - name: Build DuckDB warehouse
         run: python pipeline/build_warehouse.py
