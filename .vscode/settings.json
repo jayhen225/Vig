@@ -5,5 +5,23 @@
         "*.csv": "duckdb.dataFileViewer",
         "*.tsv": "duckdb.dataFileViewer",
         "*.xlsx": "duckdb.dataFileViewer"
-    }
+    },
+    "duckdb.databases": [
+        {
+            "alias": "nfl_data",
+            "type": "file",
+            "path": "/Users/jay/Parlay/parlay/data/nfl_data.duckdb",
+            "attached": true
+        }
+    ],
+    "duckdb.defaultDatabase": "nfl_data",
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "DuckDB",
+            "name": "nfl_db",
+            "database": "nfl_data.duckdb"
+        }
+    ]
 }

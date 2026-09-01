@@ -36,3 +36,4 @@ GROUP BY
     pbp.week,
     team_attempts.total_rush_attempts
 ORDER BY pbp.season, pbp.week, carry_share DESC
+;
