@@ -9,13 +9,13 @@ Changes from v1:
          and better matches the right-skewed shape of real yardage data.
 """
 
-from pathlib import Path
 import json
+from pathlib import Path
 
+import arviz as az
+import duckdb
 import numpy as np
 import polars as pl
-import duckdb
-import arviz as az
 from scipy.special import expit
 
 # ══════════════════════════════════════════════════════════════
@@ -684,11 +684,11 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
     print("v1 vs v2 COMPARISON")
     print("=" * 60)
-    print(f"                    v1 (league avg + clipped normal)")
-    print(f"  pass_yds Brier:   +0.0131 vs book")
-    print(f"  rush_yds Brier:   +0.0467 vs book")
-    print(f"  recv_yds Brier:   +0.0164 vs book")
-    print(f"\n                    v2 (team context + log-normal)")
+    print("                    v1 (league avg + clipped normal)")
+    print("  pass_yds Brier:   +0.0131 vs book")
+    print("  rush_yds Brier:   +0.0467 vs book")
+    print("  recv_yds Brier:   +0.0164 vs book")
+    print("\n                    v2 (team context + log-normal)")
     for market in ["player_pass_yds", "player_rush_yds", "player_reception_yds"]:
         mkt_df = results_with_sim.filter(pl.col("market") == market)
         if mkt_df.height == 0:

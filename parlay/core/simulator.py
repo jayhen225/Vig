@@ -500,7 +500,7 @@ if __name__ == "__main__":
             print(f"  {i}. {leg['team']} ML")
 
     # ── Run the simulation ──
-    print(f"\nRunning 10,000 simulations...")
+    print("\nRunning 10,000 simulations...")
 
     result = price_parlay(
         legs=parlay_legs,
@@ -520,7 +520,7 @@ if __name__ == "__main__":
         residual_spreads=residual_spreads,
     )
 
-    print(f"\n── Results ──")
+    print("\n── Results ──")
     print(f"Parlay hit rate:  {result['hit_rate']:.4f} ({result['hit_rate']*100:.1f}%)")
     print(f"Hits:             {result['hits']} / {result['total_sims']}")
     print(f"Implied odds:     {result['implied_odds']:+d}" if result['implied_odds'] else "Implied odds: N/A")
@@ -561,6 +561,6 @@ if __name__ == "__main__":
     print(f"\n  Independent product (no correlation): {independent_prob:.4f} ({independent_prob*100:.1f}%)")
     print(f"  Simulated parlay (with correlation):  {result['hit_rate']:.4f} ({result['hit_rate']*100:.1f}%)")
     print(f"  Difference: {(result['hit_rate'] - independent_prob):.4f}")
-    print(f"\n  If the simulated rate > independent product, correlation is")
-    print(f"  HELPING this parlay (legs tend to hit together).")
-    print(f"  If simulated < independent, correlation is HURTING it.")
+    print("\n  If the simulated rate > independent product, correlation is")
+    print("  HELPING this parlay (legs tend to hit together).")
+    print("  If simulated < independent, correlation is HURTING it.")

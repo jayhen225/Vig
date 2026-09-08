@@ -18,8 +18,8 @@ Usage:
 import json
 import os
 import time
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from datetime import datetime, timedelta
 
 import requests
 from dotenv import load_dotenv
@@ -47,8 +47,8 @@ PROP_MARKETS = [
 
 # 2025 NFL regular season: Sept 4, 2025 through Jan 4, 2026
 # Pull closing odds by requesting a timestamp near each game's start
-SEASON_START = datetime(2025, 9, 4)
-SEASON_END = datetime(2026, 1, 10)  # include wild card round
+SEASON_START = datetime(2025, 9, 4, tzinfo=timezone.utc)
+SEASON_END = datetime(2026, 1, 10, tzinfo=timezone.utc)  # include wild card round
 
 
 def get_historical_events(date_str):
@@ -100,7 +100,7 @@ def get_historical_event_odds(event_id, date_str, markets):
 
 
 def main():
-    print(f"Pulling historical NFL prop odds for 2025 season")
+    print("Pulling historical NFL prop odds for 2025 season")
     print(f"Markets: {PROP_MARKETS}")
     print(f"Output: {OUTPUT_DIR}")
     print()
@@ -167,7 +167,7 @@ def main():
             odds_data = get_historical_event_odds(event_id, date_str, PROP_MARKETS)
             
             if odds_data is None:
-                print(f"    No odds available")
+                print("    No odds available")
                 skipped += 1
                 continue
 
@@ -180,15 +180,15 @@ def main():
             }
             out_path.write_text(json.dumps(save_data, indent=2))
             success += 1
-            print(f"    Saved")
+            print("    Saved")
 
         except requests.exceptions.HTTPError as e:
             if e.response.status_code == 429:
-                print(f"    Rate limited — waiting 60s...")
+                print("    Rate limited — waiting 60s...")
                 time.sleep(60)
                 errors += 1
             elif e.response.status_code == 402:
-                print(f"    Out of credits! Stopping.")
+                print("    Out of credits! Stopping.")
                 break
             else:
                 print(f"    HTTP error: {e}")
@@ -200,7 +200,7 @@ def main():
         # Rate limiting: ~1 request per second
         time.sleep(1)
 
-    print(f"\n── Summary ──")
+    print("\n── Summary ──")
     print(f"Events pulled:  {success}")
     print(f"Skipped (already saved or no odds): {skipped}")
     print(f"Errors: {errors}")

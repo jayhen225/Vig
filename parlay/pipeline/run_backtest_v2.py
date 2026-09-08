@@ -8,9 +8,9 @@ Changes from v1:
 
 from pathlib import Path
 
+import duckdb
 import numpy as np
 import polars as pl
-import duckdb
 
 # ══════════════════════════════════════════════════════════════
 # CONSTANTS
@@ -378,13 +378,13 @@ print(f"ML mean calibration error:     {np.mean(ml_cal_errors):.4f}" if ml_cal_e
 print(f"Book ML accuracy:              {book_correct/total*100:.1f}%")
 print(f"Simulator ML accuracy:         {sim_correct/total*100:.1f}%")
 print(f"Simulator spread accuracy:     {spread_accuracy*100:.1f}%")
-print(f"\n── Compare vs v1 (league average for all) ──")
-print(f"v1 spread calibration error: 0.1151")
-print(f"v1 ML calibration error:     0.0436")
-print(f"v1 book ML accuracy:         66.2%")
-print(f"v1 simulator ML accuracy:    46.9%")
-print(f"v1 spread accuracy:          50.2%")
-print(f"\nImprovements from team-specific EPA + home advantage:")
+print("\n── Compare vs v1 (league average for all) ──")
+print("v1 spread calibration error: 0.1151")
+print("v1 ML calibration error:     0.0436")
+print("v1 book ML accuracy:         66.2%")
+print("v1 simulator ML accuracy:    46.9%")
+print("v1 spread accuracy:          50.2%")
+print("\nImprovements from team-specific EPA + home advantage:")
 print(f"  Spread cal error: 0.1151 -> {np.mean(spread_cal_errors):.4f}" if spread_cal_errors else "")
 print(f"  ML cal error:     0.0436 -> {np.mean(ml_cal_errors):.4f}" if ml_cal_errors else "")
 print(f"  ML accuracy:      46.9% -> {sim_correct/total*100:.1f}%")
