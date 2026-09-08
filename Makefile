@@ -1,4 +1,4 @@
-.PHONY: install lint format test run clean
+.PHONY: install lint format test run web web-install web-build clean
 
 install:
 	pip install -e ".[dev]"
@@ -13,8 +13,17 @@ format:
 test:
 	pytest
 
-run:
-	uvicorn parlay.api.main:app --reload
+run:                 ## API backend on :8000 (serves frontend/dist in prod)
+	uvicorn parlay.api.main:app --reload --port 8000
+
+web-install:         ## one-time: install frontend deps
+	cd frontend && npm install
+
+web:                 ## frontend dev server on :5173 (proxies /api -> :8000)
+	cd frontend && npm run dev
+
+web-build:           ## build frontend to frontend/dist (then `make run` serves it)
+	cd frontend && npm run build
 
 clean:
 	find . -type d -name "__pycache__" -exec rm -rf {} +
