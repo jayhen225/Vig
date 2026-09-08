@@ -1,9 +1,8 @@
-from pydantic import BaseModel
 from enum import Enum
-from typing import Annotated, Union, Literal
-from pydantic import Field
+
 from parlay.core.resolution import calculate_margin, resolve_leg
-from parlay.core.schemas import AnyLeg, Side, SpreadLeg, MoneylineLeg, PropLeg, BetType
+from parlay.core.schemas import BetType, MoneylineLeg, PropLeg, Side, SpreadLeg
+
 
 class ResolutionType(Enum): 
     WIN = "win"

@@ -1,10 +1,10 @@
 from pathlib import Path
 
+import arviz as az
 import duckdb
+import numpy as np
 import polars as pl
 import pymc as pm
-import numpy as np
-import arviz as az
 
 # --- Load training data from DuckDB ---
 connection = duckdb.connect(str(Path(__file__).parent.parent / "data" / "nfl_data.duckdb"), read_only=True)

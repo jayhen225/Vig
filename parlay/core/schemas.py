@@ -1,8 +1,10 @@
-from pydantic import BaseModel
-from enum import Enum
-from typing import Annotated, Union, Literal
-from pydantic import Field,  ValidationError
 import uuid
+from enum import Enum
+from typing import Annotated, Literal
+
+from pydantic import BaseModel, Field
+
+
 class Side(Enum):
     OVER = "over"
     UNDER = "under"
@@ -32,7 +34,7 @@ class PropLeg(BaseModel):
     game_id: str
     bet_type: Literal[BetType.PROP]
 
-AnyLeg = Annotated[Union[SpreadLeg, MoneylineLeg, PropLeg], Field(discriminator="bet_type")]
+AnyLeg = Annotated[SpreadLeg | MoneylineLeg | PropLeg, Field(discriminator="bet_type")]
 
 class Parlay(BaseModel):
     legs: list[AnyLeg]

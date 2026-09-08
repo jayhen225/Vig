@@ -38,6 +38,15 @@ packages = ["parlay"]
 [tool.ruff]
 line-length = 100
 
+[tool.ruff.lint.per-file-ignores]
+# Manual, print-and-continue test/demo harnesses (not collected by pytest).
+"parlay/core/resolutions_tests.py" = ["BLE001"]
+"parlay/core/test_schemas_manual.py" = ["BLE001"]
+# Broad excepts keep a long historical-pull loop going when one request fails.
+"parlay/pipeline/pull_historical_props.py" = ["BLE001"]
+# Unsupported-leg-type guard intentionally raises ValueError (its public API).
+"parlay/core/resolution.py" = ["TRY004"]
+
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 # Put the repo root on sys.path so tests can import the top-level `pipeline`

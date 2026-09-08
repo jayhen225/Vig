@@ -1,5 +1,5 @@
-from schemas import Side, BetType, SpreadLeg, MoneylineLeg, PropLeg, Parlay
 from pydantic import ValidationError
+from schemas import BetType, MoneylineLeg, Parlay, PropLeg, Side, SpreadLeg
 
 # --- 1. Valid construction of each leg type ---
 prop = PropLeg(
