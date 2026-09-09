@@ -25,6 +25,9 @@ dependencies = [
     "python-dotenv>=1.2.2",
 ]
 
+[tool.vercel]
+entrypoint = "backend.server:app"
+
 [project.optional-dependencies]
 dev = [
     "pytest",
