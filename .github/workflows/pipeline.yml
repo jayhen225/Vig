@@ -27,7 +27,7 @@ jobs:
         run: python parlay/pipeline/ingest.py
 
       - name: Build DuckDB warehouse
-        run: python pipeline/build_warehouse.py
+        run: python parlay/pipeline/build_warehouse.py
 
       - name: Upload warehouse
         uses: actions/upload-artifact@v4
