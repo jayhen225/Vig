@@ -10,26 +10,34 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "duckdb>=1.4.5",
-    "nflreadpy>=0.1.5",
-    "polars>=1.36.1",
-    "pyarrow>=21.0.0",
     "numpy",
-    "scipy",
     "pydantic",
     "fastapi",
     "uvicorn",
-    "lightgbm>=4.7.0",
-    "scikit-learn>=1.7.2",
-    "fastexcel>=0.21.0",
-    "pandas>=2.3.3",
-    "python-dotenv>=1.2.2",
 ]
 
 [tool.vercel]
 entrypoint = "parlay.api.main:app"
 
 [project.optional-dependencies]
+# Data ingestion/training deps -- not needed to serve the API (parlay/api/*),
+# only imported by parlay/pipeline/* and the optional real pricer
+# (parlay/core/layer5_pricer.py, which degrades to an estimate when these
+# are absent). Kept out of the base deps so the Vercel function bundle
+# stays under the platform's size limit.
+pipeline = [
+    "nflreadpy>=0.1.5",
+    "polars>=1.36.1",
+    "pyarrow>=21.0.0",
+    "scipy",
+    "lightgbm>=4.7.0",
+    "scikit-learn>=1.7.2",
+    "fastexcel>=0.21.0",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.2.2",
+]
 dev = [
+    "parlay[pipeline]",
     "pytest",
     "ruff",
     "mypy",

@@ -21,7 +21,7 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install -e .
+        run: pip install -e ".[pipeline]"
 
       - name: Ingest raw NFL data
         run: python parlay/pipeline/ingest.py
