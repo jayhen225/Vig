@@ -35,7 +35,7 @@ jobs:
         with:
           name: nfl-warehouse
           path: |
-            data/nfl_data.duckdb
-            data/raw/*.parquet
+            parlay/data/nfl_data.duckdb
+            parlay/data/raw/*.parquet
           retention-days: 30
           if-no-files-found: error
