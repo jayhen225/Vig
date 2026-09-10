@@ -38,15 +38,23 @@ def _board_from_warehouse():
             return None
 
         markets = tuple(PRICEABLE_MARKETS) or ("",)
-        # Latest snapshot only; best (most +EV) book per player/market/side/line.
+        # Latest snapshot only; one row per player/market/side. Books quote
+        # slightly different lines for the same prop (e.g. a QB's pass-yards
+        # Over at 215.5 from one book, 224.5 from another) -- partitioning
+        # further by line as well would surface each book's own line as a
+        # separate "opportunity", flooding the board with near-duplicate rows
+        # for a few players while everyone else's props get crowded out of
+        # the LIMIT. Rank by n_books (how many books agree on that specific
+        # line -- a real consensus, not a single book's quote against itself)
+        # before ev_per_dollar, so the board picks the most-agreed-on line.
         rows = con.execute(
             """
             WITH latest AS (SELECT max(snapshot_ts) AS ts FROM devig_odds),
             ranked AS (
                 SELECT d.*,
                        row_number() OVER (
-                         PARTITION BY player, market, side, line
-                         ORDER BY ev_per_dollar DESC
+                         PARTITION BY player, market, side
+                         ORDER BY n_books DESC, ev_per_dollar DESC
                        ) AS rn
                 FROM devig_odds d, latest
                 WHERE d.snapshot_ts = latest.ts
@@ -58,7 +66,7 @@ def _board_from_warehouse():
             FROM ranked
             WHERE rn = 1
             ORDER BY ev_per_dollar DESC
-            LIMIT 100
+            LIMIT 150
             """,
             [list(markets)],
         ).fetchall()
