@@ -84,8 +84,16 @@ def devig_rows(rows, method="multiplicative", consensus_method="median", ev_thre
         row["book_implied_prob"] = american_to_prob(price) if price is not None else None
         row["book_fair_prob"] = None
 
-    # De-vig per book: only complete 2-sided markets (Over/Under or Yes/No).
-    market_groups = _group_by(rows, ("event_id", "bookmaker", "market", "player", "line"))
+    # De-vig per book: only complete 2-sided markets (Over/Under, Yes/No, or a
+    # spread's two mirrored sides). Pairing uses abs(line) rather than line
+    # itself: an Over/Under or moneyline's two sides share the same line
+    # value, but a spread's two sides are opposite signs of the same number
+    # (e.g. Eagles -5.5 / Commanders +5.5) -- grouping on the raw signed line
+    # would never pair them, leaving book_fair_prob (and everything derived
+    # from it) None for every spread row.
+    for row in rows:
+        row["_pair_line"] = abs(row["line"]) if row["line"] is not None else None
+    market_groups = _group_by(rows, ("event_id", "bookmaker", "market", "player", "_pair_line"))
     for idxs in market_groups.values():
         probs = [rows[i]["book_implied_prob"] for i in idxs]
         if len(idxs) == 2 and all(p is not None for p in probs):
@@ -114,6 +122,7 @@ def devig_rows(rows, method="multiplicative", consensus_method="median", ev_thre
         else:
             row["ev_per_dollar"] = None
             row["is_positive_ev"] = None
+        del row["_pair_line"]
     return rows
 
 
