@@ -6,15 +6,28 @@ on:
   # schedule below.
   workflow_dispatch:
 
-  # Once a week, Thursday 18:00 UTC (~1-2pm US Eastern), in-season only
-  # (Sep-Feb) -- most books have posted that week's player props by
-  # Thursday. Kept to once/week deliberately: this endpoint costs
-  # markets x regions credits per event (6 markets x 1 region here), and a
-  # full ~16-game slate runs ~96 credits -- the free tier's 500 credits/month
-  # only covers ~5 runs, so anything more frequent (e.g. per-game-window
-  # captures for line movement) needs a paid API tier.
+  # TEMPORARY: hourly captures during game windows for real line-movement
+  # data, while the higher-tier key (20,000 credits) is active through
+  # Sep 26. At ~96 credits/run (6 markets x 1 region x ~16 events), this
+  # window (Thu/Sun/Mon night football + full Sunday slate) costs
+  # ~2,200 credits/week -- well inside the 20k budget through the 26th.
+  #
+  # SWITCH BACK once the free-tier key (500 credits/month) is in: replace
+  # the block below with a single weekly cron, e.g.
+  #   - cron: "0 18 * 9-12,1-2 4"   # Thursday 18:00 UTC, once/week
+  # A full slate is ~96 credits/run -- weekly leaves headroom for manual
+  # re-runs within the free tier's 500/month; the schedule below would
+  # blow through that in under a week on the free key.
   schedule:
-    - cron: "0 18 * 9-12,1-2 4"
+    # Thursday Night Football: 23:00 Thu -> 03:00 Fri
+    - cron: "0 23 * 9-12,1-2 4"
+    - cron: "0 0-3 * 9-12,1-2 5"
+    # Sunday slate: 17:00 Sun -> 05:00 Mon
+    - cron: "0 17-23 * 9-12,1-2 0"
+    - cron: "0 0-5 * 9-12,1-2 1"
+    # Monday Night Football: 23:00 Mon -> 03:00 Tue
+    - cron: "0 23 * 9-12,1-2 1"
+    - cron: "0 0-3 * 9-12,1-2 2"
 
 # The job commits new snapshot files back to the repo, so it needs write access.
 permissions:
