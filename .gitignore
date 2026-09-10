@@ -39,3 +39,7 @@ data/odds_devig/   # recomputable from the committed data/odds_raw/ snapshots
 # are capture-or-lose (line movement can't be backfilled) and must be committed.
 parlay/data/*
 !parlay/data/odds_raw/
+# The built warehouse ships with the Vercel deploy so /api/board serves real
+# data instead of falling back to sample data -- rebuild + recommit after
+# each new odds snapshot with: python parlay/pipeline/devig_odds.py
+!parlay/data/nfl_data.duckdb
