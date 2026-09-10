@@ -1,0 +1,582 @@
+{
+  "id": "ed6d24ff979f9c71979fead577b0b3f7",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-13T17:00:00Z",
+  "home_team": "Cincinnati Bengals",
+  "away_team": "Tampa Bay Buccaneers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-10T00:32:22Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -198
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 164
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-10T00:32:22Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -112,
+              "point": -3.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -108,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-10T00:32:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-10T00:33:14Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -200
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 168
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-10T00:33:14Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -115,
+              "point": -3.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -105,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-10T00:33:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-10T00:32:46Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -200
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 174
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-10T00:32:46Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": 100,
+              "point": -4.0
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -110,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-10T00:32:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-10T00:32:47Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -200
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-10T00:32:47Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-10T00:32:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-10T00:32:47Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -200
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 174
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-10T00:32:47Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -105,
+              "point": -4.0
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -115,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-10T00:32:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-10T00:32:48Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -210
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-10T00:32:48Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -107,
+              "point": -4.0
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -114,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-10T00:32:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-10T00:32:47Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -205
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-10T00:32:47Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -115,
+              "point": -3.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -105,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-10T00:32:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-10T00:31:16Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -205
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 171
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-10T00:31:16Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -112,
+              "point": -3.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -108,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-10T00:31:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -106,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -114,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-10T00:32:48Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -200
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 165
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-10T00:32:48Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -108,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-10T00:32:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-10T00:31:36Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -210
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 175
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-10T00:31:36Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -105,
+              "point": -4.0
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -115,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-10T00:31:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-10T00:31:58Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -212
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 163
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-10T00:31:58Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -110,
+              "point": -4.0
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -110,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-10T00:31:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
