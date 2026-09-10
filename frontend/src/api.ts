@@ -33,6 +33,7 @@ export interface Board {
 }
 
 export interface GameLineRow {
+  id: string;
   event_id: string;
   commence_time: string;
   home_team: string;
@@ -46,6 +47,7 @@ export interface GameLineRow {
   fair_price: number | null;
   consensus_prob: number | null;
   edge_pct: number;
+  priceable: boolean;
 }
 
 export interface GameLines {
@@ -56,20 +58,41 @@ export interface GameLines {
 }
 
 export interface Leg {
-  player: string;
+  player?: string | null;
   market: string;
-  line: number;
-  side: "over" | "under";
-  team: string | null;
-  home: boolean;
+  line?: number | null;
+  side: string;
+  team?: string | null;
+  home?: boolean;
+  home_team?: string | null;
+  away_team?: string | null;
 }
 
 export interface LegProb {
-  player: string;
+  player: string | null;
   market: string;
-  line: number;
-  side: "over" | "under";
+  line: number | null;
+  side: string;
+  team: string | null;
   prob: number;
+}
+
+// A slip can mix player-prop rows (from the Edge Board) and game-line rows
+// (from the Game Lines tab) -- tagged so the builder knows how to render
+// each and how to shape it into a Leg for /api/price.
+export type SlipLeg =
+  | ({ kind: "prop" } & BoardRow)
+  | ({ kind: "game_line" } & GameLineRow);
+
+export function slipLegToApiLeg(l: SlipLeg): Leg {
+  if (l.kind === "prop") {
+    return { player: l.player, market: l.market, line: l.line, side: l.side, team: l.team, home: l.home ?? true };
+  }
+  const team = l.market === "totals" ? null : l.side;
+  return {
+    market: l.market, line: l.line, side: l.market === "totals" ? l.side.toLowerCase() : "over",
+    team, home_team: l.home_team, away_team: l.away_team,
+  };
 }
 
 export interface PriceResult {

@@ -78,7 +78,11 @@ def _board_from_warehouse():
                 "market": market,
                 "market_label": MARKET_LABELS.get(market, market),
                 "line": line,
-                "side": side,
+                # Raw side from the odds API is title-case ("Over"/"Under");
+                # normalize once here so the frontend's "over"/"under" checks
+                # and the pricer's leg resolution (which also compares against
+                # lowercase) both work against live data, not just sample data.
+                "side": side.lower() if side else side,
                 "book": book,
                 "price": int(price) if price is not None else None,
                 "fair_price": int(fair_price) if fair_price is not None else None,

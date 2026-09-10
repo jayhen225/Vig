@@ -1,5 +1,6 @@
 import { useMemo } from "react";
 import { GameLineRow, GameLines, fmtAmerican } from "../api";
+import { Plus } from "./icons";
 
 const cols = "1.8fr 1.4fr 1.4fr 1.4fr";
 
@@ -34,27 +35,65 @@ function groupByGame(rows: GameLineRow[]): GameGroup[] {
   return [...games.values()].sort((a, b) => a.commence_time.localeCompare(b.commence_time));
 }
 
-function Cell({ row }: { row?: GameLineRow }) {
+function Cell({
+  row,
+  inSlip,
+  onAdd,
+}: {
+  row?: GameLineRow;
+  inSlip: (id: string) => boolean;
+  onAdd: (row: GameLineRow) => void;
+}) {
   if (!row) return <span style={{ color: "var(--faint)" }}>—</span>;
   const pos = row.edge_pct >= 0;
+  const added = inSlip(row.id);
   return (
-    <div style={{ display: "flex", flexDirection: "column", gap: 2 }}>
-      <span className="mono" style={{ fontSize: 13 }}>
-        {row.line != null ? `${row.line > 0 ? "+" : ""}${row.line} ` : ""}
-        {fmtAmerican(row.price)}
-      </span>
-      <span
-        className="mono"
-        style={{ fontSize: 11, color: pos ? "var(--green)" : "var(--neg)" }}
+    <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+      <div style={{ display: "flex", flexDirection: "column", gap: 2 }}>
+        <span className="mono" style={{ fontSize: 13 }}>
+          {row.line != null ? `${row.line > 0 ? "+" : ""}${row.line} ` : ""}
+          {fmtAmerican(row.price)}
+        </span>
+        <span
+          className="mono"
+          style={{ fontSize: 11, color: pos ? "var(--green)" : "var(--neg)" }}
+        >
+          {pos ? "+" : ""}
+          {row.edge_pct}% · {row.book ?? "—"}
+        </span>
+      </div>
+      <button
+        className="addbtn"
+        onClick={() => onAdd(row)}
+        disabled={!row.priceable || added}
+        title={added ? "In slip" : "Add to slip"}
+        style={{
+          display: "inline-flex",
+          width: 24,
+          height: 24,
+          borderRadius: 7,
+          background: added ? "var(--green)" : "transparent",
+          border: added ? "none" : "1px solid var(--border)",
+          alignItems: "center",
+          justifyContent: "center",
+          flexShrink: 0,
+        }}
       >
-        {pos ? "+" : ""}
-        {row.edge_pct}% · {row.book ?? "—"}
-      </span>
+        <Plus stroke={added ? "#08130c" : "#35e08a"} />
+      </button>
     </div>
   );
 }
 
-export default function Lines({ data }: { data: GameLines }) {
+export default function Lines({
+  data,
+  inSlip,
+  onAdd,
+}: {
+  data: GameLines;
+  inSlip: (id: string) => boolean;
+  onAdd: (row: GameLineRow) => void;
+}) {
   const games = useMemo(() => groupByGame(data.rows), [data.rows]);
 
   return (
@@ -103,16 +142,16 @@ export default function Lines({ data }: { data: GameLines }) {
                 <span style={{ fontWeight: 500, fontSize: 14 }}>@ {g.home_team}</span>
               </div>
               <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-                <Cell row={g.h2h[g.away_team]} />
-                <Cell row={g.h2h[g.home_team]} />
+                <Cell row={g.h2h[g.away_team]} inSlip={inSlip} onAdd={onAdd} />
+                <Cell row={g.h2h[g.home_team]} inSlip={inSlip} onAdd={onAdd} />
               </div>
               <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-                <Cell row={g.spreads[g.away_team]} />
-                <Cell row={g.spreads[g.home_team]} />
+                <Cell row={g.spreads[g.away_team]} inSlip={inSlip} onAdd={onAdd} />
+                <Cell row={g.spreads[g.home_team]} inSlip={inSlip} onAdd={onAdd} />
               </div>
               <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-                <Cell row={g.totals["Over"]} />
-                <Cell row={g.totals["Under"]} />
+                <Cell row={g.totals["Over"]} inSlip={inSlip} onAdd={onAdd} />
+                <Cell row={g.totals["Under"]} inSlip={inSlip} onAdd={onAdd} />
               </div>
             </div>
           ))}

@@ -19,7 +19,15 @@ from pydantic import BaseModel, Field
 from parlay.api import board as board_service
 from parlay.api import lines as lines_service
 from parlay.api import pricing as pricing_service
-from parlay.api.sample_data import MARKET_LABELS, PRICEABLE_MARKETS
+from parlay.api.sample_data import (
+    GAME_LINE_MARKETS,
+    LINE_MARKET_LABELS,
+    MARKET_LABELS,
+    PRICEABLE_MARKETS,
+)
+
+ALL_PRICEABLE_MARKETS = PRICEABLE_MARKETS | GAME_LINE_MARKETS
+ALL_MARKET_LABELS = {**MARKET_LABELS, **LINE_MARKET_LABELS}
 
 app = FastAPI(title="Vig API", version="0.1.0")
 
@@ -33,12 +41,20 @@ app.add_middleware(
 
 
 class Leg(BaseModel):
-    player: str
-    market: str = Field(..., description="e.g. player_pass_yds")
-    line: float
-    side: str = Field("over", pattern="^(over|under)$")
+    # Player-prop legs (player_pass_yds/player_rush_yds/player_reception_yds):
+    # player, market, line, side ("over"/"under"), team required.
+    #
+    # Game-line legs (h2h/spreads/totals): market, home_team, away_team, team
+    # (which of the two this leg backs) required; line is null for h2h;
+    # side is "over"/"under" for totals, ignored otherwise. player is unused.
+    player: str | None = None
+    market: str = Field(..., description="e.g. player_pass_yds, h2h, spreads, totals")
+    line: float | None = None
+    side: str = "over"
     team: str | None = None
     home: bool = True
+    home_team: str | None = None
+    away_team: str | None = None
 
 
 class PriceRequest(BaseModel):
@@ -51,7 +67,7 @@ def health():
     return {
         "ok": True,
         "models": pricing_service._real_state,  # ready | unavailable
-        "priceable_markets": sorted(PRICEABLE_MARKETS),
+        "priceable_markets": sorted(ALL_PRICEABLE_MARKETS),
     }
 
 
@@ -67,17 +83,17 @@ def lines():
 
 @app.post("/api/price")
 def price(req: PriceRequest):
-    unsupported = [leg.market for leg in req.legs if leg.market not in PRICEABLE_MARKETS]
+    unsupported = [leg.market for leg in req.legs if leg.market not in ALL_PRICEABLE_MARKETS]
     if unsupported:
         return {
             "error": "unsupported_market",
-            "message": "The pricer only supports pass/rush/reception yards.",
+            "message": "The pricer only supports pass/rush/reception yards, moneyline, spread, and total.",
             "unsupported": sorted(set(unsupported)),
-            "priceable_markets": sorted(PRICEABLE_MARKETS),
+            "priceable_markets": sorted(ALL_PRICEABLE_MARKETS),
         }
     legs = [leg.model_dump() for leg in req.legs]
     result = pricing_service.price_parlay(legs)
-    result["market_labels"] = {m: MARKET_LABELS[m] for m in {leg["market"] for leg in legs}}
+    result["market_labels"] = {m: ALL_MARKET_LABELS[m] for m in {leg["market"] for leg in legs}}
     return result
 
 

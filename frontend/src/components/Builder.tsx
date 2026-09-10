@@ -1,46 +1,66 @@
 import { useState } from "react";
-import { BoardRow, PriceError, PriceResult, fmtAmerican, fmtPct, priceParlay } from "../api";
+import { PriceError, PriceResult, SlipLeg, fmtAmerican, fmtPct, priceParlay, slipLegToApiLeg } from "../api";
 import { Close, Plus } from "./icons";
+import Tracker, { useTracker } from "./Tracker";
 
 const decProfit = (a: number) => (a > 0 ? a / 100 : 100 / -a);
+const decimalOdds = (a: number) => 1 + decProfit(a);
+const decimalToAmerican = (d: number) => (d >= 2 ? Math.round((d - 1) * 100) : Math.round(-100 / (d - 1)));
 const isError = (r: PriceResult | PriceError | null): r is PriceError =>
   !!r && "error" in r;
+
+function gameKey(l: SlipLeg): string | null {
+  return l.kind === "prop" ? (l.opponent ?? l.team) : `${l.home_team} @ ${l.away_team}`;
+}
+
+function legLabel(l: SlipLeg): string {
+  if (l.kind === "prop") return `${l.player} ${l.side === "over" ? "Over" : "Under"} ${l.line} ${l.market_label}`;
+  if (l.market === "totals") return `${l.home_team} @ ${l.away_team} ${l.side} ${l.line}`;
+  const linePart = l.line != null ? ` ${l.line > 0 ? "+" : ""}${l.line}` : "";
+  return `${l.side}${linePart} ${l.market_label}`;
+}
 
 export default function Builder({
   slip,
   onRemove,
   onGoBoard,
 }: {
-  slip: BoardRow[];
+  slip: SlipLeg[];
   onRemove: (id: string) => void;
   onGoBoard: () => void;
 }) {
   const [result, setResult] = useState<PriceResult | PriceError | null>(null);
   const [loading, setLoading] = useState(false);
+  const [stake, setStake] = useState(100);
+  const tracker = useTracker();
 
-  const sameGame =
-    slip.length > 1 &&
-    new Set(slip.map((l) => l.opponent ?? l.team)).size === 1 &&
-    slip[0].opponent;
+  const sameGame = slip.length > 1 && new Set(slip.map(gameKey)).size === 1 && gameKey(slip[0]);
+
+  const legPrices = slip.map((l) => l.price).filter((p): p is number => p != null);
+  const combinedDecimal = legPrices.length ? legPrices.reduce((acc, p) => acc * decimalOdds(p), 1) : null;
+  const combinedAmerican = combinedDecimal != null && combinedDecimal > 1 ? decimalToAmerican(combinedDecimal) : null;
+  const payout = combinedDecimal != null ? Math.round(stake * combinedDecimal) : null;
 
   async function price() {
     if (slip.length === 0) return;
     setLoading(true);
     try {
-      const r = await priceParlay(
-        slip.map((l) => ({
-          player: l.player,
-          market: l.market,
-          line: l.line,
-          side: l.side,
-          team: l.team,
-          home: l.home ?? true,
-        })),
-      );
+      const r = await priceParlay(slip.map(slipLegToApiLeg));
       setResult(r);
     } finally {
       setLoading(false);
     }
+  }
+
+  function saveToTracker() {
+    if (!result || isError(result)) return;
+    tracker.add({
+      stake,
+      legLabels: slip.map(legLabel),
+      combinedPrice: combinedAmerican,
+      fairPrice: result.fair_price,
+      edgePct: Math.round(result.correlation_edge * 1000) / 10,
+    });
   }
 
   return (
@@ -70,9 +90,13 @@ export default function Builder({
             <div key={l.id} style={{ border: "1px solid var(--border)", borderRadius: 12, padding: 16 }}>
               <div style={{ display: "flex", alignItems: "flex-start", justifyContent: "space-between" }}>
                 <div>
-                  <div style={{ fontWeight: 500, fontSize: 15 }}>{l.player}</div>
+                  <div style={{ fontWeight: 500, fontSize: 15 }}>
+                    {l.kind === "prop" ? l.player : `${l.away_team} @ ${l.home_team}`}
+                  </div>
                   <div className="mono" style={{ color: "var(--faint)", fontSize: 11.5, marginTop: 3 }}>
-                    {[l.team, l.position, l.opponent].filter(Boolean).join(" · ")}
+                    {l.kind === "prop"
+                      ? [l.team, l.position, l.opponent].filter(Boolean).join(" · ")
+                      : l.market_label}
                   </div>
                 </div>
                 <button className="leg-x" onClick={() => onRemove(l.id)} aria-label="remove leg">
@@ -84,9 +108,11 @@ export default function Builder({
                   className="mono"
                   style={{ padding: "5px 11px", borderRadius: 7, background: "var(--greenSoft)", color: "var(--green)", fontSize: 12.5 }}
                 >
-                  {l.side.toUpperCase()} {l.line}
+                  {l.kind === "prop"
+                    ? `${l.side.toUpperCase()} ${l.line}`
+                    : `${l.side}${l.line != null ? ` ${l.line > 0 ? "+" : ""}${l.line}` : ""}`}
                 </span>
-                <span style={{ color: "var(--muted)", fontSize: 12.5 }}>{l.market_label}</span>
+                {l.kind === "prop" && <span style={{ color: "var(--muted)", fontSize: 12.5 }}>{l.market_label}</span>}
                 <span style={{ flexGrow: 1 }} />
                 <span className="mono" style={{ fontSize: 13, color: "var(--muted)" }}>
                   {fmtAmerican(l.price)}
@@ -112,6 +138,34 @@ export default function Builder({
           </button>
         </div>
 
+        {/* Combined-odds calculator -- always available, independent of correlation pricing */}
+        <div style={{ padding: "0 26px 18px", borderTop: "1px solid var(--hair)", paddingTop: 18 }}>
+          <div style={{ fontSize: 12, color: "var(--faint)", textTransform: "uppercase", letterSpacing: "0.7px", marginBottom: 10 }}>
+            Calculator
+          </div>
+          <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+            <span style={{ color: "var(--muted)", fontSize: 13 }}>Stake</span>
+            <div style={{ display: "flex", alignItems: "center", border: "1px solid var(--border)", borderRadius: 8, padding: "6px 10px" }}>
+              <span className="mono" style={{ color: "var(--faint)", fontSize: 13 }}>$</span>
+              <input
+                type="number"
+                value={stake}
+                onChange={(e) => setStake(Math.max(0, Number(e.target.value) || 0))}
+                className="mono"
+                style={{ border: "none", outline: "none", background: "transparent", color: "var(--text)", fontSize: 13, width: 70 }}
+              />
+            </div>
+            <span style={{ flexGrow: 1 }} />
+            <span className="mono" style={{ fontSize: 13, color: "var(--muted)" }}>{fmtAmerican(combinedAmerican)}</span>
+          </div>
+          <div style={{ marginTop: 8, fontSize: 13, color: "var(--muted)" }}>
+            Payout{" "}
+            <b className="mono" style={{ color: "var(--text)" }}>
+              {payout != null ? `$${payout}` : "—"}
+            </b>
+          </div>
+        </div>
+
         <div style={{ padding: "22px 26px" }}>
           <button
             className="pricebtn"
@@ -132,11 +186,12 @@ export default function Builder({
         </div>
       </div>
 
-      {/* Analysis */}
+      {/* Analysis + Tracker */}
       <div style={{ flexGrow: 1, padding: "44px 48px", display: "flex", flexDirection: "column", overflowY: "auto" }}>
         {!result && <Empty />}
         {isError(result) && <Unsupported err={result} />}
-        {result && !isError(result) && <Analysis r={result} />}
+        {result && !isError(result) && <Analysis r={result} onSave={saveToTracker} />}
+        <Tracker parlays={tracker.parlays} onSetStatus={tracker.setStatus} onRemove={tracker.remove} />
       </div>
     </div>
   );
@@ -164,7 +219,7 @@ function Unsupported({ err }: { err: PriceError }) {
   );
 }
 
-function Analysis({ r }: { r: PriceResult }) {
+function Analysis({ r, onSave }: { r: PriceResult; onSave: () => void }) {
   const edgePts = (r.correlation_edge * 100).toFixed(1);
   const positive = r.correlation_edge >= 0;
   const stake = 100;
@@ -191,8 +246,22 @@ function Analysis({ r }: { r: PriceResult }) {
         </div>
       )}
 
-      <div style={{ fontSize: 13, color: "var(--faint)", textTransform: "uppercase", letterSpacing: "0.9px" }}>
-        Correlation edge
+      <div style={{ display: "flex", alignItems: "flex-start", justifyContent: "space-between" }}>
+        <div style={{ fontSize: 13, color: "var(--faint)", textTransform: "uppercase", letterSpacing: "0.9px" }}>
+          Correlation edge
+        </div>
+        <button
+          onClick={onSave}
+          style={{
+            padding: "7px 14px",
+            borderRadius: 8,
+            border: "1px solid var(--border)",
+            color: "var(--muted)",
+            fontSize: 12.5,
+          }}
+        >
+          Save to tracker
+        </button>
       </div>
       <div style={{ display: "flex", alignItems: "baseline", gap: 18, marginTop: 10 }}>
         <div
@@ -261,7 +330,8 @@ function Analysis({ r }: { r: PriceResult }) {
             }}
           >
             <span style={{ fontSize: 14 }}>
-              {leg.player} {leg.side === "over" ? "Over" : "Under"} {leg.line}
+              {leg.player ?? leg.team ?? leg.market} {leg.side === "over" ? "Over" : leg.side === "under" ? "Under" : ""}{" "}
+              {leg.line ?? ""}
             </span>
             <span className="mono" style={{ textAlign: "right", fontSize: 14 }}>
               {fmtPct(leg.prob)}

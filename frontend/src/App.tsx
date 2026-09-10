@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Board as BoardData, BoardRow, GameLines, getBoard, getLines } from "./api";
+import { Board as BoardData, BoardRow, GameLineRow, GameLines, SlipLeg, getBoard, getLines } from "./api";
 import Board from "./components/Board";
 import Builder from "./components/Builder";
 import Lines from "./components/Lines";
@@ -13,7 +13,7 @@ export default function App() {
   const [lines, setLines] = useState<GameLines | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [linesError, setLinesError] = useState<string | null>(null);
-  const [slip, setSlip] = useState<BoardRow[]>([]);
+  const [slip, setSlip] = useState<SlipLeg[]>([]);
 
   useEffect(() => {
     getBoard().then(setBoard).catch((e) => setError(String(e)));
@@ -21,7 +21,8 @@ export default function App() {
   }, []);
 
   const inSlip = (id: string) => slip.some((l) => l.id === id);
-  const addLeg = (row: BoardRow) => setSlip((s) => (inSlip(row.id) ? s : [...s, row]));
+  const addLeg = (row: BoardRow) => setSlip((s) => (inSlip(row.id) ? s : [...s, { kind: "prop", ...row }]));
+  const addLine = (row: GameLineRow) => setSlip((s) => (inSlip(row.id) ? s : [...s, { kind: "game_line", ...row }]));
   const removeLeg = (id: string) => setSlip((s) => s.filter((l) => l.id !== id));
 
   const week = board?.week ? `Week ${board.week} · ${board.season}` : "This week";
@@ -74,7 +75,7 @@ export default function App() {
       {tab === "lines" && !lines && !linesError && (
         <div style={{ padding: 32, color: "var(--muted)" }}>Loading this week's lines…</div>
       )}
-      {tab === "lines" && lines && <Lines data={lines} />}
+      {tab === "lines" && lines && <Lines data={lines} inSlip={inSlip} onAdd={addLine} />}
 
       {tab === "builder" && (
         <Builder slip={slip} onRemove={removeLeg} onGoBoard={() => setTab("board")} />

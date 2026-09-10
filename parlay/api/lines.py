@@ -65,6 +65,7 @@ def _lines_from_warehouse():
         for (event_id, commence, home_team, away_team, market, line, side,
              book, price, fair_price, cons, ev) in rows:
             out.append({
+                "id": f"{event_id}-{market}-{side}-{line}".replace(" ", "-").lower(),
                 "event_id": event_id,
                 "commence_time": commence,
                 "home_team": home_team,
@@ -78,6 +79,7 @@ def _lines_from_warehouse():
                 "fair_price": int(fair_price) if fair_price is not None else None,
                 "consensus_prob": round(cons, 4) if cons is not None else None,
                 "edge_pct": round((ev or 0) * 100, 1),
+                "priceable": True,
             })
 
         games = len({r["event_id"] for r in out})

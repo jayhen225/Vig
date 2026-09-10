@@ -6,6 +6,14 @@ when they're absent we fall back to a self-contained correlated simulation that
 mirrors the real model's structure (shared per-game factor + independent noise)
 so the frontend still demonstrates the correlation edge. Fallback results are
 flagged ``source: "estimate"``.
+
+Game-line legs (h2h/spreads/totals) are only supported by the fallback pricer
+below, not the real model (parlay/core/layer5_pricer.py only models player-stat
+variance, not team scoring) -- a slip containing one always uses the fallback.
+The fallback's shared-game-factor mechanism generalizes naturally to team
+scoring: the same per-team factor that nudges a QB's passing yards up also
+nudges that team's own score, so a spread/total leg genuinely correlates with
+that game's player props in the same slip.
 """
 
 import numpy as np
@@ -20,6 +28,16 @@ _FALLBACK_CV = {
     "player_reception_yds": 0.50,
 }
 _GAME_SHARE = 0.40  # matches layer5_pricer: share of variance driven by game script
+
+_GAME_LINE_MARKETS = {"h2h", "spreads", "totals"}
+
+# Rough NFL calibration for the fallback's team-scoring model (points), just
+# like _FALLBACK_CV above is a rough calibration for player stats -- this is
+# an estimate pricer, not the trained model.
+_LEAGUE_AVG_TOTAL = 45.8  # ~2x simulator.py's LEAGUE_AVG_POINTS (22.92)
+_TEAM_FACTOR_SENS = 6.5  # points of team-score swing per 1 sd of shared game factor
+_MARGIN_NOISE_STD = 9.9  # residual noise so margin std lands near a typical ~13.5 pts
+_TOTAL_NOISE_STD = 9.2  # residual noise so total std lands near a typical ~13 pts
 
 # Cache the loaded real models so we only pay the load once per process.
 _real_models = None
@@ -46,7 +64,8 @@ def price_parlay(legs, n_sims=20000, seed=42):
 
     ``legs``: list of {player, market, line, side ('over'|'under'), team}.
     """
-    real = _load_real_models()
+    has_game_line = any(leg["market"] in _GAME_LINE_MARKETS for leg in legs)
+    real = None if has_game_line else _load_real_models()
     if real is not None:
         result = _price_with_real_model(real, legs, n_sims, seed)
         if result is not None:
@@ -73,30 +92,79 @@ def _price_with_real_model(real, legs, n_sims, seed):
     return _shape(res, legs, source="live")
 
 
+def _prop_info(leg):
+    cv = _FALLBACK_CV.get(leg["market"], 0.4)
+    std = max(1e-6, leg["line"] * cv)
+    return {
+        "kind": "prop", "line": leg["line"], "side": leg["side"], "team": leg.get("team", "?"),
+        "game_sens": std * np.sqrt(_GAME_SHARE), "indiv": std * np.sqrt(1 - _GAME_SHARE),
+        "std": std,
+    }
+
+
+def _game_line_info(leg):
+    home_team, away_team = leg["home_team"], leg["away_team"]
+    team = leg.get("team") or home_team
+    return {
+        "kind": leg["market"], "line": leg["line"], "side": leg["side"],
+        "team": team, "game": (home_team, away_team), "is_home": team == home_team,
+    }
+
+
+def _game_state(rng, home_factor, away_factor):
+    """One game's simulated margin (home - away) and total, from its two team factors."""
+    margin = (home_factor - away_factor) * _TEAM_FACTOR_SENS + rng.normal(0, _MARGIN_NOISE_STD)
+    total = _LEAGUE_AVG_TOTAL + (home_factor + away_factor) * _TEAM_FACTOR_SENS + rng.normal(0, _TOTAL_NOISE_STD)
+    return {"margin": margin, "total": total}
+
+
+def _game_line_hits(leg, state):
+    team_margin = state["margin"] if leg["is_home"] else -state["margin"]
+    if leg["kind"] == "h2h":
+        return team_margin > 0
+    if leg["kind"] == "spreads":
+        return team_margin + leg["line"] > 0
+    return _leg_hits(leg, state["total"])  # totals
+
+
 def _price_fallback(legs, n_sims, seed):
     rng = np.random.default_rng(seed)
-    info = []
-    for leg in legs:
-        cv = _FALLBACK_CV.get(leg["market"], 0.4)
-        std = max(1e-6, leg["line"] * cv)
-        info.append({
-            "line": leg["line"], "side": leg["side"], "team": leg.get("team", "?"),
-            "game_sens": std * np.sqrt(_GAME_SHARE), "indiv": std * np.sqrt(1 - _GAME_SHARE),
-            "std": std,
-        })
+    info = [_game_line_info(leg) if leg["market"] in _GAME_LINE_MARKETS else _prop_info(leg)
+            for leg in legs]
 
-    teams = {leg["team"] for leg in info}
+    prop_teams = {leg["team"] for leg in info if leg["kind"] == "prop"}
+    games = {leg["game"] for leg in info if leg["kind"] != "prop"}
+    game_teams = {t for pair in games for t in pair}
+    teams = prop_teams | game_teams
+
     hits = 0
     for _ in range(n_sims):
         factors = {t: rng.normal(0, 1) for t in teams}
-        if all(_leg_hits(leg, leg["line"] + factors[leg["team"]] * leg["game_sens"]
-                         + rng.normal(0, leg["indiv"])) for leg in info):
+        game_states = {g: _game_state(rng, factors[g[0]], factors[g[1]]) for g in games}
+
+        ok = True
+        for leg in info:
+            if leg["kind"] == "prop":
+                stat = leg["line"] + factors[leg["team"]] * leg["game_sens"] + rng.normal(0, leg["indiv"])
+                hit = _leg_hits(leg, stat)
+            else:
+                hit = _game_line_hits(leg, game_states[leg["game"]])
+            if not hit:
+                ok = False
+                break
+        if ok:
             hits += 1
     correlated = hits / n_sims
 
     indep_probs = []
     for leg in info:
-        h = sum(_leg_hits(leg, leg["line"] + rng.normal(0, leg["std"])) for _ in range(n_sims))
+        if leg["kind"] == "prop":
+            h = sum(_leg_hits(leg, leg["line"] + rng.normal(0, leg["std"])) for _ in range(n_sims))
+        else:
+            h = 0
+            for _ in range(n_sims):
+                state = _game_state(rng, rng.normal(0, 1), rng.normal(0, 1))
+                h += _game_line_hits(leg, state)
         indep_probs.append(h / n_sims)
     independent = float(np.prod(indep_probs))
 
@@ -120,8 +188,8 @@ def _shape(res, legs, source):
         "fair_price": prob_to_american(corr) if 0 < corr < 1 else None,
         "book_price": prob_to_american(indep) if 0 < indep < 1 else None,
         "individual": [
-            {"player": leg["player"], "market": leg["market"], "line": leg["line"],
-             "side": leg["side"], "prob": round(p, 4)}
+            {"player": leg.get("player"), "market": leg["market"], "line": leg["line"],
+             "side": leg["side"], "team": leg.get("team"), "prob": round(p, 4)}
             for leg, p in zip(legs, res["individual_probs"])
         ],
     }

@@ -57,6 +57,11 @@ SAMPLE_BOARD = [
 
 LINE_MARKET_LABELS = {"h2h": "Moneyline", "spreads": "Spread", "totals": "Total"}
 
+# Every game-line market is priceable: the correlation pricer resolves
+# moneyline/spread against the same shared per-team game factor as player
+# props, and totals against both teams' factors combined (see pricing.py).
+GAME_LINE_MARKETS = set(LINE_MARKET_LABELS)
+
 # One row per (game, market, side) -- the shape /api/lines returns.
 SAMPLE_LINES = [
     {"event_id": "sample-kc-bal", "commence_time": "2026-09-14T17:00:00Z",
@@ -92,8 +97,14 @@ SAMPLE_LINES = [
 ]
 
 
+def _line_id(r):
+    return f"{r['event_id']}-{r['market']}-{r['side']}-{r['line']}".replace(" ", "-").lower()
+
+
 def sample_lines():
-    rows = [{**r, "market_label": LINE_MARKET_LABELS.get(r["market"], r["market"])}
+    rows = [{**r, "id": _line_id(r),
+             "market_label": LINE_MARKET_LABELS.get(r["market"], r["market"]),
+             "priceable": True}
             for r in SAMPLE_LINES]
     games = len({r["event_id"] for r in rows})
     books = len({r["book"] for r in rows})
