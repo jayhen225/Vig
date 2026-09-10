@@ -6,22 +6,15 @@ on:
   # schedule below.
   workflow_dispatch:
 
-  # Scheduled capture during NFL game windows (times in UTC), in-season only
-  # (Sep-Feb). COMMENTED OUT on purpose -- uncomment only after a manual run
-  # confirms it works and you've checked the credit cost. Hourly by default;
-  # change the "0" minute to "0,30" or "*/15" for finer line-movement capture
-  # (burns more credits).
-  #
-  # schedule:
-  #   # Thursday Night Football: 23:00 Thu -> 03:00 Fri
-  #   - cron: "0 23 * 9-12,1-2 4"
-  #   - cron: "0 0-3 * 9-12,1-2 5"
-  #   # Sunday slate: 17:00 Sun -> 05:00 Mon
-  #   - cron: "0 17-23 * 9-12,1-2 0"
-  #   - cron: "0 0-5 * 9-12,1-2 1"
-  #   # Monday Night Football: 23:00 Mon -> 03:00 Tue
-  #   - cron: "0 23 * 9-12,1-2 1"
-  #   - cron: "0 0-3 * 9-12,1-2 2"
+  # Once a week, Thursday 18:00 UTC (~1-2pm US Eastern), in-season only
+  # (Sep-Feb) -- most books have posted that week's player props by
+  # Thursday. Kept to once/week deliberately: this endpoint costs
+  # markets x regions credits per event (6 markets x 1 region here), and a
+  # full ~16-game slate runs ~96 credits -- the free tier's 500 credits/month
+  # only covers ~5 runs, so anything more frequent (e.g. per-game-window
+  # captures for line movement) needs a paid API tier.
+  schedule:
+    - cron: "0 18 * 9-12,1-2 4"
 
 # The job commits new snapshot files back to the repo, so it needs write access.
 permissions:
@@ -43,17 +36,25 @@ jobs:
         with:
           python-version: "3.11"
 
-      # Pure standard-library script -- no pip install needed.
+      # snapshot_odds.py is pure standard library; devig_odds.py imports
+      # parlay.core.devig and needs duckdb + polars, so install the project
+      # (editable) with the pipeline extra.
+      - name: Install dependencies
+        run: pip install -e ".[pipeline]"
+
       - name: Capture odds snapshot
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python parlay/pipeline/snapshot_odds.py
 
-      - name: Commit snapshot
+      - name: Devig snapshot into the warehouse
+        run: python parlay/pipeline/devig_odds.py
+
+      - name: Commit snapshot + warehouse
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add parlay/data/odds_raw
+          git add parlay/data/odds_raw parlay/data/nfl_data.duckdb
           if git diff --staged --quiet; then
             echo "No new snapshot to commit."
           else
