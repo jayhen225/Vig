@@ -1,6 +1,6 @@
 import { Chevron, Logo } from "./icons";
 
-type Tab = "board" | "builder";
+type Tab = "board" | "lines" | "builder";
 
 export default function TopBar({
   tab,
@@ -34,6 +34,9 @@ export default function TopBar({
       <div style={{ display: "flex", alignItems: "center", gap: 28 }}>
         <button className={`tab ${tab === "board" ? "active" : ""}`} onClick={() => onTab("board")}>
           Edge Board
+        </button>
+        <button className={`tab ${tab === "lines" ? "active" : ""}`} onClick={() => onTab("lines")}>
+          Game Lines
         </button>
         <button className={`tab ${tab === "builder" ? "active" : ""}`} onClick={() => onTab("builder")}>
           Parlay Builder

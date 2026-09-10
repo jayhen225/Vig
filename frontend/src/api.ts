@@ -32,6 +32,29 @@ export interface Board {
   rows: BoardRow[];
 }
 
+export interface GameLineRow {
+  event_id: string;
+  commence_time: string;
+  home_team: string;
+  away_team: string;
+  market: "h2h" | "spreads" | "totals";
+  market_label: string;
+  line: number | null;
+  side: string;
+  book: string | null;
+  price: number | null;
+  fair_price: number | null;
+  consensus_prob: number | null;
+  edge_pct: number;
+}
+
+export interface GameLines {
+  source: "live" | "sample";
+  games: number;
+  books: number;
+  rows: GameLineRow[];
+}
+
 export interface Leg {
   player: string;
   market: string;
@@ -70,6 +93,12 @@ export interface PriceError {
 export async function getBoard(): Promise<Board> {
   const r = await fetch("/api/board");
   if (!r.ok) throw new Error(`board ${r.status}`);
+  return r.json();
+}
+
+export async function getLines(): Promise<GameLines> {
+  const r = await fetch("/api/lines");
+  if (!r.ok) throw new Error(`lines ${r.status}`);
   return r.json();
 }
 

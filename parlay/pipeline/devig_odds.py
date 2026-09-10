@@ -125,32 +125,41 @@ def _group_by(rows, keys):
     return groups
 
 
-def main():
-    snapshot = latest_snapshot()
+def run(snapshot_root=ODDS_RAW, odds_devig_dir=ODDS_DEVIG, table_name="devig_odds"):
+    """Devig the latest snapshot under ``snapshot_root`` into ``table_name``.
+
+    Shared by this script (player props) and devig_lines.py (moneyline/spread/
+    total), which just point it at a different snapshot root and table name.
+    """
+    snapshot = latest_snapshot(snapshot_root)
     if snapshot is None:
-        sys.exit(f"No snapshots in {ODDS_RAW}. Run parlay/pipeline/snapshot_odds.py first.")
+        sys.exit(f"No snapshots in {snapshot_root}. Run the matching snapshot script first.")
 
     rows = parse_snapshot(snapshot)
     if not rows:
         sys.exit(f"No outcomes parsed from {snapshot}.")
     devig_rows(rows)
 
-    ODDS_DEVIG.mkdir(parents=True, exist_ok=True)
-    out_path = ODDS_DEVIG / f"{snapshot.name}.parquet"
+    odds_devig_dir.mkdir(parents=True, exist_ok=True)
+    out_path = odds_devig_dir / f"{snapshot.name}.parquet"
     pl.DataFrame(rows).write_parquet(out_path)
     print(f"Wrote {len(rows)} rows to {out_path}")
 
     connection = duckdb.connect(WAREHOUSE)
     connection.execute(
-        f"CREATE OR REPLACE TABLE devig_odds AS "
-        f"SELECT * FROM read_parquet('{ODDS_DEVIG.as_posix()}/*.parquet')"
+        f"CREATE OR REPLACE TABLE {table_name} AS "
+        f"SELECT * FROM read_parquet('{odds_devig_dir.as_posix()}/*.parquet')"
     )
-    total = connection.execute("SELECT count(*) FROM devig_odds").fetchone()[0]
+    total = connection.execute(f"SELECT count(*) FROM {table_name}").fetchone()[0]
     positive = connection.execute(
-        "SELECT count(*) FROM devig_odds WHERE is_positive_ev"
+        f"SELECT count(*) FROM {table_name} WHERE is_positive_ev"
     ).fetchone()[0]
     connection.close()
-    print(f"devig_odds table: {total} rows across all snapshots, {positive} positive-EV.")
+    print(f"{table_name} table: {total} rows across all snapshots, {positive} positive-EV.")
+
+
+def main():
+    run()
 
 
 if __name__ == "__main__":

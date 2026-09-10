@@ -55,19 +55,29 @@ jobs:
       - name: Install dependencies
         run: pip install -e ".[pipeline]"
 
-      - name: Capture odds snapshot
+      - name: Capture player-prop odds snapshot
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python parlay/pipeline/snapshot_odds.py
 
-      - name: Devig snapshot into the warehouse
+      - name: Devig player props into the warehouse
         run: python parlay/pipeline/devig_odds.py
 
-      - name: Commit snapshot + warehouse
+      # Cheap (~1 credit/event vs. ~6 for player props), so captured every
+      # run alongside props rather than on its own schedule.
+      - name: Capture game-line odds snapshot
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python parlay/pipeline/snapshot_lines.py
+
+      - name: Devig game lines into the warehouse
+        run: python parlay/pipeline/devig_lines.py
+
+      - name: Commit snapshots + warehouse
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add parlay/data/odds_raw parlay/data/nfl_data.duckdb
+          git add parlay/data/odds_raw parlay/data/odds_raw_lines parlay/data/nfl_data.duckdb
           if git diff --staged --quiet; then
             echo "No new snapshot to commit."
           else

@@ -55,6 +55,51 @@ SAMPLE_BOARD = [
 ]
 
 
+LINE_MARKET_LABELS = {"h2h": "Moneyline", "spreads": "Spread", "totals": "Total"}
+
+# One row per (game, market, side) -- the shape /api/lines returns.
+SAMPLE_LINES = [
+    {"event_id": "sample-kc-bal", "commence_time": "2026-09-14T17:00:00Z",
+     "home_team": "Baltimore Ravens", "away_team": "Kansas City Chiefs",
+     "market": "h2h", "line": None, "side": "Kansas City Chiefs",
+     "book": "DraftKings", "price": 124, "fair_price": 130,
+     "consensus_prob": 0.435, "edge_pct": 2.6},
+    {"event_id": "sample-kc-bal", "commence_time": "2026-09-14T17:00:00Z",
+     "home_team": "Baltimore Ravens", "away_team": "Kansas City Chiefs",
+     "market": "h2h", "line": None, "side": "Baltimore Ravens",
+     "book": "FanDuel", "price": -142, "fair_price": -150,
+     "consensus_prob": 0.596, "edge_pct": 1.9},
+    {"event_id": "sample-kc-bal", "commence_time": "2026-09-14T17:00:00Z",
+     "home_team": "Baltimore Ravens", "away_team": "Kansas City Chiefs",
+     "market": "spreads", "line": 3.0, "side": "Baltimore Ravens",
+     "book": "BetMGM", "price": -108, "fair_price": -112,
+     "consensus_prob": 0.522, "edge_pct": 1.1},
+    {"event_id": "sample-kc-bal", "commence_time": "2026-09-14T17:00:00Z",
+     "home_team": "Baltimore Ravens", "away_team": "Kansas City Chiefs",
+     "market": "spreads", "line": -3.0, "side": "Kansas City Chiefs",
+     "book": "Caesars", "price": -105, "fair_price": -112,
+     "consensus_prob": 0.522, "edge_pct": 2.2},
+    {"event_id": "sample-kc-bal", "commence_time": "2026-09-14T17:00:00Z",
+     "home_team": "Baltimore Ravens", "away_team": "Kansas City Chiefs",
+     "market": "totals", "line": 47.5, "side": "Over",
+     "book": "DraftKings", "price": -108, "fair_price": -110,
+     "consensus_prob": 0.524, "edge_pct": 0.6},
+    {"event_id": "sample-kc-bal", "commence_time": "2026-09-14T17:00:00Z",
+     "home_team": "Baltimore Ravens", "away_team": "Kansas City Chiefs",
+     "market": "totals", "line": 47.5, "side": "Under",
+     "book": "BetMGM", "price": -105, "fair_price": -110,
+     "consensus_prob": 0.524, "edge_pct": 1.7},
+]
+
+
+def sample_lines():
+    rows = [{**r, "market_label": LINE_MARKET_LABELS.get(r["market"], r["market"])}
+            for r in SAMPLE_LINES]
+    games = len({r["event_id"] for r in rows})
+    books = len({r["book"] for r in rows})
+    return {"source": "sample", "games": games, "books": books, "rows": rows}
+
+
 def sample_board():
     ev = [r for r in SAMPLE_BOARD if r["edge_pct"] > 0]
     avg = round(sum(r["edge_pct"] for r in ev) / len(ev), 1) if ev else 0.0

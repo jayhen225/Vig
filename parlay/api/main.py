@@ -17,6 +17,7 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 from parlay.api import board as board_service
+from parlay.api import lines as lines_service
 from parlay.api import pricing as pricing_service
 from parlay.api.sample_data import MARKET_LABELS, PRICEABLE_MARKETS
 
@@ -57,6 +58,11 @@ def health():
 @app.get("/api/board")
 def board():
     return board_service.get_board()
+
+
+@app.get("/api/lines")
+def lines():
+    return lines_service.get_lines()
 
 
 @app.post("/api/price")
