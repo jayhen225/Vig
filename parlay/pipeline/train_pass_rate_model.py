@@ -1,10 +1,10 @@
 from pathlib import Path
 
+import arviz as az
 import duckdb
+import numpy as np
 import polars as pl
 import pymc as pm
-import numpy as np
-import arviz as az
 
 # ──────────────────────────────────────────────
 # DATA LOADING
@@ -126,5 +126,5 @@ with pm.Model() as model:
     # ──────────────────────────────────────────────
     summary = az.summary(trace, var_names=["league_mu", "team_season_sigma", "kappa"])
     print(summary)
-    print(f"\nTeam-seasons mapped:")
+    print("\nTeam-seasons mapped:")
     print(unique_team_seasons.head(10))

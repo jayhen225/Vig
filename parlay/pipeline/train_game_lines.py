@@ -1,8 +1,8 @@
 from pathlib import Path
 
 import duckdb
-import polars as pl
 import lightgbm as lgb
+import polars as pl
 from sklearn.metrics import mean_absolute_error, root_mean_squared_error
 
 # ──────────────────────────────────────────────

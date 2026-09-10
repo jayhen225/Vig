@@ -1,9 +1,9 @@
+from pathlib import Path
+
 import arviz as az
 import duckdb
-import polars as pl
-from pathlib import Path
 import numpy as np
-
+import polars as pl
 
 trace = az.from_netcdf("data/traces/target_share_trace.nc")
 
@@ -39,6 +39,7 @@ player_draws = trace.posterior["player_mu"].values[:, :, idx].flatten()
 
 # Transform from logit scale to probability (0-1)
 from scipy.special import expit
+
 player_target_share_draws = expit(player_draws)
 
 print(f"Player: {player_name}")

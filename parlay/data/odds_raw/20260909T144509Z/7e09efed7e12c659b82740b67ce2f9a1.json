@@ -1,0 +1,2972 @@
+{
+  "id": "7e09efed7e12c659b82740b67ce2f9a1",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-13T17:00:00Z",
+  "home_team": "Houston Texans",
+  "away_team": "Buffalo Bills",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-09T14:44:58Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "David Montgomery",
+              "price": -130
+            },
+            {
+              "name": "Yes",
+              "description": "James Cook",
+              "price": -110
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Allen",
+              "price": 125
+            },
+            {
+              "name": "Yes",
+              "description": "Nico Collins",
+              "price": 160
+            },
+            {
+              "name": "Yes",
+              "description": "Woody Marks",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Moore",
+              "price": 270
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Schultz",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Khalil Shakir",
+              "price": 330
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Kincaid",
+              "price": 330
+            },
+            {
+              "name": "Yes",
+              "description": "Kayshon Boutte",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylin Noel",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Xavier Hutchinson",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Ty Johnson",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Buffalo Bills D/ST",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Ray Davis",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Houston Texans D/ST",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Dawson Knox",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Keon Coleman",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "C.J. Stroud",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Joshua Palmer",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Foster Moreau",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Jackson Hawes",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Skyler Bell",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Cade Stover",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Marlin Klein",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "British Brooks",
+              "price": 3000
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-09T14:44:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": 115,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -147,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": 145,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -187,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-09T14:44:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -112,
+              "point": 223.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -112,
+              "point": 223.5
+            },
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": -112,
+              "point": 219.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -112,
+              "point": 219.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-09T14:44:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Nico Collins",
+              "price": -113,
+              "point": 69.5
+            },
+            {
+              "name": "Under",
+              "description": "Nico Collins",
+              "price": -111,
+              "point": 69.5
+            },
+            {
+              "name": "Over",
+              "description": "DJ Moore",
+              "price": -110,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "description": "DJ Moore",
+              "price": -114,
+              "point": 47.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Kincaid",
+              "price": -112,
+              "point": 37.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Kincaid",
+              "price": -112,
+              "point": 37.5
+            },
+            {
+              "name": "Over",
+              "description": "Khalil Shakir",
+              "price": -111,
+              "point": 36.5
+            },
+            {
+              "name": "Under",
+              "description": "Khalil Shakir",
+              "price": -113,
+              "point": 36.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Schultz",
+              "price": -115,
+              "point": 33.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Schultz",
+              "price": -109,
+              "point": 33.5
+            },
+            {
+              "name": "Over",
+              "description": "Kayshon Boutte",
+              "price": -115,
+              "point": 23.5
+            },
+            {
+              "name": "Under",
+              "description": "Kayshon Boutte",
+              "price": -109,
+              "point": 23.5
+            },
+            {
+              "name": "Over",
+              "description": "Xavier Hutchinson",
+              "price": -108,
+              "point": 18.5
+            },
+            {
+              "name": "Under",
+              "description": "Xavier Hutchinson",
+              "price": -117,
+              "point": 18.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": -113,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -111,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "Dawson Knox",
+              "price": -110,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Dawson Knox",
+              "price": -114,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -119,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -105,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Woody Marks",
+              "price": -119,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Woody Marks",
+              "price": -106,
+              "point": 8.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-09T14:44:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Nico Collins",
+              "price": 103,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Nico Collins",
+              "price": -132,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Schultz",
+              "price": -136,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Schultz",
+              "price": 107,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Khalil Shakir",
+              "price": -134,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Khalil Shakir",
+              "price": 105,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "DJ Moore",
+              "price": -123,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "DJ Moore",
+              "price": -104,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Kincaid",
+              "price": 106,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Kincaid",
+              "price": -136,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": 119,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -152,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Xavier Hutchinson",
+              "price": 152,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Xavier Hutchinson",
+              "price": -195,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Kayshon Boutte",
+              "price": -165,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Kayshon Boutte",
+              "price": 129,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -124,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -102,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Dawson Knox",
+              "price": -105,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Dawson Knox",
+              "price": -121,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-09T14:44:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": -113,
+              "point": 74.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -111,
+              "point": 74.5
+            },
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -110,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -114,
+              "point": 54.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -115,
+              "point": 32.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -110,
+              "point": 32.5
+            },
+            {
+              "name": "Over",
+              "description": "Woody Marks",
+              "price": -110,
+              "point": 31.5
+            },
+            {
+              "name": "Under",
+              "description": "Woody Marks",
+              "price": -114,
+              "point": 31.5
+            },
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": -116,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -108,
+              "point": 9.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-09T14:44:36Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Foster Moreau",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "James Cook",
+              "price": -107
+            },
+            {
+              "name": "Yes",
+              "description": "British Brooks",
+              "price": 2900
+            },
+            {
+              "name": "Yes",
+              "description": "Trent Sherfield",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Khalil Shakir",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylin Noel",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "Jackson Hawes",
+              "price": 1050
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Allen",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "Nico Collins",
+              "price": 155
+            },
+            {
+              "name": "Yes",
+              "description": "Marlin Klein",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Cade Stover",
+              "price": 1800
+            },
+            {
+              "name": "Yes",
+              "description": "Keleki Latu",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Kayshon Boutte",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Dawson Knox",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Keon Coleman",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Ty Johnson",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Ray Davis",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Jared Wayne",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Woody Marks",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "David Montgomery",
+              "price": -129
+            },
+            {
+              "name": "Yes",
+              "description": "Skyler Bell",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Joshua Palmer",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Xavier Hutchinson",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Moore",
+              "price": 255
+            },
+            {
+              "name": "Yes",
+              "description": "C.J. Stroud",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Schultz",
+              "price": 275
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Kincaid",
+              "price": 290
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-09T14:44:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": 133,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -177,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": 160,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -215,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-09T14:44:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": -117,
+              "point": 214.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -114,
+              "point": 214.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -114,
+              "point": 219.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -117,
+              "point": 219.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-09T14:44:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Dalton Schultz",
+              "price": -115,
+              "point": 34.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Schultz",
+              "price": -115,
+              "point": 34.5
+            },
+            {
+              "name": "Over",
+              "description": "Kayshon Boutte",
+              "price": -114,
+              "point": 20.5
+            },
+            {
+              "name": "Under",
+              "description": "Kayshon Boutte",
+              "price": -117,
+              "point": 20.5
+            },
+            {
+              "name": "Over",
+              "description": "Woody Marks",
+              "price": -117,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "Woody Marks",
+              "price": -114,
+              "point": 9.5
+            },
+            {
+              "name": "Over",
+              "description": "Khalil Shakir",
+              "price": -115,
+              "point": 37.5
+            },
+            {
+              "name": "Under",
+              "description": "Khalil Shakir",
+              "price": -115,
+              "point": 37.5
+            },
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -124,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -108,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Nico Collins",
+              "price": -114,
+              "point": 70.5
+            },
+            {
+              "name": "Under",
+              "description": "Nico Collins",
+              "price": -117,
+              "point": 70.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Kincaid",
+              "price": -114,
+              "point": 38.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Kincaid",
+              "price": -117,
+              "point": 38.5
+            },
+            {
+              "name": "Over",
+              "description": "DJ Moore",
+              "price": -118,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "description": "DJ Moore",
+              "price": -113,
+              "point": 48.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-09T14:44:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -109,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Khalil Shakir",
+              "price": -124,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Nico Collins",
+              "price": 107,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "DJ Moore",
+              "price": -120,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Kincaid",
+              "price": 100,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Schultz",
+              "price": -134,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Kayshon Boutte",
+              "price": -143,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-09T14:44:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -118,
+              "point": 28.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -113,
+              "point": 28.5
+            },
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -115,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -115,
+              "point": 53.5
+            },
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": -112,
+              "point": 10.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -120,
+              "point": 10.5
+            },
+            {
+              "name": "Over",
+              "description": "Woody Marks",
+              "price": -115,
+              "point": 29.5
+            },
+            {
+              "name": "Under",
+              "description": "Woody Marks",
+              "price": -115,
+              "point": 29.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": -114,
+              "point": 74.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -117,
+              "point": 74.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-09T14:44:56Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "David Montgomery",
+              "price": -143
+            },
+            {
+              "name": "Yes",
+              "description": "Nico Collins",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Allen",
+              "price": 110
+            },
+            {
+              "name": "Yes",
+              "description": "Dawson Knox",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Xavier Hutchinson",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Khalil Shakir",
+              "price": 280
+            },
+            {
+              "name": "Yes",
+              "description": "C.J. Stroud",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "James Cook",
+              "price": -111
+            },
+            {
+              "name": "Yes",
+              "description": "Ray Davis",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Ty Johnson",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Kincaid",
+              "price": 270
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Schultz",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Moore",
+              "price": 260
+            },
+            {
+              "name": "Yes",
+              "description": "Woody Marks",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Keon Coleman",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Kayshon Boutte",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Joshua Palmer",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylin Noel",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Marlin Klein",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Foster Moreau",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Cade Stover",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Jackson Hawes",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "British Brooks",
+              "price": 2900
+            },
+            {
+              "name": "Yes",
+              "description": "Skyler Bell",
+              "price": 1400
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-09T14:44:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": 146,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -192,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": 124,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -161,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-09T14:44:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": -120,
+              "point": 219.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -108,
+              "point": 219.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -114,
+              "point": 224.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -114,
+              "point": 224.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-09T14:44:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "DJ Moore",
+              "price": -114,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "description": "DJ Moore",
+              "price": -114,
+              "point": 47.5
+            },
+            {
+              "name": "Over",
+              "description": "Nico Collins",
+              "price": -114,
+              "point": 69.5
+            },
+            {
+              "name": "Under",
+              "description": "Nico Collins",
+              "price": -114,
+              "point": 69.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Kincaid",
+              "price": -116,
+              "point": 37.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Kincaid",
+              "price": -111,
+              "point": 37.5
+            },
+            {
+              "name": "Over",
+              "description": "Khalil Shakir",
+              "price": -112,
+              "point": 36.5
+            },
+            {
+              "name": "Under",
+              "description": "Khalil Shakir",
+              "price": -115,
+              "point": 36.5
+            },
+            {
+              "name": "Over",
+              "description": "Woody Marks",
+              "price": -112,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "Woody Marks",
+              "price": -115,
+              "point": 9.5
+            },
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -120,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -108,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Schultz",
+              "price": -118,
+              "point": 33.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Schultz",
+              "price": -110,
+              "point": 33.5
+            },
+            {
+              "name": "Over",
+              "description": "Dawson Knox",
+              "price": -116,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Dawson Knox",
+              "price": -111,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "Xavier Hutchinson",
+              "price": -111,
+              "point": 18.5
+            },
+            {
+              "name": "Under",
+              "description": "Xavier Hutchinson",
+              "price": -116,
+              "point": 18.5
+            },
+            {
+              "name": "Over",
+              "description": "Kayshon Boutte",
+              "price": -119,
+              "point": 23.5
+            },
+            {
+              "name": "Under",
+              "description": "Kayshon Boutte",
+              "price": -109,
+              "point": 23.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": -114,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -114,
+              "point": 14.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-09T14:44:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "DJ Moore",
+              "price": -118,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "DJ Moore",
+              "price": -110,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Nico Collins",
+              "price": 110,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Nico Collins",
+              "price": -143,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Kincaid",
+              "price": -105,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Kincaid",
+              "price": -123,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Schultz",
+              "price": -130,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Schultz",
+              "price": 101,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Khalil Shakir",
+              "price": -133,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Khalil Shakir",
+              "price": 103,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Kayshon Boutte",
+              "price": -169,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Kayshon Boutte",
+              "price": 130,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -119,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -109,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Dawson Knox",
+              "price": -114,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Dawson Knox",
+              "price": -114,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Xavier Hutchinson",
+              "price": 146,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Xavier Hutchinson",
+              "price": -192,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": 120,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -156,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-09T14:44:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -116,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -111,
+              "point": 53.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": -115,
+              "point": 74.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -112,
+              "point": 74.5
+            },
+            {
+              "name": "Over",
+              "description": "Woody Marks",
+              "price": -114,
+              "point": 31.5
+            },
+            {
+              "name": "Under",
+              "description": "Woody Marks",
+              "price": -114,
+              "point": 31.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -114,
+              "point": 29.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -114,
+              "point": 29.5
+            },
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": -120,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -108,
+              "point": 9.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-09T14:44:41Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "David Montgomery",
+              "price": -125
+            },
+            {
+              "name": "Yes",
+              "description": "James Cook",
+              "price": -110
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Allen",
+              "price": 115
+            },
+            {
+              "name": "Yes",
+              "description": "Nico Collins",
+              "price": 160
+            },
+            {
+              "name": "Yes",
+              "description": "Woody Marks",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Moore",
+              "price": 270
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Schultz",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Kincaid",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Khalil Shakir",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Xavier Hutchinson",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Kayshon Boutte",
+              "price": 390
+            },
+            {
+              "name": "Yes",
+              "description": "Ray Davis",
+              "price": 470
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylin Noel",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Dawson Knox",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Keon Coleman",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Houston Texans Defense",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Buffalo Bills Defense",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "C.J. Stroud",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Joshua Palmer",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Foster Moreau",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Jackson Hawes",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Skyler Bell",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Marlin Klein",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Cade Stover",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "British Brooks",
+              "price": 3000
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-09T14:44:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": 122,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -162,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": 148,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -200,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-09T14:44:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": -114,
+              "point": 218.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -114,
+              "point": 218.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -114,
+              "point": 220.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -114,
+              "point": 220.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-09T14:44:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Khalil Shakir",
+              "price": -114,
+              "point": 36.5
+            },
+            {
+              "name": "Under",
+              "description": "Khalil Shakir",
+              "price": -114,
+              "point": 36.5
+            },
+            {
+              "name": "Over",
+              "description": "Xavier Hutchinson",
+              "price": -114,
+              "point": 19.5
+            },
+            {
+              "name": "Under",
+              "description": "Xavier Hutchinson",
+              "price": -114,
+              "point": 19.5
+            },
+            {
+              "name": "Over",
+              "description": "Dawson Knox",
+              "price": -114,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Dawson Knox",
+              "price": -114,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -114,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -114,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Woody Marks",
+              "price": -114,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "Woody Marks",
+              "price": -114,
+              "point": 9.5
+            },
+            {
+              "name": "Over",
+              "description": "Nico Collins",
+              "price": -114,
+              "point": 69.5
+            },
+            {
+              "name": "Under",
+              "description": "Nico Collins",
+              "price": -114,
+              "point": 69.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Kincaid",
+              "price": -114,
+              "point": 38.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Kincaid",
+              "price": -114,
+              "point": 38.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Schultz",
+              "price": -114,
+              "point": 32.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Schultz",
+              "price": -114,
+              "point": 32.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": -114,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -114,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "DJ Moore",
+              "price": -114,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "description": "DJ Moore",
+              "price": -114,
+              "point": 47.5
+            },
+            {
+              "name": "Over",
+              "description": "Kayshon Boutte",
+              "price": -114,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Kayshon Boutte",
+              "price": -114,
+              "point": 24.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-09T14:44:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Dalton Kincaid",
+              "price": -102,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Kincaid",
+              "price": -130,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "DJ Moore",
+              "price": -130,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "DJ Moore",
+              "price": -102,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Xavier Hutchinson",
+              "price": 134,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Xavier Hutchinson",
+              "price": -180,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -122,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -108,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Khalil Shakir",
+              "price": -130,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Khalil Shakir",
+              "price": -102,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Nico Collins",
+              "price": 102,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Nico Collins",
+              "price": -136,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Schultz",
+              "price": -130,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Schultz",
+              "price": -102,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": 124,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -166,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Dawson Knox",
+              "price": -114,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Dawson Knox",
+              "price": -114,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Kayshon Boutte",
+              "price": -172,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Kayshon Boutte",
+              "price": 128,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-09T14:44:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": -114,
+              "point": 10.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -114,
+              "point": 10.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": -114,
+              "point": 74.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -114,
+              "point": 74.5
+            },
+            {
+              "name": "Over",
+              "description": "Woody Marks",
+              "price": -114,
+              "point": 29.5
+            },
+            {
+              "name": "Under",
+              "description": "Woody Marks",
+              "price": -114,
+              "point": 29.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -114,
+              "point": 30.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -114,
+              "point": 30.5
+            },
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -114,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -114,
+              "point": 53.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-09T14:44:16Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Foster Moreau",
+              "price": 1050
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylin Noel",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Schultz",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Allen",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "Marlin Klein",
+              "price": 825
+            },
+            {
+              "name": "Yes",
+              "description": "British Brooks",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "Nico Collins",
+              "price": 140
+            },
+            {
+              "name": "Yes",
+              "description": "Jackson Hawes",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Keon Coleman",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Xavier Hutchinson",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Kincaid",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Skyler Bell",
+              "price": 1650
+            },
+            {
+              "name": "Yes",
+              "description": "Houston Texans D/ST",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Moore",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Dawson Knox",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Cade Stover",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Khalil Shakir",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Kayshon Boutte",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Buffalo Bills D/ST",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "James Cook",
+              "price": -105
+            },
+            {
+              "name": "Yes",
+              "description": "Joshua Palmer",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "C.J. Stroud",
+              "price": 625
+            },
+            {
+              "name": "Yes",
+              "description": "Woody Marks",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "David Montgomery",
+              "price": -110
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-09T14:44:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": 115,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -155,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": 125,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -165,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-09T14:44:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": -115,
+              "point": 227.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -115,
+              "point": 227.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -115,
+              "point": 216.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -115,
+              "point": 216.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-09T14:44:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -115,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -115,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Nico Collins",
+              "price": -115,
+              "point": 71.5
+            },
+            {
+              "name": "Under",
+              "description": "Nico Collins",
+              "price": -115,
+              "point": 71.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": -111,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -118,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Kincaid",
+              "price": -115,
+              "point": 35.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Kincaid",
+              "price": -115,
+              "point": 35.5
+            },
+            {
+              "name": "Over",
+              "description": "Dawson Knox",
+              "price": -111,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Dawson Knox",
+              "price": -120,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "DJ Moore",
+              "price": -115,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "description": "DJ Moore",
+              "price": -115,
+              "point": 44.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Schultz",
+              "price": -115,
+              "point": 35.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Schultz",
+              "price": -115,
+              "point": 35.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-09T14:44:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -105,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -125,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Schultz",
+              "price": -115,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Schultz",
+              "price": -115,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Nico Collins",
+              "price": -115,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Nico Collins",
+              "price": -115,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": 130,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -175,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Kincaid",
+              "price": 100,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Kincaid",
+              "price": -135,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Dawson Knox",
+              "price": -130,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Dawson Knox",
+              "price": -105,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "DJ Moore",
+              "price": -125,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "DJ Moore",
+              "price": -105,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-09T14:44:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -120,
+              "point": 31.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -111,
+              "point": 31.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": -115,
+              "point": 72.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -115,
+              "point": 72.5
+            },
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": -110,
+              "point": 10.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -120,
+              "point": 10.5
+            },
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -120,
+              "point": 55.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -111,
+              "point": 55.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-09T14:43:31Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Cade Stover",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Skyler Bell",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Jackson Hawes",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Marlin Klein",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "British Brooks",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Foster Moreau",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Kayshon Boutte",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "David Montgomery",
+              "price": -132
+            },
+            {
+              "name": "Yes",
+              "description": "Joshua Palmer",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Khalil Shakir",
+              "price": 330
+            },
+            {
+              "name": "Yes",
+              "description": "Buffalo Bills D/ST",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Woody Marks",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "James Cook",
+              "price": -114
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Kincaid",
+              "price": 330
+            },
+            {
+              "name": "Yes",
+              "description": "Keon Coleman",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Nico Collins",
+              "price": 160
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Schultz",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "C.J. Stroud",
+              "price": 825
+            },
+            {
+              "name": "Yes",
+              "description": "Xavier Hutchinson",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Ray Davis",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Allen",
+              "price": 125
+            },
+            {
+              "name": "Yes",
+              "description": "Houston Texans D/ST",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Ty Johnson",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Dawson Knox",
+              "price": 625
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Moore",
+              "price": 270
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylin Noel",
+              "price": 500
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-09T14:43:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": 115,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -150,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": 145,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -190,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-09T14:43:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": -115,
+              "point": 219.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -115,
+              "point": 219.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -115,
+              "point": 223.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -115,
+              "point": 223.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-09T14:43:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "DJ Moore",
+              "price": -115,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "description": "DJ Moore",
+              "price": -115,
+              "point": 47.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Kincaid",
+              "price": -115,
+              "point": 37.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Kincaid",
+              "price": -115,
+              "point": 37.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Schultz",
+              "price": -120,
+              "point": 33.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Schultz",
+              "price": -110,
+              "point": 33.5
+            },
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -120,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -110,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Dawson Knox",
+              "price": -115,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Dawson Knox",
+              "price": -115,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": -115,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -115,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "Kayshon Boutte",
+              "price": -120,
+              "point": 23.5
+            },
+            {
+              "name": "Under",
+              "description": "Kayshon Boutte",
+              "price": -110,
+              "point": 23.5
+            },
+            {
+              "name": "Over",
+              "description": "Khalil Shakir",
+              "price": -115,
+              "point": 36.5
+            },
+            {
+              "name": "Under",
+              "description": "Khalil Shakir",
+              "price": -115,
+              "point": 36.5
+            },
+            {
+              "name": "Over",
+              "description": "Nico Collins",
+              "price": -115,
+              "point": 69.5
+            },
+            {
+              "name": "Under",
+              "description": "Nico Collins",
+              "price": -115,
+              "point": 69.5
+            },
+            {
+              "name": "Over",
+              "description": "Woody Marks",
+              "price": -120,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Woody Marks",
+              "price": -110,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Xavier Hutchinson",
+              "price": -110,
+              "point": 18.5
+            },
+            {
+              "name": "Under",
+              "description": "Xavier Hutchinson",
+              "price": -120,
+              "point": 18.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-09T14:43:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "DJ Moore",
+              "price": -125,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "DJ Moore",
+              "price": -105,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Kincaid",
+              "price": 105,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Kincaid",
+              "price": -135,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Dalton Schultz",
+              "price": -135,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Dalton Schultz",
+              "price": 105,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -125,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -105,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Dawson Knox",
+              "price": -105,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Dawson Knox",
+              "price": -125,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": 120,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -160,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Kayshon Boutte",
+              "price": -170,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Kayshon Boutte",
+              "price": 130,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Khalil Shakir",
+              "price": -135,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Khalil Shakir",
+              "price": 105,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Nico Collins",
+              "price": 105,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Nico Collins",
+              "price": -135,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Xavier Hutchinson",
+              "price": 150,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Xavier Hutchinson",
+              "price": -200,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-09T14:43:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "C.J. Stroud",
+              "price": -120,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "C.J. Stroud",
+              "price": -110,
+              "point": 9.5
+            },
+            {
+              "name": "Over",
+              "description": "David Montgomery",
+              "price": -115,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "description": "David Montgomery",
+              "price": -115,
+              "point": 54.5
+            },
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": -115,
+              "point": 74.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -115,
+              "point": 74.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -120,
+              "point": 32.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -110,
+              "point": 32.5
+            },
+            {
+              "name": "Over",
+              "description": "Woody Marks",
+              "price": -115,
+              "point": 31.5
+            },
+            {
+              "name": "Under",
+              "description": "Woody Marks",
+              "price": -115,
+              "point": 31.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

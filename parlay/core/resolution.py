@@ -1,9 +1,10 @@
-from pydantic import BaseModel, model_validator
 from enum import Enum
-from typing import Annotated, Self, Union, Literal
-from pydantic import Field
-import parlay
-from parlay.core.schemas import AnyLeg, Side, SpreadLeg, MoneylineLeg, PropLeg, BetType
+from typing import Self
+
+from pydantic import BaseModel, model_validator
+
+from parlay.core.schemas import AnyLeg, BetType, MoneylineLeg, PropLeg, Side, SpreadLeg
+
 
 class ResolutionType(Enum): 
     WIN = "win"

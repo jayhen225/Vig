@@ -1,0 +1,97 @@
+:root {
+  --bg: #0a0c10;
+  --panel: #12151c;
+  --panel2: #0e1116;
+  --border: #20252f;
+  --hair: #171b22;
+  --text: #eef2f6;
+  --muted: #8a93a0;
+  --faint: #565f6d;
+  --green: #35e08a;
+  --greenSoft: rgba(53, 224, 138, 0.11);
+  --greenLine: rgba(53, 224, 138, 0.5);
+  --neg: #ff6b7a;
+  --mono: "IBM Plex Mono", ui-monospace, monospace;
+  --sans: "IBM Plex Sans", system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+html,
+body,
+#root {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: var(--sans);
+  background: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+}
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+  color: inherit;
+}
+input {
+  font-family: inherit;
+}
+.mono {
+  font-family: var(--mono);
+}
+
+/* thin scrollbar */
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+*::-webkit-scrollbar-thumb {
+  background: #232833;
+  border-radius: 6px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.tab {
+  font-size: 14.5px;
+  color: var(--muted);
+  position: relative;
+  padding-bottom: 22px;
+  margin-bottom: -22px;
+}
+.tab.active {
+  color: var(--text);
+  font-weight: 500;
+}
+.tab.active::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 2px;
+  background: var(--green);
+  border-radius: 2px;
+}
+
+.row:hover {
+  background: var(--greenSoft);
+}
+.addbtn:hover {
+  background: var(--green);
+}
+.addbtn:hover svg path {
+  stroke: #08130c;
+}
+.pricebtn:hover {
+  filter: brightness(1.08);
+}
+.leg-x:hover circle,
+.leg-x:hover path {
+  stroke: var(--neg);
+}

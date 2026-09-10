@@ -14,8 +14,8 @@ metrics are stable enough per player that full MCMC isn't needed.
 from pathlib import Path
 
 import duckdb
-import polars as pl
 import numpy as np
+import polars as pl
 
 # ──────────────────────────────────────────────
 # STEP 1: LOAD EFFICIENCY DATA

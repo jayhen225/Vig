@@ -1,10 +1,10 @@
 from pathlib import Path
 
 import duckdb
-import polars as pl
-import numpy as np
 import lightgbm as lgb
-from sklearn.metrics import mean_absolute_error, root_mean_squared_error
+import numpy as np
+import polars as pl
+from sklearn.metrics import root_mean_squared_error
 
 # ══════════════════════════════════════════════════════════════
 # PURPOSE OF THIS SCRIPT

@@ -14,13 +14,13 @@ Pipeline:
   7. Calibration analysis
 """
 
-from pathlib import Path
 import json
+from pathlib import Path
 
+import arviz as az
+import duckdb
 import numpy as np
 import polars as pl
-import duckdb
-import arviz as az
 from scipy.special import expit
 
 # ══════════════════════════════════════════════════════════════

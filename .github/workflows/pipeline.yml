@@ -21,20 +21,21 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install -e .
+        run: pip install -e ".[pipeline]"
 
       - name: Ingest raw NFL data
-        run: python pipeline/ingest.py
+        run: python parlay/pipeline/ingest.py
+        timeout-minutes: 20
 
       - name: Build DuckDB warehouse
-        run: python pipeline/build_warehouse.py
+        run: python parlay/pipeline/build_warehouse.py
 
       - name: Upload warehouse
         uses: actions/upload-artifact@v4
         with:
           name: nfl-warehouse
           path: |
-            data/nfl_data.duckdb
-            data/raw/*.parquet
+            parlay/data/nfl_data.duckdb
+            parlay/data/raw/*.parquet
           retention-days: 30
           if-no-files-found: error

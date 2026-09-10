@@ -16,10 +16,10 @@ saved as a Parquet file the simulator can load.
 
 from pathlib import Path
 
+import arviz as az
+import duckdb
 import numpy as np
 import polars as pl
-import duckdb
-import arviz as az
 from scipy.special import expit
 
 DATA_DIR = Path(__file__).parent.parent / "data"
