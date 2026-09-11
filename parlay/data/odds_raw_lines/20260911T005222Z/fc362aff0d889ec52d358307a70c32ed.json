@@ -1,0 +1,582 @@
+{
+  "id": "fc362aff0d889ec52d358307a70c32ed",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-13T17:00:00Z",
+  "home_team": "Carolina Panthers",
+  "away_team": "Chicago Bears",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T00:51:47Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 136
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -162
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T00:51:47Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -102,
+              "point": 3.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -118,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T00:51:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T00:52:12Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 138
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -164
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T00:52:12Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -114,
+              "point": 3.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -106,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T00:52:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -120,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T00:51:50Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 145
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -165
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T00:51:50Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -105,
+              "point": 3.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -105,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T00:51:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T00:52:11Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 146
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T00:52:11Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -105,
+              "point": 3.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -115,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T00:52:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T00:51:47Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 145
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -165
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T00:51:47Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -110,
+              "point": 3.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T00:51:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T00:51:47Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 140
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -175
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T00:51:47Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -107,
+              "point": 3.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -114,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T00:51:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T00:51:47Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 140
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T00:51:47Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -110,
+              "point": 3.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T00:51:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T00:50:25Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 142
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T00:50:25Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -106,
+              "point": 3.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -114,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T00:50:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -103,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T00:51:52Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 140
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -165
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T00:51:52Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -102,
+              "point": 3.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -115,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T00:51:52Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T00:50:44Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 145
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T00:50:44Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -110,
+              "point": 3.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T00:50:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T00:50:16Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 138
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T00:50:16Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -110,
+              "point": 3.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T00:50:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
