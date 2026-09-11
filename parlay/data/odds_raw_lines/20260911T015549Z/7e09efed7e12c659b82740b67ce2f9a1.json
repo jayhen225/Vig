@@ -1,0 +1,582 @@
+{
+  "id": "7e09efed7e12c659b82740b67ce2f9a1",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-13T17:00:00Z",
+  "home_team": "Houston Texans",
+  "away_team": "Buffalo Bills",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:02Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -122
+            },
+            {
+              "name": "Houston Texans",
+              "price": 102
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:02Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -108,
+              "point": -1.5
+            },
+            {
+              "name": "Houston Texans",
+              "price": -112,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:06Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -125
+            },
+            {
+              "name": "Houston Texans",
+              "price": 105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:06Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -115,
+              "point": -1.0
+            },
+            {
+              "name": "Houston Texans",
+              "price": -105,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -125
+            },
+            {
+              "name": "Houston Texans",
+              "price": 105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -110,
+              "point": -1.5
+            },
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -125
+            },
+            {
+              "name": "Houston Texans",
+              "price": 105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -112,
+              "point": -1.0
+            },
+            {
+              "name": "Houston Texans",
+              "price": 101,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -124
+            },
+            {
+              "name": "Houston Texans",
+              "price": 102
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -110,
+              "point": -1.5
+            },
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -125
+            },
+            {
+              "name": "Houston Texans",
+              "price": 105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -120,
+              "point": -1.0
+            },
+            {
+              "name": "Houston Texans",
+              "price": 100,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:03Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -120
+            },
+            {
+              "name": "Houston Texans",
+              "price": 101
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:03Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -107,
+              "point": -1.5
+            },
+            {
+              "name": "Houston Texans",
+              "price": -112,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -117,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -118
+            },
+            {
+              "name": "Houston Texans",
+              "price": 100
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -106,
+              "point": -1.5
+            },
+            {
+              "name": "Houston Texans",
+              "price": -114,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:04Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -120
+            },
+            {
+              "name": "Houston Texans",
+              "price": 100
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:04Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -110,
+              "point": -1.5
+            },
+            {
+              "name": "Houston Texans",
+              "price": -108,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:47Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -125
+            },
+            {
+              "name": "Houston Texans",
+              "price": 105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:47Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -110,
+              "point": -1.5
+            },
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:25Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -122
+            },
+            {
+              "name": "Houston Texans",
+              "price": 100
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:25Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -110,
+              "point": -1.0
+            },
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

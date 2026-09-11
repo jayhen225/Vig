@@ -1,0 +1,582 @@
+{
+  "id": "b6cfdcbafa61ce220ba87dc2d9b80c77",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-13T17:00:00Z",
+  "home_team": "Indianapolis Colts",
+  "away_team": "Baltimore Ravens",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:02Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -175
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 145
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:02Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -105,
+              "point": -3.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -115,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:06Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -175
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 150
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:06Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -120,
+              "point": -3.0
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 100,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -180
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 150
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 100,
+              "point": -3.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -120,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -175
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 153
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 106,
+              "point": -3.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -117,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -175
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 140
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -104,
+              "point": -3.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -118,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -175
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 153
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -120,
+              "point": -3.0
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 100,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:03Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -179
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 150
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:03Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -103,
+              "point": -3.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -117,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -184
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 154
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -104,
+              "point": -3.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -118,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:04Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -190
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 155
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:04Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 100,
+              "point": -3.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -120,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:47Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -175
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 150
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:47Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -120,
+              "point": -3.0
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 100,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:25Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -175
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 142
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:25Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 100,
+              "point": -3.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -120,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

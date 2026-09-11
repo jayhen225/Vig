@@ -1,0 +1,582 @@
+{
+  "id": "cb77efed7e711d25a72c1a2a0a1af119",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-13T20:25:00Z",
+  "home_team": "Minnesota Vikings",
+  "away_team": "Green Bay Packers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:02Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": 102
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -122
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:02Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -112,
+              "point": 1.5
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -108,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": 103
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -123
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": 100,
+              "point": 1.0
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": 103
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -123
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -105,
+              "point": 1.0
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -115,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:06Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": 105
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -125
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:06Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -105,
+              "point": 1.0
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -115,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": 105
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -125
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": 2.0
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": 102
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -124
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -112,
+              "point": 1.5
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -109,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": 102
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -120
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:03Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": 104
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -122
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:03Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -109,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -114,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:04Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": 105
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -125
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:04Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -108,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:47Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": 110
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -130
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:47Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": 2.0
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T01:55:25Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": 101
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -123
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T01:55:25Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T01:55:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
