@@ -1,0 +1,582 @@
+{
+  "id": "c1d3fcec25aaeb06ebd2244d33d338e0",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-13T17:00:00Z",
+  "home_team": "Detroit Lions",
+  "away_team": "New Orleans Saints",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:47:50Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -310
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 250
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:47:50Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -108,
+              "point": -7.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -112,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:47:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 49.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -330
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 265
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -122,
+              "point": -6.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 100,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 49.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -330
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 260
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -7.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:45:47Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -320
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 250
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:45:47Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -106,
+              "point": -7.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -113,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:45:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 49.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -310
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 252
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": 100,
+              "point": -7.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -310
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 252
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -105,
+              "point": -7.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -115,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -310
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 255
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -105,
+              "point": -7.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -115,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:13Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -345
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 265
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:13Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -108,
+              "point": -7.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -113,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:13Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -325
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 260
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -7.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -108,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 49.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:47:11Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -330
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 265
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:47:11Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -7.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:47:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -330
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 255
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -7.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

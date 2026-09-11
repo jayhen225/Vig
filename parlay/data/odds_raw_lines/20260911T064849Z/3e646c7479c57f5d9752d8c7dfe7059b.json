@@ -1,0 +1,582 @@
+{
+  "id": "3e646c7479c57f5d9752d8c7dfe7059b",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-14T00:20:00Z",
+  "home_team": "New York Giants",
+  "away_team": "Dallas Cowboys",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:47:50Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -162
+            },
+            {
+              "name": "New York Giants",
+              "price": 136
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:47:50Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -105,
+              "point": -3.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -115,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:47:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 48.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:45:47Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -159
+            },
+            {
+              "name": "New York Giants",
+              "price": 134
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:45:47Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -107,
+              "point": -3.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -113,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:45:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -165
+            },
+            {
+              "name": "New York Giants",
+              "price": 135
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -105,
+              "point": -3.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -115,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -158
+            },
+            {
+              "name": "New York Giants",
+              "price": 134
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -124,
+              "point": -2.5
+            },
+            {
+              "name": "New York Giants",
+              "price": 102,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 48.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -159
+            },
+            {
+              "name": "New York Giants",
+              "price": 139
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -107,
+              "point": -3.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -113,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -160
+            },
+            {
+              "name": "New York Giants",
+              "price": 138
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -105,
+              "point": -3.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -112,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -159
+            },
+            {
+              "name": "New York Giants",
+              "price": 139
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -102,
+              "point": -3.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -108,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:13Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -157
+            },
+            {
+              "name": "New York Giants",
+              "price": 132
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:13Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -110,
+              "point": -3.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:13Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:47:11Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -165
+            },
+            {
+              "name": "New York Giants",
+              "price": 140
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:47:11Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -105,
+              "point": -3.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -115,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:47:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -160
+            },
+            {
+              "name": "New York Giants",
+              "price": 138
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -105,
+              "point": -3.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -115,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -162
+            },
+            {
+              "name": "New York Giants",
+              "price": 132
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": 100,
+              "point": -3.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -120,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

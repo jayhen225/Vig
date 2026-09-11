@@ -1,0 +1,582 @@
+{
+  "id": "c5d95f48a16849ab6bebc68fbbfcb74a",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-13T20:25:00Z",
+  "home_team": "Las Vegas Raiders",
+  "away_team": "Miami Dolphins",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:47:50Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -170
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 142
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:47:50Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -112,
+              "point": -3.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -108,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:47:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -165
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 142
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -115,
+              "point": -3.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -105,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 40.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 40.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:13Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -159
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 130
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:13Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -114,
+              "point": -3.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -107,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:13Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -114,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -174
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 146
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -120,
+              "point": -3.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -102,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 39.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 39.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -175
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 145
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -115,
+              "point": -3.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -105,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -165
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 145
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -113,
+              "point": -3.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -107,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:47:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -165
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 145
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -108,
+              "point": -3.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -102,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:45:47Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -170
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 140
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:45:47Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": -3.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -110,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:45:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -175
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 145
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -115,
+              "point": -3.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -105,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:47:11Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -170
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 145
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:47:11Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -115,
+              "point": -3.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -105,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:47:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 40.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 40.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -173
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 140
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -120,
+              "point": -3.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 100,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-11T06:48:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 40.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 40.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
