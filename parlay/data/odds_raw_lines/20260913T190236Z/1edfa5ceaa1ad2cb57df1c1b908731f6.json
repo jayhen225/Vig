@@ -1,0 +1,582 @@
+{
+  "id": "1edfa5ceaa1ad2cb57df1c1b908731f6",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-13T20:25:00Z",
+  "home_team": "Los Angeles Chargers",
+  "away_team": "Arizona Cardinals",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:01:55Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 360
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -470
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:01:55Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 9.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": -9.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:01:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -118,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:01:56Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 383
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -500
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:01:56Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -113,
+              "point": 9.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 102,
+              "point": -9.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:01:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:02:18Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 393
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -515
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:02:18Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -115,
+              "point": 9.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -105,
+              "point": -9.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:02:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:02:18Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 400
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -515
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:02:18Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -115,
+              "point": 9.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -105,
+              "point": -9.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:02:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:01:12Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 370
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -500
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:01:12Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 9.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": -9.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:01:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:01:36Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 360
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -500
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:01:36Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -109,
+              "point": 9.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -112,
+              "point": -9.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:01:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:02:20Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 385
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -500
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:02:20Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -105,
+              "point": 8.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -115,
+              "point": -8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:02:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -104,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -118,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:01:11Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 390
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -530
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:01:11Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -112,
+              "point": 9.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -108,
+              "point": -9.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:01:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:01:56Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 400
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -500
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:01:56Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 9.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -108,
+              "point": -9.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:01:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:00:10Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 355
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -490
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:00:10Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 8.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": -8.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:00:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:02:20Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 370
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -526
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:02:20Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 9.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": -9.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:02:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

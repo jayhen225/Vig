@@ -1,0 +1,582 @@
+{
+  "id": "17885cb8dcade8f6c3bce14b2de805e8",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-13T20:25:00Z",
+  "home_team": "Philadelphia Eagles",
+  "away_team": "Washington Commanders",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:01:55Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -265
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 215
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:01:55Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -112,
+              "point": -6.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -108,
+              "point": 6.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:01:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:02:19Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -270
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 220
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:02:19Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -115,
+              "point": -5.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -105,
+              "point": 5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:02:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:02:18Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -265
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 223
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:02:18Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -110,
+              "point": -6.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": 6.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:02:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:01:36Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -265
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 210
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:01:36Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -107,
+              "point": -6.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -114,
+              "point": 6.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:01:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:02:18Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -270
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 222
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:02:18Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -112,
+              "point": -6.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -108,
+              "point": 6.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:02:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:01:12Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -275
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 220
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:01:12Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -115,
+              "point": -5.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -105,
+              "point": 5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:01:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:01:56Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -270
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 222
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:01:56Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -107,
+              "point": -6.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -103,
+              "point": 6.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:01:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:01:11Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -265
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 215
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:01:11Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -108,
+              "point": -6.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": 6.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:01:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:01:56Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -275
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 220
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:01:56Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -102,
+              "point": -6.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -108,
+              "point": 6.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:01:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:00:10Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -270
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 220
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:00:10Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -105,
+              "point": -6.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -115,
+              "point": 6.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:00:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T19:02:20Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -255
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 204
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T19:02:20Z",
+          "outcomes": [
+            {
+              "name": "Philadelphia Eagles",
+              "price": -110,
+              "point": -5.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": 5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T19:02:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
