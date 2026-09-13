@@ -1,0 +1,218 @@
+{
+  "id": "0283a29e1b38ef78b29b904fd56a16dd",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-20T17:00:00Z",
+  "home_team": "Chicago Bears",
+  "away_team": "Minnesota Vikings",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T23:42:54Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -250
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": 205
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T23:42:54Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": -5.5
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": 5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T23:42:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T23:43:03Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -245
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": 200
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T23:43:03Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -109,
+              "point": -5.5
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -109,
+              "point": 5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T23:43:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T23:43:27Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -240
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": 198
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T23:43:27Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -105,
+              "point": -5.5
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -115,
+              "point": 5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T23:43:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "price": -120,
+              "point": 48.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T23:42:55Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -275
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": 210
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T23:42:55Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -112,
+              "point": -5.5
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -109,
+              "point": 5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T23:42:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

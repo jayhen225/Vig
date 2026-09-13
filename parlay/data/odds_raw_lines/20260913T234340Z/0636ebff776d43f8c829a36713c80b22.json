@@ -1,0 +1,254 @@
+{
+  "id": "0636ebff776d43f8c829a36713c80b22",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-20T17:00:00Z",
+  "home_team": "Tampa Bay Buccaneers",
+  "away_team": "Cleveland Browns",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T23:42:54Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": 300
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -380
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T23:42:54Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": -110,
+              "point": 8.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -110,
+              "point": -8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T23:42:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T23:43:03Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": 325
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -420
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T23:43:03Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": -109,
+              "point": 8.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -109,
+              "point": -8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T23:43:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T23:42:31Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": 320
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -469
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T23:42:31Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": -110,
+              "point": 8.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -110,
+              "point": -8.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T23:43:27Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": 350
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -450
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T23:43:27Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": -104,
+              "point": 7.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -118,
+              "point": -7.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T23:43:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-13T23:42:55Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": 340
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -455
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-13T23:42:55Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": -112,
+              "point": 8.0
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -109,
+              "point": -8.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-13T23:42:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
