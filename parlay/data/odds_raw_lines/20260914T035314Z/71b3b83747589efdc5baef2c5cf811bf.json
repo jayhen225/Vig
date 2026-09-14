@@ -1,0 +1,500 @@
+{
+  "id": "71b3b83747589efdc5baef2c5cf811bf",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-20T20:05:00Z",
+  "home_team": "Los Angeles Chargers",
+  "away_team": "Las Vegas Raiders",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 235
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -290
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -115,
+              "point": 7.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -105,
+              "point": -7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:59Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 260
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -325
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:59Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -112,
+              "point": 7.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -107,
+              "point": -7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -106,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 6.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 250
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -350
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 256
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -315
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -105,
+              "point": 6.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -105,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 256
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -315
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 6.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 290
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -360
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 7.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": -7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 280
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -360
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -108,
+              "point": 7.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -113,
+              "point": -7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:41Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 260
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -325
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:41Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -108,
+              "point": 7.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": -7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:00Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 255
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -310
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:00Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -115,
+              "point": 7.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -105,
+              "point": -7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:00Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

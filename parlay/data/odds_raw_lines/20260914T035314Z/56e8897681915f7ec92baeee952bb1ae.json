@@ -1,0 +1,568 @@
+{
+  "id": "56e8897681915f7ec92baeee952bb1ae",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-18T00:15:00Z",
+  "home_team": "Buffalo Bills",
+  "away_team": "Detroit Lions",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -180
+            },
+            {
+              "name": "Detroit Lions",
+              "price": 150
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -105,
+              "point": -3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -115,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 53.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:59Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -193
+            },
+            {
+              "name": "Detroit Lions",
+              "price": 162
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:59Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -109,
+              "point": -3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -109,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 53.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:20Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -196
+            },
+            {
+              "name": "Detroit Lions",
+              "price": 164
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:20Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:39Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -205
+            },
+            {
+              "name": "Detroit Lions",
+              "price": 177
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:39Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -115,
+              "point": -4.0
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -105,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 53.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -200
+            },
+            {
+              "name": "Detroit Lions",
+              "price": 165
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -108,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 53.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -205
+            },
+            {
+              "name": "Detroit Lions",
+              "price": 177
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -110,
+              "point": -4.0
+            },
+            {
+              "name": "Detroit Lions",
+              "price": 100,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 53.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:00Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -195
+            },
+            {
+              "name": "Detroit Lions",
+              "price": 165
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:00Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -115,
+              "point": -3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -105,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:00Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 53.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -190
+            },
+            {
+              "name": "Detroit Lions",
+              "price": 155
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -113,
+              "point": -3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -108,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 53.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 53.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:39Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -195
+            },
+            {
+              "name": "Detroit Lions",
+              "price": 160
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:39Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 53.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -191
+            },
+            {
+              "name": "Detroit Lions",
+              "price": 148
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 53.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 53.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "id": "aee7eae1849ebb103b9bf233e9741392",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-20T17:00:00Z",
+  "home_team": "Atlanta Falcons",
+  "away_team": "Carolina Panthers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -118
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -102
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -110,
+              "point": -1.5
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -110,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:59Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -120
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": 102
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:59Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -108,
+              "point": -1.5
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -112,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -115,
+              "point": -1.0
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -105,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -122
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -104
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -110,
+              "point": -1.5
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -110,
+              "point": 1.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -117
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -103
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 100,
+              "point": -1.0
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -110,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:39Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -117
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -103
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:39Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -105,
+              "point": -1.0
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -115,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -116
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -102
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -105,
+              "point": -1.5
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -115,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -121
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": 100
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -108,
+              "point": -1.5
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -113,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:41Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -118
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -102
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:41Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -110,
+              "point": -1.0
+            },
+            {
+              "name": "Carolina Panthers",
+              "price": -108,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

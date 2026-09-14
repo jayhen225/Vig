@@ -1,0 +1,484 @@
+{
+  "id": "4aeee070bb6ec60bdfae4dede61b9014",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-20T17:00:00Z",
+  "home_team": "New York Jets",
+  "away_team": "Green Bay Packers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -225
+            },
+            {
+              "name": "New York Jets",
+              "price": 185
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": -4.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -110,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:59Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -225
+            },
+            {
+              "name": "New York Jets",
+              "price": 184
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:59Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -108,
+              "point": -4.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -110,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -106,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -114,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -228
+            },
+            {
+              "name": "New York Jets",
+              "price": 174
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -210
+            },
+            {
+              "name": "New York Jets",
+              "price": 180
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": 100,
+              "point": -4.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -110,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -210
+            },
+            {
+              "name": "New York Jets",
+              "price": 180
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -105,
+              "point": -4.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -115,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": -4.0
+            },
+            {
+              "name": "New York Jets",
+              "price": -110,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:51:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -240
+            },
+            {
+              "name": "New York Jets",
+              "price": 198
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -115,
+              "point": -4.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -105,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:53:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -240
+            },
+            {
+              "name": "New York Jets",
+              "price": 190
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": -4.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -110,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -225
+            },
+            {
+              "name": "New York Jets",
+              "price": 185
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -105,
+              "point": -4.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -112,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T03:52:00Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -210
+            },
+            {
+              "name": "New York Jets",
+              "price": 175
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T03:52:00Z",
+          "outcomes": [
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": -4.0
+            },
+            {
+              "name": "New York Jets",
+              "price": -110,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T03:52:00Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
