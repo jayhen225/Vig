@@ -1,0 +1,582 @@
+{
+  "id": "5ad8135dc2b5f27de0b777acd317855a",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-15T00:15:00Z",
+  "home_team": "Kansas City Chiefs",
+  "away_team": "Denver Broncos",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T09:39:08Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 114
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -135
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T09:39:08Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T09:39:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T09:39:46Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 113
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -134
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T09:39:46Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -109,
+              "point": 2.5
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -109,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T09:39:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 115
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -140
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -115,
+              "point": 2.5
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -105,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T09:39:52Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 112
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -132
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T09:39:52Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -115,
+              "point": 2.5
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -105,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T09:39:52Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 110
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -130
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 107,
+              "point": 1.0
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -118,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": 100,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 110
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -130
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 102,
+              "point": 1.0
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -122,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -117,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -103,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T09:39:54Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 115
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -135
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T09:39:54Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -108,
+              "point": 2.0
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T09:39:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T09:38:50Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 115
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -135
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T09:38:50Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -105,
+              "point": 2.0
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -115,
+              "point": -2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T09:38:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 110
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -130
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 100,
+              "point": 1.0
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -120,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -117,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -103,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 110
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -134
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -112,
+              "point": 2.5
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -109,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T09:39:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -114,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-14T09:38:23Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 112
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -138
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-14T09:38:23Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-14T09:38:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
