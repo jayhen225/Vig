@@ -1,0 +1,221 @@
+{
+  "id": "68bc55903f50af4af4766adcc89fcc61",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-20T20:25:00Z",
+  "home_team": "San Francisco 49ers",
+  "away_team": "Miami Dolphins",
+  "bookmakers": [
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-15T03:47:26Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "No Scorer",
+              "price": 10000
+            },
+            {
+              "name": "Yes",
+              "description": "Demarcus Robinson",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Christian McCaffrey",
+              "price": -235
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Evans",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "George Kittle",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Kyle Juszczyk",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Deebo Samuel",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Luke Farrell",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Cowing",
+              "price": 1050
+            },
+            {
+              "name": "Yes",
+              "description": "James Jordan",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Watkins",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Kaelon Black",
+              "price": 230
+            },
+            {
+              "name": "Yes",
+              "description": "San Francisco 49ers D/ST",
+              "price": 420
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Willis",
+              "price": 325
+            },
+            {
+              "name": "Yes",
+              "description": "Greg Dulcich",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Jalen Tolbert",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "De'Von Achane",
+              "price": 140
+            },
+            {
+              "name": "Yes",
+              "description": "Ryan Miller",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Wright",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Washington",
+              "price": 420
+            },
+            {
+              "name": "Yes",
+              "description": "Ollie Gordon II",
+              "price": 1050
+            },
+            {
+              "name": "Yes",
+              "description": "Caleb Douglas",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Bell",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Seydou Traore",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Herman",
+              "price": 3500
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Coleman Jr.",
+              "price": 1050
+            },
+            {
+              "name": "Yes",
+              "description": "Will Kacmarek",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Miami Dolphins D/ST",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Purdy",
+              "price": 450
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-15T03:47:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brock Purdy",
+              "price": -115,
+              "point": 225.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Purdy",
+              "price": -115,
+              "point": 225.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-15T03:47:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Caleb Douglas",
+              "price": -135,
+              "point": 35.5
+            },
+            {
+              "name": "Under",
+              "description": "Caleb Douglas",
+              "price": 100,
+              "point": 35.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-15T03:47:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "De'Von Achane",
+              "price": -140,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "description": "De'Von Achane",
+              "price": 105,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "id": "2143ade9684fd876b68a4e8cbf451f05",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-20T17:00:00Z",
+  "home_team": "Baltimore Ravens",
+  "away_team": "New Orleans Saints",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:47:18Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -360
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 285
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:47:18Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -110,
+              "point": -8.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:47:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:47:09Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -440
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 330
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:47:09Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -109,
+              "point": -8.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -109,
+              "point": 8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:47:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:47:20Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -425
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 333
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:47:20Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 100,
+              "point": -9.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -120,
+              "point": 9.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:47:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:48:08Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -450
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 310
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:48:08Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -110,
+              "point": -9.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 9.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:48:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:47:43Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -425
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 334
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:47:43Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 100,
+              "point": -9.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 9.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:47:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:48:10Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -425
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 334
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:48:10Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -105,
+              "point": -9.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -115,
+              "point": 9.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:48:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:48:07Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -450
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 350
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:48:07Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -105,
+              "point": -8.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -115,
+              "point": 8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:48:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:47:19Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -455
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 340
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:47:19Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -113,
+              "point": -8.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -108,
+              "point": 8.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:47:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:47:19Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -425
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 333
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:47:19Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -108,
+              "point": -8.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:47:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:47:00Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -430
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 320
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:47:00Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -110,
+              "point": -8.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 8.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:47:00Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:46:10Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -425
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 325
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:46:10Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -110,
+              "point": -8.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 8.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:46:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

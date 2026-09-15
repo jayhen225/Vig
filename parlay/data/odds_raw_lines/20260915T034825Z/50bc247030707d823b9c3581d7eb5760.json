@@ -1,0 +1,254 @@
+{
+  "id": "50bc247030707d823b9c3581d7eb5760",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-21T00:20:00Z",
+  "home_team": "Kansas City Chiefs",
+  "away_team": "Indianapolis Colts",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:47:18Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 250
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -310
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:47:18Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 100,
+              "point": 6.5
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -120,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:47:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:47:09Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 255
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -325
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:47:09Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -103,
+              "point": 6.5
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -117,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:47:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:48:07Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 270
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -335
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:48:07Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -105,
+              "point": 6.5
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -115,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:48:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 48.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:47:19Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 250
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -300
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:47:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-15T03:46:10Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 250
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -320
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-15T03:46:10Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -105,
+              "point": 6.5
+            },
+            {
+              "name": "Kansas City Chiefs",
+              "price": -115,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-15T03:46:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
