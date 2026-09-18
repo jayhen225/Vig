@@ -1,0 +1,2358 @@
+{
+  "id": "2143ade9684fd876b68a4e8cbf451f05",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-20T17:00:00Z",
+  "home_team": "Baltimore Ravens",
+  "away_team": "New Orleans Saints",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-18T07:41:39Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -270
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 135
+            },
+            {
+              "name": "Yes",
+              "description": "Travis Etienne Jr.",
+              "price": 145
+            },
+            {
+              "name": "Yes",
+              "description": "Lamar Jackson",
+              "price": 160
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Olave",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 195
+            },
+            {
+              "name": "Yes",
+              "description": "Juwan Johnson",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Alvin Kamara",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "Devaughn Vele",
+              "price": 390
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Baltimore Ravens D/ST",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Shough",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Moore",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "New Orleans Saints D/ST",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Kendre Miller",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Noah Fant",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Durham Smythe",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Bryce Lance",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Barion Brown",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Austin",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Oscar Delp",
+              "price": 2200
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-18T07:41:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": 101,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -129,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Shough",
+              "price": 170,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Shough",
+              "price": -220,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-18T07:41:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tyler Shough",
+              "price": -113,
+              "point": 239.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Shough",
+              "price": -111,
+              "point": 239.5
+            },
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": -110,
+              "point": 213.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -114,
+              "point": 213.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-18T07:41:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chris Olave",
+              "price": -113,
+              "point": 70.5
+            },
+            {
+              "name": "Under",
+              "description": "Chris Olave",
+              "price": -111,
+              "point": 70.5
+            },
+            {
+              "name": "Over",
+              "description": "Devaughn Vele",
+              "price": -112,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Devaughn Vele",
+              "price": -112,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "Juwan Johnson",
+              "price": -115,
+              "point": 38.5
+            },
+            {
+              "name": "Under",
+              "description": "Juwan Johnson",
+              "price": -110,
+              "point": 38.5
+            },
+            {
+              "name": "Over",
+              "description": "Alvin Kamara",
+              "price": -120,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Alvin Kamara",
+              "price": -105,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Travis Etienne Jr.",
+              "price": -111,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Travis Etienne Jr.",
+              "price": -113,
+              "point": 11.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-18T07:41:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chris Olave",
+              "price": -130,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Chris Olave",
+              "price": 102,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Juwan Johnson",
+              "price": -143,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Juwan Johnson",
+              "price": 112,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Devaughn Vele",
+              "price": -130,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Devaughn Vele",
+              "price": 102,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Alvin Kamara",
+              "price": 114,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Alvin Kamara",
+              "price": -146,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Travis Etienne Jr.",
+              "price": -181,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Travis Etienne Jr.",
+              "price": 141,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-18T07:41:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -110,
+              "point": 90.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -114,
+              "point": 90.5
+            },
+            {
+              "name": "Over",
+              "description": "Travis Etienne Jr.",
+              "price": -114,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Travis Etienne Jr.",
+              "price": -110,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": -114,
+              "point": 39.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -110,
+              "point": 39.5
+            },
+            {
+              "name": "Over",
+              "description": "Alvin Kamara",
+              "price": -113,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Alvin Kamara",
+              "price": -111,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Shough",
+              "price": -114,
+              "point": 15.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Shough",
+              "price": -110,
+              "point": 15.5
+            },
+            {
+              "name": "Over",
+              "description": "Justice Hill",
+              "price": -117,
+              "point": 12.5
+            },
+            {
+              "name": "Under",
+              "description": "Justice Hill",
+              "price": -107,
+              "point": 12.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-18T07:41:51Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -265
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 127
+            },
+            {
+              "name": "Yes",
+              "description": "Zay Flowers",
+              "price": 133
+            },
+            {
+              "name": "Yes",
+              "description": "Travis Etienne Jr.",
+              "price": 145
+            },
+            {
+              "name": "Yes",
+              "description": "Lamar Jackson",
+              "price": 171
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Olave",
+              "price": 184
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 187
+            },
+            {
+              "name": "Yes",
+              "description": "Juwan Johnson",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Devaughn Vele",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Alvin Kamara",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Shough",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Moore",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Kendre Miller",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Noah Fant",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Durham Smythe",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Bryce Lance",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Oscar Delp",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Barion Brown",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Austin",
+              "price": 2300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-18T07:41:43Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Devaughn Vele",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Travis Etienne Jr.",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "Durham Smythe",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Noah Fant",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Bryce Lance",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Oscar Delp",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Barion Brown",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 110
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Lamar Jackson",
+              "price": 160
+            },
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -333
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Olave",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Alvin Kamara",
+              "price": 325
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Shough",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Zay Flowers",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "Kendre Miller",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Juwan Johnson",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Moore",
+              "price": 450
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-18T07:41:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tyler Shough",
+              "price": 167,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Shough",
+              "price": -222,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": 100,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -130,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-18T07:41:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tyler Shough",
+              "price": -109,
+              "point": 234.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Shough",
+              "price": -119,
+              "point": 234.5
+            },
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": -114,
+              "point": 213.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -114,
+              "point": 213.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-18T07:41:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chris Olave",
+              "price": -114,
+              "point": 71.5
+            },
+            {
+              "name": "Under",
+              "description": "Chris Olave",
+              "price": -114,
+              "point": 71.5
+            },
+            {
+              "name": "Over",
+              "description": "Devaughn Vele",
+              "price": -114,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "description": "Devaughn Vele",
+              "price": -114,
+              "point": 45.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-18T07:41:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chris Olave",
+              "price": -147,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Chris Olave",
+              "price": 114,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Devaughn Vele",
+              "price": -127,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Devaughn Vele",
+              "price": -102,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-18T07:41:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": -115,
+              "point": 39.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -112,
+              "point": 39.5
+            },
+            {
+              "name": "Over",
+              "description": "Alvin Kamara",
+              "price": -114,
+              "point": 16.5
+            },
+            {
+              "name": "Under",
+              "description": "Alvin Kamara",
+              "price": -114,
+              "point": 16.5
+            },
+            {
+              "name": "Over",
+              "description": "Travis Etienne Jr.",
+              "price": -114,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "description": "Travis Etienne Jr.",
+              "price": -114,
+              "point": 40.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -115,
+              "point": 90.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -112,
+              "point": 90.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-18T07:42:09Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -260
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 115
+            },
+            {
+              "name": "Yes",
+              "description": "Travis Etienne Jr.",
+              "price": 170
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Lamar Jackson",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Olave",
+              "price": 195
+            },
+            {
+              "name": "Yes",
+              "description": "Devaughn Vele",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Juwan Johnson",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Alvin Kamara",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 460
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Shough",
+              "price": 490
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Moore",
+              "price": 490
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "New Orleans Saints Defense",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Noah Fant",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Oscar Delp",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Durham Smythe",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Baltimore Ravens Defense",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Bryce Lance",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Kendre Miller",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Austin",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Barion Brown",
+              "price": 2700
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-18T07:42:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tyler Shough",
+              "price": 194,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Shough",
+              "price": -270,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": -102,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -130,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-18T07:42:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": -114,
+              "point": 213.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -114,
+              "point": 213.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Shough",
+              "price": -114,
+              "point": 231.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Shough",
+              "price": -114,
+              "point": 231.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-18T07:42:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Devaughn Vele",
+              "price": -114,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Devaughn Vele",
+              "price": -114,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "LaJohntay Wester",
+              "price": -114,
+              "point": 20.5
+            },
+            {
+              "name": "Under",
+              "description": "LaJohntay Wester",
+              "price": -114,
+              "point": 20.5
+            },
+            {
+              "name": "Over",
+              "description": "Juwan Johnson",
+              "price": -114,
+              "point": 38.5
+            },
+            {
+              "name": "Under",
+              "description": "Juwan Johnson",
+              "price": -114,
+              "point": 38.5
+            },
+            {
+              "name": "Over",
+              "description": "Travis Etienne Jr.",
+              "price": -114,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Travis Etienne Jr.",
+              "price": -114,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Mark Andrews",
+              "price": -114,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "description": "Mark Andrews",
+              "price": -114,
+              "point": 48.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -114,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -114,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Chris Olave",
+              "price": -114,
+              "point": 71.5
+            },
+            {
+              "name": "Under",
+              "description": "Chris Olave",
+              "price": -114,
+              "point": 71.5
+            },
+            {
+              "name": "Over",
+              "description": "Rashod Bateman",
+              "price": -114,
+              "point": 35.5
+            },
+            {
+              "name": "Under",
+              "description": "Rashod Bateman",
+              "price": -114,
+              "point": 35.5
+            },
+            {
+              "name": "Over",
+              "description": "Justice Hill",
+              "price": -114,
+              "point": 13.5
+            },
+            {
+              "name": "Under",
+              "description": "Justice Hill",
+              "price": -114,
+              "point": 13.5
+            },
+            {
+              "name": "Over",
+              "description": "Alvin Kamara",
+              "price": -114,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Alvin Kamara",
+              "price": -114,
+              "point": 11.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-18T07:42:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Devaughn Vele",
+              "price": -136,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Devaughn Vele",
+              "price": 102,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "LaJohntay Wester",
+              "price": 128,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "LaJohntay Wester",
+              "price": -172,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Juwan Johnson",
+              "price": -138,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Juwan Johnson",
+              "price": 104,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Alvin Kamara",
+              "price": 118,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Alvin Kamara",
+              "price": -158,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Mark Andrews",
+              "price": 114,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Mark Andrews",
+              "price": -148,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Rashod Bateman",
+              "price": -140,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Rashod Bateman",
+              "price": 106,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Travis Etienne Jr.",
+              "price": -182,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Travis Etienne Jr.",
+              "price": 136,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Chris Olave",
+              "price": -158,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Chris Olave",
+              "price": 118,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -250,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": 182,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-18T07:42:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Alvin Kamara",
+              "price": -114,
+              "point": 16.5
+            },
+            {
+              "name": "Under",
+              "description": "Alvin Kamara",
+              "price": -114,
+              "point": 16.5
+            },
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": -114,
+              "point": 39.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -114,
+              "point": 39.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -114,
+              "point": 92.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -114,
+              "point": 92.5
+            },
+            {
+              "name": "Over",
+              "description": "Travis Etienne Jr.",
+              "price": -114,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "description": "Travis Etienne Jr.",
+              "price": -114,
+              "point": 40.5
+            },
+            {
+              "name": "Over",
+              "description": "Justice Hill",
+              "price": -114,
+              "point": 13.5
+            },
+            {
+              "name": "Under",
+              "description": "Justice Hill",
+              "price": -114,
+              "point": 13.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Shough",
+              "price": -114,
+              "point": 15.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Shough",
+              "price": -114,
+              "point": 15.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-18T07:42:05Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Treyton Welch",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Noah Fant",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Travis Etienne Jr.",
+              "price": 105
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Barion Brown",
+              "price": 2400
+            },
+            {
+              "name": "Yes",
+              "description": "Kendre Miller",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "Durham Smythe",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Lamar Jackson",
+              "price": 170
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Zay Flowers",
+              "price": 135
+            },
+            {
+              "name": "Yes",
+              "description": "Oscar Delp",
+              "price": 2400
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Shough",
+              "price": 460
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Austin",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -305
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 163
+            },
+            {
+              "name": "Yes",
+              "description": "Alvin Kamara",
+              "price": 375
+            },
+            {
+              "name": "Yes",
+              "description": "Juwan Johnson",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Moore",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Olave",
+              "price": 170
+            },
+            {
+              "name": "Yes",
+              "description": "CJ Donaldson",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 410
+            },
+            {
+              "name": "Yes",
+              "description": "Elijah Sarratt",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Bryce Lance",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Devaughn Vele",
+              "price": 285
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-18T07:42:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": -106,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -125,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Shough",
+              "price": 170,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Shough",
+              "price": -235,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-18T07:42:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": -117,
+              "point": 215.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -114,
+              "point": 215.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Shough",
+              "price": -115,
+              "point": 234.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Shough",
+              "price": -115,
+              "point": 234.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-18T07:42:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chris Olave",
+              "price": -117,
+              "point": 71.5
+            },
+            {
+              "name": "Under",
+              "description": "Chris Olave",
+              "price": -114,
+              "point": 71.5
+            },
+            {
+              "name": "Over",
+              "description": "Devaughn Vele",
+              "price": -118,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "description": "Devaughn Vele",
+              "price": -113,
+              "point": 44.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-18T07:42:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Devaughn Vele",
+              "price": -137,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Chris Olave",
+              "price": -148,
+              "point": 5.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-18T07:42:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Travis Etienne Jr.",
+              "price": -114,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Travis Etienne Jr.",
+              "price": -117,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -114,
+              "point": 90.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -115,
+              "point": 90.5
+            },
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": -114,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -117,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-18T07:41:40Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Bryce Lance",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Barion Brown",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Juwan Johnson",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -225
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 270
+            },
+            {
+              "name": "Yes",
+              "description": "Oscar Delp",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Noah Fant",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "Baltimore Ravens D/ST",
+              "price": 375
+            },
+            {
+              "name": "Yes",
+              "description": "Durham Smythe",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Olave",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "Travis Etienne Jr.",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "New Orleans Saints D/ST",
+              "price": 625
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Alvin Kamara",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Zay Flowers",
+              "price": 125
+            },
+            {
+              "name": "Yes",
+              "description": "Kendre Miller",
+              "price": 625
+            },
+            {
+              "name": "Yes",
+              "description": "Lamar Jackson",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 135
+            },
+            {
+              "name": "Yes",
+              "description": "Devaughn Vele",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Shough",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Moore",
+              "price": 725
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-18T07:40:50Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Chris Moore",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Travis Etienne Jr.",
+              "price": 145
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -275
+            },
+            {
+              "name": "Yes",
+              "description": "Devaughn Vele",
+              "price": 390
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Olave",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 195
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 460
+            },
+            {
+              "name": "Yes",
+              "description": "Durham Smythe",
+              "price": 725
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Shough",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Alvin Kamara",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "Kendre Miller",
+              "price": 625
+            },
+            {
+              "name": "Yes",
+              "description": "Lamar Jackson",
+              "price": 160
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 135
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Bryce Lance",
+              "price": 725
+            },
+            {
+              "name": "Yes",
+              "description": "Noah Fant",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Barion Brown",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Juwan Johnson",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Oscar Delp",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Austin",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Baltimore Ravens D/ST",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "New Orleans Saints D/ST",
+              "price": 625
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 725
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-18T07:40:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": 100,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -130,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Shough",
+              "price": 170,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Shough",
+              "price": -230,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-18T07:40:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": -115,
+              "point": 213.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -115,
+              "point": 213.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Shough",
+              "price": -115,
+              "point": 239.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Shough",
+              "price": -115,
+              "point": 239.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-18T07:40:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chris Olave",
+              "price": -115,
+              "point": 70.5
+            },
+            {
+              "name": "Under",
+              "description": "Chris Olave",
+              "price": -115,
+              "point": 70.5
+            },
+            {
+              "name": "Over",
+              "description": "Devaughn Vele",
+              "price": -115,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Devaughn Vele",
+              "price": -115,
+              "point": 41.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-18T07:40:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chris Olave",
+              "price": -130,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Chris Olave",
+              "price": 100,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Devaughn Vele",
+              "price": -130,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Devaughn Vele",
+              "price": 100,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-18T07:40:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -115,
+              "point": 90.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -115,
+              "point": 90.5
+            },
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": -115,
+              "point": 39.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -115,
+              "point": 39.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-18T07:41:16Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "No Scorer",
+              "price": 10000
+            },
+            {
+              "name": "Yes",
+              "description": "Durham Smythe",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 125
+            },
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -240
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Elijah Sarratt",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Baltimore Ravens D/ST",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Alvin Kamara",
+              "price": 420
+            },
+            {
+              "name": "Yes",
+              "description": "Noah Fant",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Juwan Johnson",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Travis Etienne Jr.",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Olave",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Kendre Miller",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Treyton Welch",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Devaughn Vele",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Oscar Delp",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Bryce Lance",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Barion Brown",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "New Orleans Saints D/ST",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Lamar Jackson",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Shough",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Moore",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Austin",
+              "price": 3000
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-18T07:41:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Lamar Jackson",
+              "price": -105,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Lamar Jackson",
+              "price": -125,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-18T07:41:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tyler Shough",
+              "price": -120,
+              "point": 230.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Shough",
+              "price": -110,
+              "point": 230.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-18T07:41:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Mark Andrews",
+              "price": -135,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "description": "Mark Andrews",
+              "price": 100,
+              "point": 45.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-18T07:41:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Rashod Bateman",
+              "price": 185,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Rashod Bateman",
+              "price": -275,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-18T07:41:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Travis Etienne Jr.",
+              "price": -115,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "description": "Travis Etienne Jr.",
+              "price": -115,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
