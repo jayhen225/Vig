@@ -1,0 +1,530 @@
+{
+  "id": "68bc55903f50af4af4766adcc89fcc61",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-20T20:25:00Z",
+  "home_team": "San Francisco 49ers",
+  "away_team": "Miami Dolphins",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:33Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 600
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -900
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:33Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -105,
+              "point": 12.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -115,
+              "point": -12.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:11Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 650
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -1000
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:11Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -108,
+              "point": 13.0
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -112,
+              "point": -13.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:52:20Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 680
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -1050
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:52:20Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -105,
+              "point": 13.0
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -115,
+              "point": -13.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:52:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:35Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 686
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -1050
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:35Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -105,
+              "point": 13.0
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -105,
+              "point": -13.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 686
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -1050
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -105,
+              "point": 13.0
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -115,
+              "point": -13.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:52:18Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 640
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -950
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:52:18Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -115,
+              "point": 13.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -105,
+              "point": -13.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:52:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -106,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -114,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 575
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -910
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -113,
+              "point": 13.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -108,
+              "point": -13.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 650
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -900
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -108,
+              "point": 13.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -110,
+              "point": -13.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:50:06Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 650
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -1100
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:50:06Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -110,
+              "point": 13.0
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -110,
+              "point": -13.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:50:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:55Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 650
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -1000
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:55Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -110,
+              "point": 13.0
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -110,
+              "point": -13.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

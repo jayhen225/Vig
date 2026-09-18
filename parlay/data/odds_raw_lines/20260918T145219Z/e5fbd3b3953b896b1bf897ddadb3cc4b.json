@@ -1,0 +1,332 @@
+{
+  "id": "e5fbd3b3953b896b1bf897ddadb3cc4b",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-25T00:15:00Z",
+  "home_team": "Green Bay Packers",
+  "away_team": "Atlanta Falcons",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:33Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 250
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -310
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:33Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -105,
+              "point": 6.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -115,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:11Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 240
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -295
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:11Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -110,
+              "point": 6.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:52:20Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -110,
+              "point": 6.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:52:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:52:18Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 225
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -275
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:52:18Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -102,
+              "point": 5.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -120,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:52:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 245
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -305
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -112,
+              "point": 6.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -109,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -110,
+              "point": 6.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:35Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -105,
+              "point": 6.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -105,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

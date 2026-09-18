@@ -1,0 +1,530 @@
+{
+  "id": "4dd8020192a544385db42374e5555303",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-20T20:25:00Z",
+  "home_team": "Arizona Cardinals",
+  "away_team": "Seattle Seahawks",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:33Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 180
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -218
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:33Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 100,
+              "point": 3.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -120,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:11Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 174
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -209
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:11Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -114,
+              "point": 4.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -106,
+              "point": -4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -103,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:52:20Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 170
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -200
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:52:20Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 4.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -110,
+              "point": -4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:52:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:35Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 174
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -200
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:35Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -107,
+              "point": 4.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -103,
+              "point": -4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 174
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -200
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -112,
+              "point": 4.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -108,
+              "point": -4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:52:18Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 176
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -210
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:52:18Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -120,
+              "point": 4.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -102,
+              "point": -4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:52:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -120,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 170
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -210
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 4.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -110,
+              "point": -4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 175
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -210
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -112,
+              "point": 4.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -105,
+              "point": -4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -120,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:50:06Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 170
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -200
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:50:06Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -115,
+              "point": 4.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -105,
+              "point": -4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:50:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-18T14:51:55Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 170
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -205
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-18T14:51:55Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -105,
+              "point": 3.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -115,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-18T14:51:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
