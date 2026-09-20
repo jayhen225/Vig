@@ -1,0 +1,582 @@
+{
+  "id": "85ef85098ddd22fe4ecf45e7e3c0a9c0",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-20T20:25:00Z",
+  "home_team": "Dallas Cowboys",
+  "away_team": "Washington Commanders",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-20T19:08:15Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -205
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-20T19:08:15Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -120,
+              "point": -3.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 100,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-20T19:08:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -120,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": 100,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-20T19:08:13Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -209
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 175
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-20T19:08:13Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -111,
+              "point": -4.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -108,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-20T19:08:13Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -117,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -103,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-20T19:07:55Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -205
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 175
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-20T19:07:55Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -110,
+              "point": -4.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-20T19:07:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-20T19:07:12Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -210
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 176
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-20T19:07:12Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": 100,
+              "point": -4.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -120,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-20T19:07:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-20T19:08:16Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -205
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 177
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-20T19:08:16Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -103,
+              "point": -4.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -107,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-20T19:08:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-20T19:08:15Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -205
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 177
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-20T19:08:15Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -108,
+              "point": -4.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -112,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-20T19:08:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-20T19:07:53Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -215
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 180
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-20T19:07:53Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -106,
+              "point": -4.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -114,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-20T19:07:53Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-20T19:07:54Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -215
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-20T19:07:54Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -112,
+              "point": -4.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -109,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-20T19:07:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-20T19:07:53Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -210
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-20T19:07:53Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -105,
+              "point": -4.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -102,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-20T19:07:53Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-20T19:07:38Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -210
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 175
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-20T19:07:38Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -110,
+              "point": -4.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-20T19:07:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-20T19:07:13Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -205
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-20T19:07:13Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -110,
+              "point": -4.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-20T19:07:13Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
