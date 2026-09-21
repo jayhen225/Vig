@@ -1,0 +1,42 @@
+{
+  "id": "07f552badfa8a565d1be22123713e4da",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Detroit Lions",
+  "away_team": "New York Jets",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-21T09:43:30Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Jahmyr Gibbs",
+              "price": -275
+            },
+            {
+              "name": "Yes",
+              "description": "Amon-Ra St. Brown",
+              "price": -120
+            },
+            {
+              "name": "Yes",
+              "description": "Breece Hall",
+              "price": -110
+            },
+            {
+              "name": "Yes",
+              "description": "Garrett Wilson",
+              "price": 170
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

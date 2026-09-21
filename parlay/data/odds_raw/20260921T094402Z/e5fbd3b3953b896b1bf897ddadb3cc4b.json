@@ -1,0 +1,990 @@
+{
+  "id": "e5fbd3b3953b896b1bf897ddadb3cc4b",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-25T00:15:00Z",
+  "home_team": "Green Bay Packers",
+  "away_team": "Atlanta Falcons",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-21T09:43:55Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Bijan Robinson",
+              "price": -145
+            },
+            {
+              "name": "Yes",
+              "description": "Christian Watson",
+              "price": 155
+            },
+            {
+              "name": "Yes",
+              "description": "Tucker Kraft",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "Kaleb Johnson",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Golden",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Drake London",
+              "price": 195
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Brooks",
+              "price": 205
+            },
+            {
+              "name": "Yes",
+              "description": "MarShawn Lloyd",
+              "price": 230
+            },
+            {
+              "name": "Yes",
+              "description": "Skyy Moore",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Kyle Pitts",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Brian Robinson Jr.",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Green Bay Packers D/ST",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Atlanta Falcons D/ST",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Jonnu Smith",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Love",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Jahan Dotson",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Olamide Zaccheaus",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Penix Jr.",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Zachariah Branch",
+              "price": 1200
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-21T09:43:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -156,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": 122,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Michael Penix Jr.",
+              "price": -244,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Michael Penix Jr.",
+              "price": 188,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-21T09:43:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -112,
+              "point": 233.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -112,
+              "point": 233.5
+            },
+            {
+              "name": "Over",
+              "description": "Michael Penix Jr.",
+              "price": -113,
+              "point": 200.5
+            },
+            {
+              "name": "Under",
+              "description": "Michael Penix Jr.",
+              "price": -111,
+              "point": 200.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-21T09:43:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -114,
+              "point": 65.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -110,
+              "point": 65.5
+            },
+            {
+              "name": "Over",
+              "description": "Drake London",
+              "price": -113,
+              "point": 61.5
+            },
+            {
+              "name": "Under",
+              "description": "Drake London",
+              "price": -111,
+              "point": 61.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": -114,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -110,
+              "point": 50.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -110,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -114,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "Bijan Robinson",
+              "price": -109,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Bijan Robinson",
+              "price": -115,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Pitts",
+              "price": -111,
+              "point": 38.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Pitts",
+              "price": -113,
+              "point": 38.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-21T09:43:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Drake London",
+              "price": -157,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Drake London",
+              "price": 123,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Bijan Robinson",
+              "price": -143,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Bijan Robinson",
+              "price": 112,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -106,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -120,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": 113,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -145,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Pitts",
+              "price": -144,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Pitts",
+              "price": 113,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -120,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -106,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-21T09:43:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bijan Robinson",
+              "price": -114,
+              "point": 81.5
+            },
+            {
+              "name": "Under",
+              "description": "Bijan Robinson",
+              "price": -110,
+              "point": 81.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-21T09:43:05Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Bijan Robinson",
+              "price": -152
+            },
+            {
+              "name": "Yes",
+              "description": "Christian Watson",
+              "price": 156
+            },
+            {
+              "name": "Yes",
+              "description": "Tucker Kraft",
+              "price": 167
+            },
+            {
+              "name": "Yes",
+              "description": "Kaleb Johnson",
+              "price": 172
+            },
+            {
+              "name": "Yes",
+              "description": "Drake London",
+              "price": 197
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Brooks",
+              "price": 198
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Golden",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "MarShawn Lloyd",
+              "price": 235
+            },
+            {
+              "name": "Yes",
+              "description": "Skyy Moore",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Kyle Pitts",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Brian Robinson Jr.",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Jonnu Smith",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Love",
+              "price": 625
+            },
+            {
+              "name": "Yes",
+              "description": "Jahan Dotson",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Olamide Zaccheaus",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Penix Jr.",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Zachariah Branch",
+              "price": 1300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-21T09:43:45Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Bijan Robinson",
+              "price": -155
+            },
+            {
+              "name": "Yes",
+              "description": "Christian Watson",
+              "price": 155
+            },
+            {
+              "name": "Yes",
+              "description": "Tucker Kraft",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Kaleb Johnson",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Brooks",
+              "price": 195
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Golden",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Drake London",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "MarShawn Lloyd",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Skyy Moore",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Kyle Pitts",
+              "price": 390
+            },
+            {
+              "name": "Yes",
+              "description": "Brian Robinson Jr.",
+              "price": 440
+            },
+            {
+              "name": "Yes",
+              "description": "Jonnu Smith",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Love",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Green Bay Packers Defense",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Atlanta Falcons Defense",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Jahan Dotson",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Olamide Zaccheaus",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Penix Jr.",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Zachariah Branch",
+              "price": 1500
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-21T09:43:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Michael Penix Jr.",
+              "price": -260,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Michael Penix Jr.",
+              "price": 188,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -138,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": 104,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-21T09:43:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Michael Penix Jr.",
+              "price": -114,
+              "point": 203.5
+            },
+            {
+              "name": "Under",
+              "description": "Michael Penix Jr.",
+              "price": -114,
+              "point": 203.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -114,
+              "point": 226.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -114,
+              "point": 226.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-21T09:43:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -114,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -114,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "Drake London",
+              "price": -114,
+              "point": 63.5
+            },
+            {
+              "name": "Under",
+              "description": "Drake London",
+              "price": -114,
+              "point": 63.5
+            },
+            {
+              "name": "Over",
+              "description": "Bijan Robinson",
+              "price": -114,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "description": "Bijan Robinson",
+              "price": -114,
+              "point": 40.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Pitts",
+              "price": -114,
+              "point": 37.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Pitts",
+              "price": -114,
+              "point": 37.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -114,
+              "point": 66.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -114,
+              "point": 66.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": -114,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -114,
+              "point": 52.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-21T09:43:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Drake London",
+              "price": -158,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Drake London",
+              "price": 118,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": 112,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -148,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Bijan Robinson",
+              "price": -148,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Bijan Robinson",
+              "price": 112,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -114,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -114,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -122,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -108,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Pitts",
+              "price": -140,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Pitts",
+              "price": 106,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-21T09:43:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bijan Robinson",
+              "price": -114,
+              "point": 83.5
+            },
+            {
+              "name": "Under",
+              "description": "Bijan Robinson",
+              "price": -114,
+              "point": 83.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-21T09:43:08Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "No Scorer",
+              "price": 6000
+            },
+            {
+              "name": "Yes",
+              "description": "Jonnu Smith",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Love",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Skyy Moore",
+              "price": 420
+            },
+            {
+              "name": "Yes",
+              "description": "Christian Watson",
+              "price": 170
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Melton",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Brooks",
+              "price": 225
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Whyle",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Tucker Kraft",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "MarShawn Lloyd",
+              "price": 280
+            },
+            {
+              "name": "Yes",
+              "description": "Kaleb Johnson",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Golden",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Redman",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "J. Michael Sturdivant",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Green Bay Packers D/ST",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Austin Hooper",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Olamide Zaccheaus",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Charlie Woerner",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Blair",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Kyle Pitts",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Jahan Dotson",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Brian Robinson Jr.",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Muse",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "Drake London",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Bijan Robinson",
+              "price": -150
+            },
+            {
+              "name": "Yes",
+              "description": "Zachariah Branch",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Atlanta Falcons D/ST",
+              "price": 700
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-21T09:43:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -115,
+              "point": 225.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -115,
+              "point": 225.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-21T09:43:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -120,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -110,
+              "point": 40.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-21T09:43:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bijan Robinson",
+              "price": -125,
+              "point": 80.5
+            },
+            {
+              "name": "Under",
+              "description": "Bijan Robinson",
+              "price": -105,
+              "point": 80.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

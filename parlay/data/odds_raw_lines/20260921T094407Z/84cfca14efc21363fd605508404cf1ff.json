@@ -1,0 +1,436 @@
+{
+  "id": "84cfca14efc21363fd605508404cf1ff",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T20:25:00Z",
+  "home_team": "Dallas Cowboys",
+  "away_team": "Baltimore Ravens",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T09:43:16Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -148
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": 124
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T09:43:16Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -105,
+              "point": -3.0
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": -115,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T09:43:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T09:41:44Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -157
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": 132
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T09:41:44Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -104,
+              "point": -3.0
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": -115,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T09:41:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -106,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -114,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T09:43:55Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -152
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": 128
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T09:43:55Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -104,
+              "point": -3.0
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": -118,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T09:43:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T09:43:17Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -160
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": 130
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T09:43:17Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -108,
+              "point": -3.0
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": -110,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T09:43:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T09:42:24Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -160
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": 135
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T09:42:24Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 100,
+              "point": -3.0
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": -120,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T09:42:24Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T09:43:17Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -162
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": 132
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T09:43:17Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -107,
+              "point": -3.0
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": -114,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T09:43:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T09:43:37Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -105,
+              "point": -3.0
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": -115,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T09:43:37Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T09:43:36Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 100,
+              "point": -3.0
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": -110,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T09:43:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -116,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": 101,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T09:43:17Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -105,
+              "point": -3.0
+            },
+            {
+              "name": "Dallas Cowboys",
+              "price": -115,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T09:43:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

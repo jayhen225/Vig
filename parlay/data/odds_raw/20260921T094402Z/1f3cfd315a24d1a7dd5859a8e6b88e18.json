@@ -1,0 +1,42 @@
+{
+  "id": "1f3cfd315a24d1a7dd5859a8e6b88e18",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Jacksonville Jaguars",
+  "away_team": "New England Patriots",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-21T09:43:06Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Bhayshul Tuten",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "TreVeyon Henderson",
+              "price": 155
+            },
+            {
+              "name": "Yes",
+              "description": "Parker Washington",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Drake Maye",
+              "price": 320
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
