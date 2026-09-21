@@ -1,0 +1,436 @@
+{
+  "id": "3bfd8bfb4b8e9a365a0877879b73b16b",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-28T00:20:00Z",
+  "home_team": "Denver Broncos",
+  "away_team": "Los Angeles Rams",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:51:52Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 114
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -135
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:52Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:52Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:28Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 100,
+              "point": 2.0
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -120,
+              "point": -2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:49:48Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 120
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -141
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:49:48Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -105,
+              "point": 2.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -114,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:49:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 118
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -138
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 114
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -139
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -108,
+              "point": 2.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -113,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -105,
+              "point": 2.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -105,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:53Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:53Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:50:22Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 111
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -142
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:50:22Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:50:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 115
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -140
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -108,
+              "point": 2.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

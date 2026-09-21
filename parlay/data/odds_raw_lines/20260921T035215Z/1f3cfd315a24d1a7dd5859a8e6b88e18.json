@@ -1,0 +1,436 @@
+{
+  "id": "1f3cfd315a24d1a7dd5859a8e6b88e18",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Jacksonville Jaguars",
+  "away_team": "New England Patriots",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:51:52Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -148
+            },
+            {
+              "name": "New England Patriots",
+              "price": 124
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:52Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -118,
+              "point": -2.5
+            },
+            {
+              "name": "New England Patriots",
+              "price": -102,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:52Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:49:48Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -141
+            },
+            {
+              "name": "New England Patriots",
+              "price": 120
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:49:48Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -115,
+              "point": -2.5
+            },
+            {
+              "name": "New England Patriots",
+              "price": -102,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:49:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -114,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -106,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:28Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 100,
+              "point": -3.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -120,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -146
+            },
+            {
+              "name": "New England Patriots",
+              "price": 124
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -115,
+              "point": -2.5
+            },
+            {
+              "name": "New England Patriots",
+              "price": -105,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -137
+            },
+            {
+              "name": "New England Patriots",
+              "price": 114
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -113,
+              "point": -2.5
+            },
+            {
+              "name": "New England Patriots",
+              "price": -108,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 105,
+              "point": -3.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -116,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:53Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 100,
+              "point": -3.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -120,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:53Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:50:22Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -149
+            },
+            {
+              "name": "New England Patriots",
+              "price": 117
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:50:22Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -110,
+              "point": -2.5
+            },
+            {
+              "name": "New England Patriots",
+              "price": -110,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:50:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -145
+            },
+            {
+              "name": "New England Patriots",
+              "price": 120
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -118,
+              "point": -2.5
+            },
+            {
+              "name": "New England Patriots",
+              "price": -102,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "id": "07f552badfa8a565d1be22123713e4da",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Detroit Lions",
+  "away_team": "New York Jets",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:51:52Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -290
+            },
+            {
+              "name": "New York Jets",
+              "price": 235
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:52Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -115,
+              "point": -6.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -105,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:52Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 48.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:49:48Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -320
+            },
+            {
+              "name": "New York Jets",
+              "price": 250
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:49:48Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -117,
+              "point": -6.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -104,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:49:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -335
+            },
+            {
+              "name": "New York Jets",
+              "price": 270
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -120,
+              "point": -6.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -102,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -305
+            },
+            {
+              "name": "New York Jets",
+              "price": 240
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -118,
+              "point": -6.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -104,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -6.5
+            },
+            {
+              "name": "New York Jets",
+              "price": 100,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:28Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": 105,
+              "point": -7.0
+            },
+            {
+              "name": "New York Jets",
+              "price": -125,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:51:53Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -115,
+              "point": -6.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -105,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:51:53Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:50:22Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -310
+            },
+            {
+              "name": "New York Jets",
+              "price": 230
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:50:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -325
+            },
+            {
+              "name": "New York Jets",
+              "price": 270
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -105,
+              "point": -7.0
+            },
+            {
+              "name": "New York Jets",
+              "price": -112,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-21T03:52:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
