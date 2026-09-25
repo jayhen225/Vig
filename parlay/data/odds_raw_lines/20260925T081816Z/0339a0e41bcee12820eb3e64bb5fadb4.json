@@ -1,0 +1,582 @@
+{
+  "id": "0339a0e41bcee12820eb3e64bb5fadb4",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Miami Dolphins",
+  "away_team": "Kansas City Chiefs",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T08:17:21Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -650
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 470
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T08:17:21Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -112,
+              "point": -10.5
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -108,
+              "point": 10.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T08:17:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T08:17:31Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -675
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 475
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T08:17:31Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -109,
+              "point": -11.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -109,
+              "point": 11.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T08:17:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -117,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -103,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T08:17:19Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -750
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 530
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T08:17:19Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -11.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -110,
+              "point": 11.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T08:17:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T08:18:10Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -720
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 520
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T08:18:10Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -115,
+              "point": -10.5
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -105,
+              "point": 10.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T08:18:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T08:17:20Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -770
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 510
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T08:17:20Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -109,
+              "point": -11.5
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -112,
+              "point": 11.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T08:17:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T08:18:12Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -650
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 476
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T08:18:12Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": 102,
+              "point": -11.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -113,
+              "point": 11.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T08:18:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T08:18:11Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -650
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 476
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T08:18:11Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -11.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -110,
+              "point": 11.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T08:18:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T08:17:20Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -676
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 460
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T08:17:20Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -11.0
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -110,
+              "point": 11.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T08:17:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T08:17:39Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -650
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 500
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T08:17:39Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -10.5
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -108,
+              "point": 10.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T08:17:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T08:16:17Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -650
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 450
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T08:16:17Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -10.5
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -110,
+              "point": 10.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T08:16:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T08:17:54Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -650
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": 460
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T08:17:54Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -10.5
+            },
+            {
+              "name": "Miami Dolphins",
+              "price": -110,
+              "point": 10.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T08:17:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
