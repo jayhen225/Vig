@@ -1,0 +1,582 @@
+{
+  "id": "9d2b09e0f9b6dd5ce0d985894f4f98fa",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T20:05:00Z",
+  "home_team": "San Francisco 49ers",
+  "away_team": "Arizona Cardinals",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:23Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 350
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -455
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:23Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -112,
+              "point": 8.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -108,
+              "point": -8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:18:47Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 325
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -410
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:18:47Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -105,
+              "point": 8.0
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -115,
+              "point": -8.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:18:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -117,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -103,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:41Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 325
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -410
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:41Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -115,
+              "point": 9.0
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -105,
+              "point": -9.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:40Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 380
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -490
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:40Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -105,
+              "point": 8.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -115,
+              "point": -8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:24Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 335
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -455
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:24Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 8.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -110,
+              "point": -8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:24Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:58Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 324
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -410
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:58Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -109,
+              "point": 8.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -101,
+              "point": -8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:58Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:56Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 324
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -410
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:56Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -116,
+              "point": 9.0
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -104,
+              "point": -9.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:19:31Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 320
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -429
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:19:31Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 8.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -110,
+              "point": -8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:19:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:25Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 340
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -450
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:25Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 8.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -108,
+              "point": -8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -120,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:26Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 300
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -400
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:26Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 8.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -110,
+              "point": -8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:23Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 325
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -425
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:23Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 8.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -110,
+              "point": -8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

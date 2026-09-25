@@ -1,0 +1,2723 @@
+{
+  "id": "71123be049587b6facce3a20c53e5d09",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Pittsburgh Steelers",
+  "away_team": "Cincinnati Bengals",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-25T02:20:36Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -110
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Warren",
+              "price": 110
+            },
+            {
+              "name": "Yes",
+              "description": "Rico Dowdle",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Marr Chase",
+              "price": 135
+            },
+            {
+              "name": "Yes",
+              "description": "Tee Higgins",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "DK Metcalf",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Pittman Jr.",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Roman Wilson",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Pat Freiermuth",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 425
+            },
+            {
+              "name": "Yes",
+              "description": "Germie Bernard",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Cincinnati Bengals D/ST",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Pittsburgh Steelers D/ST",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Washington",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Eli Heidenreich",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Aaron Rodgers",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Ke'Shawn Williams",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Skowronek",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Kaden Wetjen",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "Robert Tonyan",
+              "price": 3500
+            },
+            {
+              "name": "Yes",
+              "description": "Riley Nowakowski",
+              "price": 3500
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 3500
+            },
+            {
+              "name": "Yes",
+              "description": "Jack Endries",
+              "price": 3500
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-25T02:20:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -111,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Rodgers",
+              "price": 172,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Rodgers",
+              "price": -222,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-25T02:20:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -112,
+              "point": 255.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -112,
+              "point": 255.5
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Rodgers",
+              "price": -114,
+              "point": 219.5
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Rodgers",
+              "price": -110,
+              "point": 219.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-25T02:20:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ja'Marr Chase",
+              "price": -114,
+              "point": 75.5
+            },
+            {
+              "name": "Under",
+              "description": "Ja'Marr Chase",
+              "price": -110,
+              "point": 75.5
+            },
+            {
+              "name": "Over",
+              "description": "Tee Higgins",
+              "price": -113,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "description": "Tee Higgins",
+              "price": -111,
+              "point": 54.5
+            },
+            {
+              "name": "Over",
+              "description": "DK Metcalf",
+              "price": -113,
+              "point": 51.5
+            },
+            {
+              "name": "Under",
+              "description": "DK Metcalf",
+              "price": -111,
+              "point": 51.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Freiermuth",
+              "price": -109,
+              "point": 35.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Freiermuth",
+              "price": -115,
+              "point": 35.5
+            },
+            {
+              "name": "Over",
+              "description": "Mike Gesicki",
+              "price": -110,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Mike Gesicki",
+              "price": -114,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -116,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -108,
+              "point": 21.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-25T02:20:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ja'Marr Chase",
+              "price": -111,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Ja'Marr Chase",
+              "price": -115,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "DK Metcalf",
+              "price": 110,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "DK Metcalf",
+              "price": -140,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Tee Higgins",
+              "price": 112,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Tee Higgins",
+              "price": -143,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Freiermuth",
+              "price": -139,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Freiermuth",
+              "price": 109,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": 116,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -149,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Mike Gesicki",
+              "price": -118,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Mike Gesicki",
+              "price": -108,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-25T02:20:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -115,
+              "point": 62.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -109,
+              "point": 62.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Warren",
+              "price": -113,
+              "point": 57.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Warren",
+              "price": -111,
+              "point": 57.5
+            },
+            {
+              "name": "Over",
+              "description": "Samaje Perine",
+              "price": -108,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Samaje Perine",
+              "price": -116,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -104,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -121,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Rodgers",
+              "price": -116,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Rodgers",
+              "price": -108,
+              "point": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-25T02:19:54Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -115
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Warren",
+              "price": 107
+            },
+            {
+              "name": "Yes",
+              "description": "Rico Dowdle",
+              "price": 121
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Marr Chase",
+              "price": 122
+            },
+            {
+              "name": "Yes",
+              "description": "Tee Higgins",
+              "price": 174
+            },
+            {
+              "name": "Yes",
+              "description": "DK Metcalf",
+              "price": 199
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Pittman Jr.",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "Pat Freiermuth",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Roman Wilson",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 375
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Germie Bernard",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Washington",
+              "price": 625
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Eli Heidenreich",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Aaron Rodgers",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Skowronek",
+              "price": 2100
+            },
+            {
+              "name": "Yes",
+              "description": "Kaden Wetjen",
+              "price": 2100
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 2400
+            },
+            {
+              "name": "Yes",
+              "description": "Riley Nowakowski",
+              "price": 2600
+            },
+            {
+              "name": "Yes",
+              "description": "Jack Endries",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "Robert Tonyan",
+              "price": 3300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-25T02:20:05Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -115
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Warren",
+              "price": 105
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Marr Chase",
+              "price": 115
+            },
+            {
+              "name": "Yes",
+              "description": "Tee Higgins",
+              "price": 170
+            },
+            {
+              "name": "Yes",
+              "description": "DK Metcalf",
+              "price": 195
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Pittman Jr.",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Pat Freiermuth",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Roman Wilson",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Germie Bernard",
+              "price": 420
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 440
+            },
+            {
+              "name": "Yes",
+              "description": "Eli Heidenreich",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Washington",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Cincinnati Bengals Defense",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Pittsburgh Steelers Defense",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Aaron Rodgers",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 1800
+            },
+            {
+              "name": "Yes",
+              "description": "Ke'Shawn Williams",
+              "price": 1800
+            },
+            {
+              "name": "Yes",
+              "description": "Kaden Wetjen",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Skowronek",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Riley Nowakowski",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 2700
+            },
+            {
+              "name": "Yes",
+              "description": "Jack Endries",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "Robert Tonyan",
+              "price": 4000
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-25T02:20:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -102,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -130,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Rodgers",
+              "price": 162,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Rodgers",
+              "price": -220,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-25T02:20:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Aaron Rodgers",
+              "price": -114,
+              "point": 220.5
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Rodgers",
+              "price": -114,
+              "point": 220.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 253.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 253.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-25T02:20:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "DK Metcalf",
+              "price": -114,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "description": "DK Metcalf",
+              "price": -114,
+              "point": 52.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Freiermuth",
+              "price": -114,
+              "point": 35.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Freiermuth",
+              "price": -114,
+              "point": 35.5
+            },
+            {
+              "name": "Over",
+              "description": "Tee Higgins",
+              "price": -114,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "description": "Tee Higgins",
+              "price": -114,
+              "point": 53.5
+            },
+            {
+              "name": "Over",
+              "description": "Mike Gesicki",
+              "price": -114,
+              "point": 23.5
+            },
+            {
+              "name": "Under",
+              "description": "Mike Gesicki",
+              "price": -114,
+              "point": 23.5
+            },
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -114,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -114,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "Ja'Marr Chase",
+              "price": -114,
+              "point": 74.5
+            },
+            {
+              "name": "Under",
+              "description": "Ja'Marr Chase",
+              "price": -114,
+              "point": 74.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-25T02:20:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Pat Freiermuth",
+              "price": -148,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Freiermuth",
+              "price": 112,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "DK Metcalf",
+              "price": -102,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "DK Metcalf",
+              "price": -130,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Tee Higgins",
+              "price": 106,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Tee Higgins",
+              "price": -140,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": 106,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -140,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Ja'Marr Chase",
+              "price": -122,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Ja'Marr Chase",
+              "price": -108,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Mike Gesicki",
+              "price": -122,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Mike Gesicki",
+              "price": -108,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-25T02:20:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jaylen Warren",
+              "price": -114,
+              "point": 57.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Warren",
+              "price": -114,
+              "point": 57.5
+            },
+            {
+              "name": "Over",
+              "description": "Samaje Perine",
+              "price": -114,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Samaje Perine",
+              "price": -114,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -114,
+              "point": 63.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -114,
+              "point": 63.5
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Rodgers",
+              "price": -110,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Rodgers",
+              "price": -118,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 5.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-25T02:20:48Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Germie Bernard",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Tee Higgins",
+              "price": 138
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Skowronek",
+              "price": 2400
+            },
+            {
+              "name": "Yes",
+              "description": "DK Metcalf",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Riley Nowakowski",
+              "price": 3500
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Pittman Jr.",
+              "price": 375
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Eli Heidenreich",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Marr Chase",
+              "price": 104
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Warren",
+              "price": -103
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Washington",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Kaden Wetjen",
+              "price": 2900
+            },
+            {
+              "name": "Yes",
+              "description": "Robert Tonyan",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Aaron Rodgers",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Ke'Shawn Williams",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Roman Wilson",
+              "price": 390
+            },
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -139
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 275
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Pat Freiermuth",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Rico Dowdle",
+              "price": 155
+            },
+            {
+              "name": "Yes",
+              "description": "Jack Endries",
+              "price": 1600
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-25T02:20:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -109,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -122,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Aaron Rodgers",
+              "price": 190,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Rodgers",
+              "price": -265,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-25T02:20:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Aaron Rodgers",
+              "price": -117,
+              "point": 220.5
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Rodgers",
+              "price": -114,
+              "point": 220.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 251.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -117,
+              "point": 251.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-25T02:20:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ja'Marr Chase",
+              "price": -114,
+              "point": 74.5
+            },
+            {
+              "name": "Under",
+              "description": "Ja'Marr Chase",
+              "price": -117,
+              "point": 74.5
+            },
+            {
+              "name": "Over",
+              "description": "Mike Gesicki",
+              "price": -113,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Mike Gesicki",
+              "price": -118,
+              "point": 25.5
+            },
+            {
+              "name": "Over",
+              "description": "DK Metcalf",
+              "price": -114,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "description": "DK Metcalf",
+              "price": -117,
+              "point": 52.5
+            },
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -117,
+              "point": 22.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -114,
+              "point": 22.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Freiermuth",
+              "price": -113,
+              "point": 36.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Freiermuth",
+              "price": -118,
+              "point": 36.5
+            },
+            {
+              "name": "Over",
+              "description": "Tee Higgins",
+              "price": -118,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "description": "Tee Higgins",
+              "price": -113,
+              "point": 53.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-25T02:20:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Mike Gesicki",
+              "price": -125,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Freiermuth",
+              "price": -150,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "DK Metcalf",
+              "price": 100,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Tee Higgins",
+              "price": 104,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": 118,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Ja'Marr Chase",
+              "price": -122,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-25T02:20:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -109,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -122,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Samaje Perine",
+              "price": -114,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Samaje Perine",
+              "price": -117,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Warren",
+              "price": -115,
+              "point": 57.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Warren",
+              "price": -115,
+              "point": 57.5
+            },
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -113,
+              "point": 63.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -118,
+              "point": 63.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-25T02:20:27Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 325
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Tee Higgins",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Marr Chase",
+              "price": 100
+            },
+            {
+              "name": "Yes",
+              "description": "Pat Freiermuth",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -167
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Washington",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "DK Metcalf",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Skowronek",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Roman Wilson",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Warren",
+              "price": -111
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 325
+            },
+            {
+              "name": "Yes",
+              "description": "Aaron Rodgers",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Eli Heidenreich",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Rico Dowdle",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "Kaden Wetjen",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Pittman Jr.",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Germie Bernard",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Robert Tonyan",
+              "price": 3400
+            },
+            {
+              "name": "Yes",
+              "description": "Riley Nowakowski",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Ke'Shawn Williams",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Jack Endries",
+              "price": 2900
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-25T02:20:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Aaron Rodgers",
+              "price": 171,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Rodgers",
+              "price": -227,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -109,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -119,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-25T02:20:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Aaron Rodgers",
+              "price": -112,
+              "point": 220.5
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Rodgers",
+              "price": -115,
+              "point": 220.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 255.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 255.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-25T02:20:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -115,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -112,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "DK Metcalf",
+              "price": -115,
+              "point": 51.5
+            },
+            {
+              "name": "Under",
+              "description": "DK Metcalf",
+              "price": -112,
+              "point": 51.5
+            },
+            {
+              "name": "Over",
+              "description": "Tee Higgins",
+              "price": -116,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "description": "Tee Higgins",
+              "price": -111,
+              "point": 54.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Freiermuth",
+              "price": -110,
+              "point": 35.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Freiermuth",
+              "price": -118,
+              "point": 35.5
+            },
+            {
+              "name": "Over",
+              "description": "Ja'Marr Chase",
+              "price": -116,
+              "point": 74.5
+            },
+            {
+              "name": "Under",
+              "description": "Ja'Marr Chase",
+              "price": -111,
+              "point": 74.5
+            },
+            {
+              "name": "Over",
+              "description": "Mike Gesicki",
+              "price": -114,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Mike Gesicki",
+              "price": -114,
+              "point": 24.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-25T02:20:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Pat Freiermuth",
+              "price": -130,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Freiermuth",
+              "price": 100,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "DK Metcalf",
+              "price": 104,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "DK Metcalf",
+              "price": -135,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": 109,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -141,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Tee Higgins",
+              "price": 110,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Tee Higgins",
+              "price": -143,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Ja'Marr Chase",
+              "price": -115,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Ja'Marr Chase",
+              "price": -112,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Mike Gesicki",
+              "price": -119,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Mike Gesicki",
+              "price": -109,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-25T02:20:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -114,
+              "point": 63.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -114,
+              "point": 63.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Warren",
+              "price": -115,
+              "point": 57.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Warren",
+              "price": -112,
+              "point": 57.5
+            },
+            {
+              "name": "Over",
+              "description": "Samaje Perine",
+              "price": -112,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Samaje Perine",
+              "price": -115,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 5.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-25T02:20:36Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Ja'Marr Chase",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Tee Higgins",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "Riley Nowakowski",
+              "price": 4000
+            },
+            {
+              "name": "Yes",
+              "description": "Pittsburgh Steelers D/ST",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "DK Metcalf",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Cincinnati Bengals D/ST",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -111
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Washington",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 775
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 390
+            },
+            {
+              "name": "Yes",
+              "description": "Aaron Rodgers",
+              "price": 1450
+            },
+            {
+              "name": "Yes",
+              "description": "Robert Tonyan",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Kaden Wetjen",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Skowronek",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Germie Bernard",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 775
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 1750
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 325
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Warren",
+              "price": -118
+            },
+            {
+              "name": "Yes",
+              "description": "Pat Freiermuth",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Roman Wilson",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Pittman Jr.",
+              "price": 300
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-25T02:20:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 255.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 255.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-25T02:20:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tee Higgins",
+              "price": -115,
+              "point": 55.5
+            },
+            {
+              "name": "Under",
+              "description": "Tee Higgins",
+              "price": -115,
+              "point": 55.5
+            },
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -111,
+              "point": 22.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -120,
+              "point": 22.5
+            },
+            {
+              "name": "Over",
+              "description": "Ja'Marr Chase",
+              "price": -115,
+              "point": 77.5
+            },
+            {
+              "name": "Under",
+              "description": "Ja'Marr Chase",
+              "price": -115,
+              "point": 77.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-25T02:20:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tee Higgins",
+              "price": 115,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Tee Higgins",
+              "price": -155,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": 105,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -140,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Ja'Marr Chase",
+              "price": -125,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Ja'Marr Chase",
+              "price": -105,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-25T02:20:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -115,
+              "point": 63.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -115,
+              "point": 63.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-25T02:20:53Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Cincinnati Bengals D/ST",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Pittsburgh Steelers D/ST",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 825
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 3300
+            },
+            {
+              "name": "Yes",
+              "description": "Ke'Shawn Williams",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Skowronek",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Riley Nowakowski",
+              "price": 3300
+            },
+            {
+              "name": "Yes",
+              "description": "Kaden Wetjen",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Germie Bernard",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Eli Heidenreich",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Robert Tonyan",
+              "price": 3300
+            },
+            {
+              "name": "Yes",
+              "description": "Jack Endries",
+              "price": 3300
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Marr Chase",
+              "price": 135
+            },
+            {
+              "name": "Yes",
+              "description": "Tee Higgins",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -114
+            },
+            {
+              "name": "Yes",
+              "description": "DK Metcalf",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Roman Wilson",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Aaron Rodgers",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Pat Freiermuth",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Washington",
+              "price": 625
+            },
+            {
+              "name": "Yes",
+              "description": "Rico Dowdle",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Pittman Jr.",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Warren",
+              "price": 110
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 420
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 625
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-25T02:20:53Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Aaron Rodgers",
+              "price": 170,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Rodgers",
+              "price": -230,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-25T02:20:53Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Aaron Rodgers",
+              "price": -115,
+              "point": 219.5
+            },
+            {
+              "name": "Under",
+              "description": "Aaron Rodgers",
+              "price": -115,
+              "point": 219.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 255.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 255.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-25T02:20:53Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -120,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -110,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "DK Metcalf",
+              "price": -115,
+              "point": 51.5
+            },
+            {
+              "name": "Under",
+              "description": "DK Metcalf",
+              "price": -115,
+              "point": 51.5
+            },
+            {
+              "name": "Over",
+              "description": "Ja'Marr Chase",
+              "price": -115,
+              "point": 75.5
+            },
+            {
+              "name": "Under",
+              "description": "Ja'Marr Chase",
+              "price": -115,
+              "point": 75.5
+            },
+            {
+              "name": "Over",
+              "description": "Mike Gesicki",
+              "price": -115,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Mike Gesicki",
+              "price": -115,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Freiermuth",
+              "price": -110,
+              "point": 35.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Freiermuth",
+              "price": -120,
+              "point": 35.5
+            },
+            {
+              "name": "Over",
+              "description": "Tee Higgins",
+              "price": -115,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "description": "Tee Higgins",
+              "price": -115,
+              "point": 54.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-25T02:20:53Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": 115,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -150,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "DK Metcalf",
+              "price": 110,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "DK Metcalf",
+              "price": -145,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Ja'Marr Chase",
+              "price": -110,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Ja'Marr Chase",
+              "price": -120,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Mike Gesicki",
+              "price": -120,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Mike Gesicki",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Freiermuth",
+              "price": -145,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Freiermuth",
+              "price": 110,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Tee Higgins",
+              "price": 110,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Tee Higgins",
+              "price": -145,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-25T02:20:53Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -120,
+              "point": 62.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -110,
+              "point": 62.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-09-25T02:20:19Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "No Scorer",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Aaron Rodgers",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Robert Tonyan",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "DK Metcalf",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Pittman Jr.",
+              "price": 390
+            },
+            {
+              "name": "Yes",
+              "description": "Rico Dowdle",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Skowronek",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Pat Freiermuth",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Warren",
+              "price": 115
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Washington",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Roman Wilson",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Germie Bernard",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Kaden Wetjen",
+              "price": 1800
+            },
+            {
+              "name": "Yes",
+              "description": "Riley Nowakowski",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Pittsburgh Steelers D/ST",
+              "price": 390
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 410
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Tee Higgins",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Marr Chase",
+              "price": 125
+            },
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -105
+            },
+            {
+              "name": "Yes",
+              "description": "Andrei Iosivas",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Ke'Shawn Williams",
+              "price": 1800
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Jack Endries",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Cincinnati Bengals D/ST",
+              "price": 430
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-09-25T02:20:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -120,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-09-25T02:20:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 250.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 250.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-09-25T02:20:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Pat Freiermuth",
+              "price": -115,
+              "point": 35.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Freiermuth",
+              "price": -115,
+              "point": 35.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-09-25T02:20:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Pat Freiermuth",
+              "price": -150,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Freiermuth",
+              "price": 110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-09-25T02:20:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -135,
+              "point": 60.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": 100,
+              "point": 60.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

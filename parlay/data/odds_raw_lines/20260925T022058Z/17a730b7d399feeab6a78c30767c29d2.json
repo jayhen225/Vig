@@ -1,0 +1,582 @@
+{
+  "id": "17a730b7d399feeab6a78c30767c29d2",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T17:00:00Z",
+  "home_team": "Indianapolis Colts",
+  "away_team": "Houston Texans",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:23Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -125
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:23Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -118,
+              "point": -1.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -102,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:18:47Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -129
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 110
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:18:47Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -114,
+              "point": -1.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -105,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:18:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:41Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -125
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:41Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -115,
+              "point": -1.0
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -105,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:40Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -132
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 112
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:40Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -115,
+              "point": -1.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -105,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:24Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -136
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 112
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:24Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": -2.0
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -110,
+              "point": 2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:24Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:19:50Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -121
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 101
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:19:50Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": -1.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 100,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:19:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:56Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -121
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 101
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:56Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -115,
+              "point": -1.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -105,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:19:31Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -129
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:19:31Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": -1.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -110,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:19:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:25Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -125
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:25Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": -1.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -108,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:26Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -130
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 110
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:26Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -115,
+              "point": -1.5
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -105,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T02:20:23Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -125
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": 105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T02:20:23Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": -2.0
+            },
+            {
+              "name": "Indianapolis Colts",
+              "price": -110,
+              "point": 2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T02:20:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
