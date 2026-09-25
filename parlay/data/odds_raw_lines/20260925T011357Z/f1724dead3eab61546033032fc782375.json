@@ -1,0 +1,568 @@
+{
+  "id": "f1724dead3eab61546033032fc782375",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T20:05:00Z",
+  "home_team": "Tampa Bay Buccaneers",
+  "away_team": "Minnesota Vikings",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:13:11Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -122
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 102
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:13:11Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -108,
+              "point": -1.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -112,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:13:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:06:19Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -124
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:06:19Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -107,
+              "point": -1.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -113,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:06:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:13:12Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -120,
+              "point": 0.0
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 100,
+              "point": 0.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:13:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:13:47Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -124
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 106
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:13:47Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -1.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -110,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:13:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:13:11Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -125
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 104
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:13:11Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -112,
+              "point": -1.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -109,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:13:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -114,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:13:28Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -125
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:13:28Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": 101,
+              "point": -1.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -112,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:13:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:13:10Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -125
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:13:10Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -104,
+              "point": -1.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -116,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:13:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:12:52Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -123
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 101
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:12:52Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -1.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -110,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:12:52Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:13:16Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -125
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:13:16Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -108,
+              "point": -1.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -110,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:13:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:12:05Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -120
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 100
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:12:05Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -1.0
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -110,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:12:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:13:10Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -120
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 100
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:13:10Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -105,
+              "point": -1.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -115,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:13:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

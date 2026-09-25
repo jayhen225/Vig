@@ -1,0 +1,384 @@
+{
+  "id": "d55cb69fed50a09170560b5b75d8de86",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-02T00:15:00Z",
+  "home_team": "Cleveland Browns",
+  "away_team": "Pittsburgh Steelers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:13:11Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": 124
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -148
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:13:11Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": -120,
+              "point": 3.0
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": 100,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:13:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 38.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 38.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:06:19Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": 119
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -139
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:06:19Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": -108,
+              "point": 2.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -112,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:06:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 37.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 37.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:13:12Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": -105,
+              "point": 1.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -115,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:13:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 37.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 37.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:13:47Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": 114
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -134
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:13:47Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:13:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 37.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 37.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:12:52Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": 114
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -146
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:12:52Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:12:52Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 37.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 37.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:13:10Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": -105,
+              "point": 1.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -115,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:13:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 37.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 37.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:13:28Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": 100,
+              "point": 1.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -110,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:13:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 37.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 37.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-25T01:13:11Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": 117
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -141
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-25T01:13:11Z",
+          "outcomes": [
+            {
+              "name": "Cleveland Browns",
+              "price": -105,
+              "point": 2.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -117,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-25T01:13:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 38.0
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 38.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
