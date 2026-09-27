@@ -1,0 +1,582 @@
+{
+  "id": "2e523fcb0497aa689473e290eb2b97de",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-27T20:25:00Z",
+  "home_team": "New Orleans Saints",
+  "away_team": "Las Vegas Raiders",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T19:53:23Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 160
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -192
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T19:53:23Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -112,
+              "point": 3.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -108,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T19:53:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T19:54:17Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 151
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -179
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T19:54:17Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -117,
+              "point": 3.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -104,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T19:54:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T19:54:10Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 159
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -185
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T19:54:10Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 3.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T19:54:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T19:54:09Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 152
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -180
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T19:54:09Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -118,
+              "point": 3.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -104,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T19:54:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T19:54:10Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 150
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -186
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T19:54:10Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -118,
+              "point": 3.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -104,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T19:54:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T19:53:56Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 161
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -185
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T19:53:56Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 3.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 100,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T19:53:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T19:54:27Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 161
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -185
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T19:54:27Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -115,
+              "point": 3.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -105,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T19:54:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T19:54:28Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 156
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -185
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T19:54:28Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -120,
+              "point": 3.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 100,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T19:54:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T19:53:25Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 160
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -190
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T19:53:25Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -112,
+              "point": 3.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -105,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T19:53:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T19:53:12Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 160
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -185
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T19:53:12Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -115,
+              "point": 3.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -105,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T19:53:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T19:54:11Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 155
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -190
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T19:54:11Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -115,
+              "point": 3.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -105,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T19:54:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
