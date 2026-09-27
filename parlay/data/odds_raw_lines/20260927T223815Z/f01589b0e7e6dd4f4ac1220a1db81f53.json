@@ -1,0 +1,166 @@
+{
+  "id": "f01589b0e7e6dd4f4ac1220a1db81f53",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T17:00:00Z",
+  "home_team": "Baltimore Ravens",
+  "away_team": "Tennessee Titans",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T22:37:05Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -750
+            },
+            {
+              "name": "Tennessee Titans",
+              "price": 525
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T22:37:05Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -110,
+              "point": -11.5
+            },
+            {
+              "name": "Tennessee Titans",
+              "price": -110,
+              "point": 11.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T22:37:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T22:38:08Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -770
+            },
+            {
+              "name": "Tennessee Titans",
+              "price": 540
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T22:38:08Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -110,
+              "point": -11.5
+            },
+            {
+              "name": "Tennessee Titans",
+              "price": -110,
+              "point": 11.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T22:38:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T22:37:38Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -715
+            },
+            {
+              "name": "Tennessee Titans",
+              "price": 500
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T22:37:38Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -109,
+              "point": -11.5
+            },
+            {
+              "name": "Tennessee Titans",
+              "price": -112,
+              "point": 11.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T22:37:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

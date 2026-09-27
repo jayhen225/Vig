@@ -1,0 +1,166 @@
+{
+  "id": "daf55e2df5341c007fee5a0fc5bbc2d4",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T17:00:00Z",
+  "home_team": "Houston Texans",
+  "away_team": "Dallas Cowboys",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T22:37:05Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": 114
+            },
+            {
+              "name": "Houston Texans",
+              "price": -135
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T22:37:05Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T22:37:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T22:38:08Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": 104
+            },
+            {
+              "name": "Houston Texans",
+              "price": -122
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T22:38:08Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T22:38:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -104,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -118,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T22:37:38Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": 114
+            },
+            {
+              "name": "Houston Texans",
+              "price": -137
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T22:37:38Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -110,
+              "point": 2.0
+            },
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": -2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T22:37:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

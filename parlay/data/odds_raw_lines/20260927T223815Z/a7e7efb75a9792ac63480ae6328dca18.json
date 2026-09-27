@@ -1,0 +1,166 @@
+{
+  "id": "a7e7efb75a9792ac63480ae6328dca18",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T20:25:00Z",
+  "home_team": "San Francisco 49ers",
+  "away_team": "Denver Broncos",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T22:37:05Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 140
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -166
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T22:37:05Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": 3.0
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -110,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T22:37:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T22:38:08Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 130
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -154
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T22:38:08Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -102,
+              "point": 2.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -120,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T22:38:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -104,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -118,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-27T22:37:38Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 128
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -155
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-27T22:37:38Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": 3.0
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -110,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-27T22:37:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 46.0
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 46.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
