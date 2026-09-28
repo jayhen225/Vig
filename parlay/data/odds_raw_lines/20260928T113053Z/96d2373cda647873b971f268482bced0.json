@@ -1,0 +1,516 @@
+{
+  "id": "96d2373cda647873b971f268482bced0",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T20:25:00Z",
+  "home_team": "Seattle Seahawks",
+  "away_team": "Los Angeles Chargers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T11:28:41Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": 270
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -340
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T11:28:41Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": -105,
+              "point": 6.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -115,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T11:28:41Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T11:30:22Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": 255
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -320
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T11:30:22Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": -105,
+              "point": 6.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -114,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T11:30:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T11:30:40Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": 100,
+              "point": 6.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -120,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T11:30:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T11:30:40Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": 270
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -335
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T11:30:40Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": -104,
+              "point": 6.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -118,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T11:30:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -106,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -114,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T11:30:28Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": 249
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -305
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T11:30:28Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": 100,
+              "point": 6.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -120,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T11:30:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T11:30:14Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": 249
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -305
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T11:30:14Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": 105,
+              "point": 6.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -116,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T11:30:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T11:30:27Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": 255
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -335
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T11:30:27Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": -107,
+              "point": 6.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -114,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T11:30:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T11:30:54Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": 240
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -330
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T11:30:54Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": 100,
+              "point": 6.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -120,
+              "point": -6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T11:30:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T11:30:14Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": 270
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -325
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T11:30:14Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": -118,
+              "point": 7.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -102,
+              "point": -7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T11:30:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T11:29:28Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": 250
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -300
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T11:29:28Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Chargers",
+              "price": -115,
+              "point": 7.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -105,
+              "point": -7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T11:29:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
