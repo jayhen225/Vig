@@ -1,0 +1,516 @@
+{
+  "id": "664e6bda5721dc63be16bcf7d962a436",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T17:00:00Z",
+  "home_team": "New York Giants",
+  "away_team": "Arizona Cardinals",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:15:01Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 102
+            },
+            {
+              "name": "New York Giants",
+              "price": -122
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:15:01Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:15:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:13:55Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 104
+            },
+            {
+              "name": "New York Giants",
+              "price": -122
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:13:55Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:13:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:16Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 1.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 100
+            },
+            {
+              "name": "New York Giants",
+              "price": -118
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -115,
+              "point": 1.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -105,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 104
+            },
+            {
+              "name": "New York Giants",
+              "price": -125
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -113,
+              "point": 2.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -108,
+              "point": -2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:01Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -103
+            },
+            {
+              "name": "New York Giants",
+              "price": -123
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:01Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:45Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -105
+            },
+            {
+              "name": "New York Giants",
+              "price": -115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:45Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -115,
+              "point": 1.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -105,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:29Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -102
+            },
+            {
+              "name": "New York Giants",
+              "price": -118
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:29Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -108,
+              "point": 1.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:31Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -105
+            },
+            {
+              "name": "New York Giants",
+              "price": -115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:31Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 1.0
+            },
+            {
+              "name": "New York Giants",
+              "price": 100,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:18Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 100
+            },
+            {
+              "name": "New York Giants",
+              "price": -120
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:18Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -105,
+              "point": 1.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -115,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

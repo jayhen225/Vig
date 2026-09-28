@@ -1,0 +1,464 @@
+{
+  "id": "c327223d76a3b7b0db8c6c104442f44b",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T20:05:00Z",
+  "home_team": "Minnesota Vikings",
+  "away_team": "Miami Dolphins",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:15:01Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 490
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -675
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:15:01Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -115,
+              "point": 10.5
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -105,
+              "point": -10.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:15:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:13:55Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 450
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -625
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:13:55Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -109,
+              "point": 10.0
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -10.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:13:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -106,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -114,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:16Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -110,
+              "point": 10.0
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -10.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 430
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -560
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -102,
+              "point": 9.5
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -120,
+              "point": -9.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:45Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 415
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -550
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:45Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -110,
+              "point": 10.0
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -10.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:31Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 415
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -550
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:31Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -105,
+              "point": 10.0
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -105,
+              "point": -10.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 450
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -625
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -112,
+              "point": 10.0
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -109,
+              "point": -10.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:01Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 410
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -625
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:01Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -110,
+              "point": 10.0
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -10.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:29Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": 450
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -600
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:29Z",
+          "outcomes": [
+            {
+              "name": "Miami Dolphins",
+              "price": -108,
+              "point": 10.0
+            },
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -10.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

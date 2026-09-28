@@ -1,0 +1,516 @@
+{
+  "id": "2ea94ddf20f66432b9024fe2e2eaba5f",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T17:00:00Z",
+  "home_team": "Cincinnati Bengals",
+  "away_team": "Jacksonville Jaguars",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:15:01Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -135
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 114
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:15:01Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -110,
+              "point": -2.5
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -110,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:15:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:16Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -120,
+              "point": -1.5
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 100,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:13:55Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -136
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:13:55Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -112,
+              "point": -2.0
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -108,
+              "point": 2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:13:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -122
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 104
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -105,
+              "point": -2.5
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -115,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:45Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -135
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:45Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -120,
+              "point": -1.5
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 100,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:31Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -135
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:31Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -116,
+              "point": -1.5
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 105,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 51.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 51.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -129
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 107
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -109,
+              "point": -1.5
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -112,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:01Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -138
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 108
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:01Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -110,
+              "point": -2.5
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -110,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:29Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -135
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 110
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:29Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -110,
+              "point": -2.0
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -108,
+              "point": 2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:18Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -135
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:18Z",
+          "outcomes": [
+            {
+              "name": "Cincinnati Bengals",
+              "price": -105,
+              "point": -2.5
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -115,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

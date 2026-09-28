@@ -1,0 +1,582 @@
+{
+  "id": "47dc7baa254659f3beb2ed2b38c207b6",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-09-29T00:15:00Z",
+  "home_team": "Chicago Bears",
+  "away_team": "Philadelphia Eagles",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:15:01Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": 170
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -205
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:15:01Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -120,
+              "point": 4.5
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": 100,
+              "point": -4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:15:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:13:55Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": 173
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -209
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:13:55Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -107,
+              "point": 3.5
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -113,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:13:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": 176
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -210
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -114,
+              "point": 4.5
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -106,
+              "point": -4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": 170
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -210
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -108,
+              "point": 4.0
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -113,
+              "point": -4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 42.0
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 42.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:16Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": 170
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -200
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:16Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -105,
+              "point": 3.5
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -115,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:30Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": 177
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -205
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:30Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": 101,
+              "point": 3.5
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -112,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:45Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": 177
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -205
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:45Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -105,
+              "point": 3.5
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -115,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:01Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": 170
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -212
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:01Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": 4.0
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -110,
+              "point": -4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:29Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": 170
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -210
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:29Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -112,
+              "point": 4.0
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -105,
+              "point": -4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:14:18Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": 175
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -210
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:14:18Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -115,
+              "point": 4.0
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -105,
+              "point": -4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:14:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T04:13:46Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": 175
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -215
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T04:13:46Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": 4.0
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -110,
+              "point": -4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T04:13:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
