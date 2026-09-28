@@ -1,0 +1,472 @@
+{
+  "id": "e0cbd266dcf997089203a1b33ba0333d",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T20:25:00Z",
+  "home_team": "Las Vegas Raiders",
+  "away_team": "Kansas City Chiefs",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T01:15:54Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -245
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": 200
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T01:15:54Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -5.5
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T01:15:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T01:15:26Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -235
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": 193
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T01:15:26Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -112,
+              "point": -4.5
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": -108,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T01:15:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -114,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -106,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T01:15:55Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -4.5
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T01:15:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T01:15:57Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -225
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": 188
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T01:15:57Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -4.5
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T01:15:57Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T01:15:10Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -105,
+              "point": -4.5
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": -105,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T01:15:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T01:15:40Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -4.5
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T01:15:40Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T01:15:24Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -215
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": 175
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T01:15:24Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -112,
+              "point": -4.5
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": -109,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T01:15:24Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T01:15:42Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -232
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": 177
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T01:15:42Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -4.5
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T01:15:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T01:15:54Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -225
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": 188
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T01:15:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-28T01:15:12Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -210
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": 175
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-28T01:15:12Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -4.0
+            },
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-28T01:15:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
