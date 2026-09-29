@@ -1,0 +1,218 @@
+{
+  "id": "1b4f2e60ce83fa1d63a5dff83769d27c",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T17:00:00Z",
+  "home_team": "Philadelphia Eagles",
+  "away_team": "Los Angeles Rams",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:39:19Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Rams",
+              "price": -155
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": 130
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:39:19Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Rams",
+              "price": -120,
+              "point": -2.5
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": 100,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:39:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:40:42Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Rams",
+              "price": -155
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": 127
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:40:42Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Rams",
+              "price": -118,
+              "point": -2.5
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -103,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:40:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -122,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": 102,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:39:04Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Rams",
+              "price": -155
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": 130
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:39:04Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Rams",
+              "price": -105,
+              "point": -3.0
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -125,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:39:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:41:12Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Rams",
+              "price": -155
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": 130
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:41:12Z",
+          "outcomes": [
+            {
+              "name": "Los Angeles Rams",
+              "price": -120,
+              "point": -2.5
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": 100,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:41:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

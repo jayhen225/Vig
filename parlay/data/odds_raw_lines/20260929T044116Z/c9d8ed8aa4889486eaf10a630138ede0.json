@@ -1,0 +1,582 @@
+{
+  "id": "c9d8ed8aa4889486eaf10a630138ede0",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T13:30:00Z",
+  "home_team": "Washington Commanders",
+  "away_team": "Indianapolis Colts",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:39:19Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -185
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 154
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:39:19Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -108,
+              "point": -3.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -112,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:39:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -118,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:40:42Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -190
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 155
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:40:42Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -111,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:40:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:40:59Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -194
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 162
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:40:59Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:40:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -120,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:39:04Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -190
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 155
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:39:04Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -108,
+              "point": -3.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:39:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:39:52Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -195
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 165
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:39:52Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:39:52Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:41:13Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -185
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 159
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:41:13Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -125,
+              "point": -3.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 105,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:41:13Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:39:18Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -192
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 148
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:39:18Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:39:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:41:15Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -185
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 161
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:41:15Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -127,
+              "point": -3.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 115,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:41:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:40:45Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -185
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 161
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:40:45Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -126,
+              "point": -3.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 106,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:40:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:40:45Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -182
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 148
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:40:45Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -104,
+              "point": -3.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -118,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:40:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:41:12Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -195
+            },
+            {
+              "name": "Washington Commanders",
+              "price": 160
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:41:12Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:41:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

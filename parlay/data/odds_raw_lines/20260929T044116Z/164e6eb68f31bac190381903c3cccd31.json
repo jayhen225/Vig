@@ -1,0 +1,150 @@
+{
+  "id": "164e6eb68f31bac190381903c3cccd31",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T17:00:00Z",
+  "home_team": "Chicago Bears",
+  "away_team": "New York Jets",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:39:19Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -198
+            },
+            {
+              "name": "New York Jets",
+              "price": 164
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:39:19Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -115,
+              "point": -3.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -105,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:39:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:40:42Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -190
+            },
+            {
+              "name": "New York Jets",
+              "price": 157
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:40:42Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -118,
+              "point": -3.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -103,
+              "point": 3.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-09-29T04:41:12Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -180
+            },
+            {
+              "name": "New York Jets",
+              "price": 145
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-09-29T04:41:12Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-09-29T04:41:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
