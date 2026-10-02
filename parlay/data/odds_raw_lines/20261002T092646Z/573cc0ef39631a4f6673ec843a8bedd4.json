@@ -1,0 +1,530 @@
+{
+  "id": "573cc0ef39631a4f6673ec843a8bedd4",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T17:00:00Z",
+  "home_team": "Buffalo Bills",
+  "away_team": "New England Patriots",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T09:26:08Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -298
+            },
+            {
+              "name": "New England Patriots",
+              "price": 240
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T09:26:08Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -105,
+              "point": -7.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -115,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T09:26:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 48.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T09:26:26Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -340
+            },
+            {
+              "name": "New England Patriots",
+              "price": 275
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T09:26:26Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -122,
+              "point": -6.5
+            },
+            {
+              "name": "New England Patriots",
+              "price": 100,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T09:26:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -114,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "price": -106,
+              "point": 48.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T09:26:27Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -325
+            },
+            {
+              "name": "New England Patriots",
+              "price": 265
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T09:26:27Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -105,
+              "point": -7.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -115,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T09:26:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 49.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 49.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T09:26:27Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -325
+            },
+            {
+              "name": "New England Patriots",
+              "price": 263
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T09:26:27Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": 101,
+              "point": -7.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -112,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T09:26:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -104,
+              "point": 49.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 49.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T09:26:26Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -325
+            },
+            {
+              "name": "New England Patriots",
+              "price": 263
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T09:26:26Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -104,
+              "point": -7.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -116,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T09:26:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 49.0
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 49.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T09:25:55Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -315
+            },
+            {
+              "name": "New England Patriots",
+              "price": 250
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T09:25:55Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -117,
+              "point": -6.5
+            },
+            {
+              "name": "New England Patriots",
+              "price": -105,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T09:25:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 48.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 48.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T09:25:22Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -330
+            },
+            {
+              "name": "New England Patriots",
+              "price": 255
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T09:25:22Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -105,
+              "point": -7.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -115,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T09:25:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 49.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 49.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T09:26:12Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -325
+            },
+            {
+              "name": "New England Patriots",
+              "price": 270
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T09:26:12Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -115,
+              "point": -6.5
+            },
+            {
+              "name": "New England Patriots",
+              "price": -105,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T09:26:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T09:25:59Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -310
+            },
+            {
+              "name": "New England Patriots",
+              "price": 255
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T09:25:59Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -105,
+              "point": -7.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -115,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T09:25:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 49.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 49.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T09:26:10Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -320
+            },
+            {
+              "name": "New England Patriots",
+              "price": 250
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T09:26:10Z",
+          "outcomes": [
+            {
+              "name": "Buffalo Bills",
+              "price": -105,
+              "point": -7.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -115,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T09:26:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 49.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 49.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
