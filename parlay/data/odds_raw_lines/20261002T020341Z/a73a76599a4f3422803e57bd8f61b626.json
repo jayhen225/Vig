@@ -1,0 +1,582 @@
+{
+  "id": "a73a76599a4f3422803e57bd8f61b626",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-05T00:20:00Z",
+  "home_team": "Carolina Panthers",
+  "away_team": "Detroit Lions",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T02:03:28Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 154
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -185
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T02:03:28Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -108,
+              "point": 3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -112,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T02:03:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -122,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": 102,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T01:55:06Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 164
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -197
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T01:55:06Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -108,
+              "point": 3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -112,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T01:55:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T02:03:11Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 168
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -200
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T02:03:11Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -104,
+              "point": 3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -118,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T02:03:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T02:02:55Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 163
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -190
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T02:02:55Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -110,
+              "point": 3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T02:02:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T02:03:12Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 165
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -190
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T02:03:12Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -104,
+              "point": 3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -106,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T02:03:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T02:03:10Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 165
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -190
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T02:03:10Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -110,
+              "point": 3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T02:03:10Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T02:02:56Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 155
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -190
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T02:02:56Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -114,
+              "point": 4.0
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -107,
+              "point": -4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T02:02:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T02:03:17Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 165
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -195
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T02:03:17Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -105,
+              "point": 3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -115,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T02:03:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T02:02:57Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 159
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -198
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T02:02:57Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -110,
+              "point": 3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T02:02:57Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T02:03:14Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 165
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -200
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T02:03:14Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -108,
+              "point": 3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T02:03:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-02T02:02:38Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 160
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -195
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-02T02:02:38Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -110,
+              "point": 3.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-02T02:02:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

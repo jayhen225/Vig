@@ -1,0 +1,2873 @@
+{
+  "id": "96d2373cda647873b971f268482bced0",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T20:25:00Z",
+  "home_team": "Seattle Seahawks",
+  "away_team": "Los Angeles Chargers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-02T02:03:34Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Jaxon Smith-Njigba",
+              "price": -115
+            },
+            {
+              "name": "Yes",
+              "description": "Omarion Hampton",
+              "price": 110
+            },
+            {
+              "name": "Yes",
+              "description": "Emanuel Wilson",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "George Holani",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "AJ Barner",
+              "price": 280
+            },
+            {
+              "name": "Yes",
+              "description": "Quentin Johnston",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Rashid Shaheed",
+              "price": 330
+            },
+            {
+              "name": "Yes",
+              "description": "Cooper Kupp",
+              "price": 330
+            },
+            {
+              "name": "Yes",
+              "description": "Ladd McConkey",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "Oronde Gadsden II",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Tre Harris",
+              "price": 425
+            },
+            {
+              "name": "Yes",
+              "description": "Keaton Mitchell",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Herbert",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Seattle Seahawks D/ST",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Los Angeles Chargers D/ST",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Tory Horton",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Sam Darnold",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Elijah Arroyo",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Eric Saubert",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Marquez Valdes-Scantling",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Brenen Thompson",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Derius Davis",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Hayden Rucci",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Kallerup",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Kimani Vidal",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Montorie Foster Jr.",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Brady Russell",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "Alec Ingold",
+              "price": 3000
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-02T02:03:34Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -133,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": 104,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -251,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": 193,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-02T02:03:34Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -113,
+              "point": 232.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": -111,
+              "point": 232.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -113,
+              "point": 199.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": -111,
+              "point": 199.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-02T02:03:34Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jaxon Smith-Njigba",
+              "price": -110,
+              "point": 92.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaxon Smith-Njigba",
+              "price": -114,
+              "point": 92.5
+            },
+            {
+              "name": "Over",
+              "description": "AJ Barner",
+              "price": -115,
+              "point": 31.5
+            },
+            {
+              "name": "Under",
+              "description": "AJ Barner",
+              "price": -109,
+              "point": 31.5
+            },
+            {
+              "name": "Over",
+              "description": "Cooper Kupp",
+              "price": -109,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Cooper Kupp",
+              "price": -115,
+              "point": 25.5
+            },
+            {
+              "name": "Over",
+              "description": "Rashid Shaheed",
+              "price": -114,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Rashid Shaheed",
+              "price": -110,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "Tory Horton",
+              "price": -115,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Tory Horton",
+              "price": -109,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "George Holani",
+              "price": -117,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "George Holani",
+              "price": -107,
+              "point": 7.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-02T02:03:34Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jaxon Smith-Njigba",
+              "price": 117,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaxon Smith-Njigba",
+              "price": -150,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "AJ Barner",
+              "price": 132,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "AJ Barner",
+              "price": -169,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Cooper Kupp",
+              "price": 106,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Cooper Kupp",
+              "price": -135,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Rashid Shaheed",
+              "price": -195,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Rashid Shaheed",
+              "price": 152,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "George Holani",
+              "price": 113,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "George Holani",
+              "price": -144,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Tory Horton",
+              "price": 134,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Tory Horton",
+              "price": -172,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-02T02:03:34Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Emanuel Wilson",
+              "price": -113,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "description": "Emanuel Wilson",
+              "price": -111,
+              "point": 46.5
+            },
+            {
+              "name": "Over",
+              "description": "Omarion Hampton",
+              "price": -111,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "description": "Omarion Hampton",
+              "price": -113,
+              "point": 46.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -107,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": -117,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "Keaton Mitchell",
+              "price": -112,
+              "point": 16.5
+            },
+            {
+              "name": "Under",
+              "description": "Keaton Mitchell",
+              "price": -112,
+              "point": 16.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -112,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": -112,
+              "point": 4.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-02T01:54:25Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Jaxon Smith-Njigba",
+              "price": -115
+            },
+            {
+              "name": "Yes",
+              "description": "Omarion Hampton",
+              "price": 112
+            },
+            {
+              "name": "Yes",
+              "description": "Jadarian Price",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "Emanuel Wilson",
+              "price": 136
+            },
+            {
+              "name": "Yes",
+              "description": "George Holani",
+              "price": 153
+            },
+            {
+              "name": "Yes",
+              "description": "AJ Barner",
+              "price": 265
+            },
+            {
+              "name": "Yes",
+              "description": "Quentin Johnston",
+              "price": 290
+            },
+            {
+              "name": "Yes",
+              "description": "Ladd McConkey",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Rashid Shaheed",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Cooper Kupp",
+              "price": 305
+            },
+            {
+              "name": "Yes",
+              "description": "Oronde Gadsden II",
+              "price": 325
+            },
+            {
+              "name": "Yes",
+              "description": "Tre Harris",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Keaton Mitchell",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Herbert",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Tory Horton",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Sam Darnold",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Eric Saubert",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Marquez Valdes-Scantling",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Elijah Arroyo",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Brenen Thompson",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Derius Davis",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Hayden Rucci",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Kallerup",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Kimani Vidal",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Montorie Foster Jr.",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Brady Russell",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Alec Ingold",
+              "price": 2900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-02T02:03:17Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Jaxon Smith-Njigba",
+              "price": -120
+            },
+            {
+              "name": "Yes",
+              "description": "Omarion Hampton",
+              "price": 105
+            },
+            {
+              "name": "Yes",
+              "description": "Emanuel Wilson",
+              "price": 135
+            },
+            {
+              "name": "Yes",
+              "description": "George Holani",
+              "price": 140
+            },
+            {
+              "name": "Yes",
+              "description": "AJ Barner",
+              "price": 270
+            },
+            {
+              "name": "Yes",
+              "description": "Ladd McConkey",
+              "price": 290
+            },
+            {
+              "name": "Yes",
+              "description": "Quentin Johnston",
+              "price": 290
+            },
+            {
+              "name": "Yes",
+              "description": "Oronde Gadsden II",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Rashid Shaheed",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Cooper Kupp",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Tre Harris",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Keaton Mitchell",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Herbert",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Tory Horton",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Seattle Seahawks Defense",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Sam Darnold",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Eric Saubert",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Marquez Valdes-Scantling",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Brenen Thompson",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Derius Davis",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Los Angeles Chargers Defense",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Kallerup",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Hayden Rucci",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Elijah Arroyo",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Kimani Vidal",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Montorie Foster Jr.",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Brady Russell",
+              "price": 3500
+            },
+            {
+              "name": "Yes",
+              "description": "Alec Ingold",
+              "price": 4000
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-02T02:03:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -120,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -225,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": 164,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-02T02:03:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -114,
+              "point": 233.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": -114,
+              "point": 233.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -114,
+              "point": 199.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": -114,
+              "point": 199.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-02T02:03:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "AJ Barner",
+              "price": -114,
+              "point": 30.5
+            },
+            {
+              "name": "Under",
+              "description": "AJ Barner",
+              "price": -114,
+              "point": 30.5
+            },
+            {
+              "name": "Over",
+              "description": "Tory Horton",
+              "price": -114,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Tory Horton",
+              "price": -114,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Cooper Kupp",
+              "price": -114,
+              "point": 23.5
+            },
+            {
+              "name": "Under",
+              "description": "Cooper Kupp",
+              "price": -114,
+              "point": 23.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaxon Smith-Njigba",
+              "price": -114,
+              "point": 91.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaxon Smith-Njigba",
+              "price": -114,
+              "point": 91.5
+            },
+            {
+              "name": "Over",
+              "description": "George Holani",
+              "price": -114,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "George Holani",
+              "price": -114,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Rashid Shaheed",
+              "price": -114,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Rashid Shaheed",
+              "price": -114,
+              "point": 21.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-02T02:03:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "AJ Barner",
+              "price": 124,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "AJ Barner",
+              "price": -166,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Tory Horton",
+              "price": 142,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Tory Horton",
+              "price": -192,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Rashid Shaheed",
+              "price": 140,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Rashid Shaheed",
+              "price": -188,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "George Holani",
+              "price": 116,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "George Holani",
+              "price": -154,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaxon Smith-Njigba",
+              "price": -138,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaxon Smith-Njigba",
+              "price": 104,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Cooper Kupp",
+              "price": 116,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Cooper Kupp",
+              "price": -154,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-02T02:03:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -114,
+              "point": 20.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": -114,
+              "point": 20.5
+            },
+            {
+              "name": "Over",
+              "description": "Keaton Mitchell",
+              "price": -114,
+              "point": 16.5
+            },
+            {
+              "name": "Under",
+              "description": "Keaton Mitchell",
+              "price": -114,
+              "point": 16.5
+            },
+            {
+              "name": "Over",
+              "description": "Omarion Hampton",
+              "price": -114,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "description": "Omarion Hampton",
+              "price": -114,
+              "point": 45.5
+            },
+            {
+              "name": "Over",
+              "description": "Emanuel Wilson",
+              "price": -114,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "description": "Emanuel Wilson",
+              "price": -114,
+              "point": 44.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -114,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": -114,
+              "point": 4.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-02T02:03:39Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Jaxon Smith-Njigba",
+              "price": -125
+            },
+            {
+              "name": "Yes",
+              "description": "Omarion Hampton",
+              "price": 100
+            },
+            {
+              "name": "Yes",
+              "description": "Hayden Rucci",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Kallerup",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Alec Ingold",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Montorie Foster Jr.",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Derius Davis",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Brenen Thompson",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Marquez Valdes-Scantling",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Brady Russell",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Elijah Arroyo",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Eric Saubert",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Tory Horton",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Kimani Vidal",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Sam Darnold",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Tre Harris",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Keaton Mitchell",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Herbert",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Rashid Shaheed",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Quentin Johnston",
+              "price": 290
+            },
+            {
+              "name": "Yes",
+              "description": "Oronde Gadsden II",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Cooper Kupp",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "AJ Barner",
+              "price": 260
+            },
+            {
+              "name": "Yes",
+              "description": "Ladd McConkey",
+              "price": 290
+            },
+            {
+              "name": "Yes",
+              "description": "George Holani",
+              "price": 140
+            },
+            {
+              "name": "Yes",
+              "description": "Emanuel Wilson",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "Jadarian Price",
+              "price": 120
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-02T02:03:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -130,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": 101,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -244,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": 181,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-02T02:03:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -115,
+              "point": 232.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": -112,
+              "point": 232.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -115,
+              "point": 199.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": -112,
+              "point": 199.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-02T02:03:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "AJ Barner",
+              "price": -116,
+              "point": 31.5
+            },
+            {
+              "name": "Under",
+              "description": "AJ Barner",
+              "price": -111,
+              "point": 31.5
+            },
+            {
+              "name": "Over",
+              "description": "Cooper Kupp",
+              "price": -112,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Cooper Kupp",
+              "price": -115,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Rashid Shaheed",
+              "price": -115,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Rashid Shaheed",
+              "price": -112,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "Jadarian Price",
+              "price": -114,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "Jadarian Price",
+              "price": -114,
+              "point": 9.5
+            },
+            {
+              "name": "Over",
+              "description": "George Holani",
+              "price": -116,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "George Holani",
+              "price": -111,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Tory Horton",
+              "price": -116,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Tory Horton",
+              "price": -111,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaxon Smith-Njigba",
+              "price": -115,
+              "point": 92.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaxon Smith-Njigba",
+              "price": -112,
+              "point": 92.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-02T02:03:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cooper Kupp",
+              "price": 110,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Cooper Kupp",
+              "price": -143,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "AJ Barner",
+              "price": 124,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "AJ Barner",
+              "price": -161,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Jadarian Price",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jadarian Price",
+              "price": -118,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Rashid Shaheed",
+              "price": 144,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Rashid Shaheed",
+              "price": -189,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "George Holani",
+              "price": 115,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "George Holani",
+              "price": -149,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Tory Horton",
+              "price": 139,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Tory Horton",
+              "price": -182,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaxon Smith-Njigba",
+              "price": 109,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaxon Smith-Njigba",
+              "price": -141,
+              "point": 7.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-02T02:03:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Emanuel Wilson",
+              "price": -108,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Emanuel Wilson",
+              "price": -120,
+              "point": 42.5
+            },
+            {
+              "name": "Over",
+              "description": "Omarion Hampton",
+              "price": -114,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "description": "Omarion Hampton",
+              "price": -114,
+              "point": 45.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -111,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": -116,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "Jadarian Price",
+              "price": -114,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Jadarian Price",
+              "price": -114,
+              "point": 42.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -114,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": -114,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Keaton Mitchell",
+              "price": -114,
+              "point": 16.5
+            },
+            {
+              "name": "Under",
+              "description": "Keaton Mitchell",
+              "price": -114,
+              "point": 16.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-02T02:03:12Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Brenen Thompson",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Herbert",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Quentin Johnston",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "George Holani",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "Emanuel Wilson",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Sam Darnold",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Tre Harris",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Ladd McConkey",
+              "price": 285
+            },
+            {
+              "name": "Yes",
+              "description": "Cooper Kupp",
+              "price": 295
+            },
+            {
+              "name": "Yes",
+              "description": "Derius Davis",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Oronde Gadsden II",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Keaton Mitchell",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "AJ Barner",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "Montorie Foster Jr.",
+              "price": 1800
+            },
+            {
+              "name": "Yes",
+              "description": "Alec Ingold",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Marquez Valdes-Scantling",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Elijah Arroyo",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Rashid Shaheed",
+              "price": 325
+            },
+            {
+              "name": "Yes",
+              "description": "Jaxon Smith-Njigba",
+              "price": -120
+            },
+            {
+              "name": "Yes",
+              "description": "Jadarian Price",
+              "price": 138
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Kallerup",
+              "price": 2400
+            },
+            {
+              "name": "Yes",
+              "description": "Omarion Hampton",
+              "price": 115
+            },
+            {
+              "name": "Yes",
+              "description": "Brady Russell",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Kimani Vidal",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Hayden Rucci",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Eric Saubert",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Tory Horton",
+              "price": 850
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-02T02:03:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -121,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -275,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": 195,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-02T02:03:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -115,
+              "point": 233.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": -115,
+              "point": 233.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -117,
+              "point": 197.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": -114,
+              "point": 197.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-02T02:03:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Oronde Gadsden II",
+              "price": -113,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Oronde Gadsden II",
+              "price": -118,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Tre Harris",
+              "price": -113,
+              "point": 32.5
+            },
+            {
+              "name": "Under",
+              "description": "Tre Harris",
+              "price": -118,
+              "point": 32.5
+            },
+            {
+              "name": "Over",
+              "description": "Cooper Kupp",
+              "price": -114,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Cooper Kupp",
+              "price": -117,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "AJ Barner",
+              "price": -114,
+              "point": 29.5
+            },
+            {
+              "name": "Under",
+              "description": "AJ Barner",
+              "price": -115,
+              "point": 29.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaxon Smith-Njigba",
+              "price": -114,
+              "point": 92.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaxon Smith-Njigba",
+              "price": -117,
+              "point": 92.5
+            },
+            {
+              "name": "Over",
+              "description": "Rashid Shaheed",
+              "price": -113,
+              "point": 22.5
+            },
+            {
+              "name": "Under",
+              "description": "Rashid Shaheed",
+              "price": -118,
+              "point": 22.5
+            },
+            {
+              "name": "Over",
+              "description": "Quentin Johnston",
+              "price": -114,
+              "point": 33.5
+            },
+            {
+              "name": "Under",
+              "description": "Quentin Johnston",
+              "price": -117,
+              "point": 33.5
+            },
+            {
+              "name": "Over",
+              "description": "Ladd McConkey",
+              "price": -115,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "description": "Ladd McConkey",
+              "price": -115,
+              "point": 46.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-02T02:03:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Oronde Gadsden II",
+              "price": -114,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Ladd McConkey",
+              "price": 120,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Cooper Kupp",
+              "price": 112,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Tre Harris",
+              "price": -165,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Quentin Johnston",
+              "price": -157,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Rashid Shaheed",
+              "price": 138,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaxon Smith-Njigba",
+              "price": -134,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "AJ Barner",
+              "price": 130,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-02T02:03:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Omarion Hampton",
+              "price": -114,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "description": "Omarion Hampton",
+              "price": -117,
+              "point": 45.5
+            },
+            {
+              "name": "Over",
+              "description": "Emanuel Wilson",
+              "price": -115,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "description": "Emanuel Wilson",
+              "price": -115,
+              "point": 44.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -120,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": -112,
+              "point": 21.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-02T02:02:51Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Los Angeles Chargers D/ST",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Keaton Mitchell",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "AJ Barner",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Jaxon Smith-Njigba",
+              "price": -105
+            },
+            {
+              "name": "Yes",
+              "description": "George Holani",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Omarion Hampton",
+              "price": -105
+            },
+            {
+              "name": "Yes",
+              "description": "Ladd McConkey",
+              "price": 270
+            },
+            {
+              "name": "Yes",
+              "description": "Seattle Seahawks D/ST",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Quentin Johnston",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Emanuel Wilson",
+              "price": 125
+            },
+            {
+              "name": "Yes",
+              "description": "Rashid Shaheed",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Tre Harris",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "Hayden Rucci",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Kimani Vidal",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Sam Darnold",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Tory Horton",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Oronde Gadsden II",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Alec Ingold",
+              "price": 1450
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Herbert",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Jadarian Price",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "Cooper Kupp",
+              "price": 325
+            },
+            {
+              "name": "Yes",
+              "description": "Elijah Arroyo",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Brady Russell",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Brenen Thompson",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Marquez Valdes-Scantling",
+              "price": 1050
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-02T02:02:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -250,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": 180,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -125,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": -105,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-02T02:02:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -115,
+              "point": 237.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": -115,
+              "point": 237.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -115,
+              "point": 196.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": -115,
+              "point": 196.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-02T02:02:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cooper Kupp",
+              "price": -115,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Cooper Kupp",
+              "price": -115,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Rashid Shaheed",
+              "price": -115,
+              "point": 22.5
+            },
+            {
+              "name": "Under",
+              "description": "Rashid Shaheed",
+              "price": -115,
+              "point": 22.5
+            },
+            {
+              "name": "Over",
+              "description": "AJ Barner",
+              "price": -115,
+              "point": 30.5
+            },
+            {
+              "name": "Under",
+              "description": "AJ Barner",
+              "price": -115,
+              "point": 30.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaxon Smith-Njigba",
+              "price": -115,
+              "point": 91.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaxon Smith-Njigba",
+              "price": -115,
+              "point": 91.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-02T02:02:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cooper Kupp",
+              "price": 115,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Cooper Kupp",
+              "price": -155,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Rashid Shaheed",
+              "price": 140,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Rashid Shaheed",
+              "price": -190,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "AJ Barner",
+              "price": 125,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "AJ Barner",
+              "price": -165,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaxon Smith-Njigba",
+              "price": 115,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaxon Smith-Njigba",
+              "price": -155,
+              "point": 7.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-02T02:02:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -111,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": -120,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -115,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": -115,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Omarion Hampton",
+              "price": -115,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "description": "Omarion Hampton",
+              "price": -115,
+              "point": 46.5
+            },
+            {
+              "name": "Over",
+              "description": "Keaton Mitchell",
+              "price": -115,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Keaton Mitchell",
+              "price": -115,
+              "point": 17.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-02T02:03:15Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Emanuel Wilson",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "Keaton Mitchell",
+              "price": 440
+            },
+            {
+              "name": "Yes",
+              "description": "Kimani Vidal",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Tre Harris",
+              "price": 420
+            },
+            {
+              "name": "Yes",
+              "description": "Quentin Johnston",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Sam Darnold",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Rashid Shaheed",
+              "price": 330
+            },
+            {
+              "name": "Yes",
+              "description": "Oronde Gadsden II",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Ladd McConkey",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "George Holani",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "Tory Horton",
+              "price": 725
+            },
+            {
+              "name": "Yes",
+              "description": "Cooper Kupp",
+              "price": 330
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Herbert",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "AJ Barner",
+              "price": 280
+            },
+            {
+              "name": "Yes",
+              "description": "Omarion Hampton",
+              "price": 110
+            },
+            {
+              "name": "Yes",
+              "description": "Jaxon Smith-Njigba",
+              "price": -117
+            },
+            {
+              "name": "Yes",
+              "description": "Brady Russell",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Montorie Foster Jr.",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Kallerup",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Eric Saubert",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Elijah Arroyo",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Alec Ingold",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Hayden Rucci",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Brenen Thompson",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Marquez Valdes-Scantling",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Derius Davis",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Seattle Seahawks D/ST",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Los Angeles Chargers D/ST",
+              "price": 700
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-02T02:03:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -260,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": 190,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -135,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": 105,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-02T02:03:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -115,
+              "point": 199.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": -115,
+              "point": 199.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam Darnold",
+              "price": -115,
+              "point": 232.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Darnold",
+              "price": -115,
+              "point": 232.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-02T02:03:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "AJ Barner",
+              "price": -120,
+              "point": 31.5
+            },
+            {
+              "name": "Under",
+              "description": "AJ Barner",
+              "price": -110,
+              "point": 31.5
+            },
+            {
+              "name": "Over",
+              "description": "Cooper Kupp",
+              "price": -110,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Cooper Kupp",
+              "price": -120,
+              "point": 25.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaxon Smith-Njigba",
+              "price": -115,
+              "point": 92.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaxon Smith-Njigba",
+              "price": -115,
+              "point": 92.5
+            },
+            {
+              "name": "Over",
+              "description": "Rashid Shaheed",
+              "price": -115,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Rashid Shaheed",
+              "price": -115,
+              "point": 21.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-02T02:03:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "AJ Barner",
+              "price": 130,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "AJ Barner",
+              "price": -170,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Cooper Kupp",
+              "price": 105,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Cooper Kupp",
+              "price": -135,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaxon Smith-Njigba",
+              "price": 115,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaxon Smith-Njigba",
+              "price": -150,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Rashid Shaheed",
+              "price": -200,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Rashid Shaheed",
+              "price": 150,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-02T02:03:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Emanuel Wilson",
+              "price": -115,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "description": "Emanuel Wilson",
+              "price": -115,
+              "point": 46.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -110,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": -120,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "Omarion Hampton",
+              "price": -115,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "description": "Omarion Hampton",
+              "price": -115,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-02T02:03:03Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "No Scorer",
+              "price": 3500
+            },
+            {
+              "name": "Yes",
+              "description": "Sam Darnold",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Eric Saubert",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Cooper Kupp",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Rashid Shaheed",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Brady Russell",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Emanuel Wilson",
+              "price": 140
+            },
+            {
+              "name": "Yes",
+              "description": "Jaxon Smith-Njigba",
+              "price": -115
+            },
+            {
+              "name": "Yes",
+              "description": "George Holani",
+              "price": 155
+            },
+            {
+              "name": "Yes",
+              "description": "AJ Barner",
+              "price": 290
+            },
+            {
+              "name": "Yes",
+              "description": "Tory Horton",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Elijah Arroyo",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Kallerup",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Jadarian Price",
+              "price": 135
+            },
+            {
+              "name": "Yes",
+              "description": "Montorie Foster Jr.",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Seattle Seahawks D/ST",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Marquez Valdes-Scantling",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Alec Ingold",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Herbert",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Keaton Mitchell",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Quentin Johnston",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Derius Davis",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Ladd McConkey",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "Kimani Vidal",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Omarion Hampton",
+              "price": 110
+            },
+            {
+              "name": "Yes",
+              "description": "Oronde Gadsden II",
+              "price": 325
+            },
+            {
+              "name": "Yes",
+              "description": "Tre Harris",
+              "price": 410
+            },
+            {
+              "name": "Yes",
+              "description": "Hayden Rucci",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Los Angeles Chargers D/ST",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Patrick Herbert",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Brenen Thompson",
+              "price": 1200
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-02T02:03:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -205,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": 155,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-02T02:03:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Justin Herbert",
+              "price": -120,
+              "point": 195.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Herbert",
+              "price": -110,
+              "point": 195.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-02T02:03:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "AJ Barner",
+              "price": -115,
+              "point": 30.5
+            },
+            {
+              "name": "Under",
+              "description": "AJ Barner",
+              "price": -115,
+              "point": 30.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-02T02:03:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "AJ Barner",
+              "price": 125,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "AJ Barner",
+              "price": -170,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-02T02:03:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Omarion Hampton",
+              "price": -115,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "description": "Omarion Hampton",
+              "price": -115,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
