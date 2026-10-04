@@ -1,0 +1,2610 @@
+{
+  "id": "a7e7efb75a9792ac63480ae6328dca18",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-04T20:25:00Z",
+  "home_team": "San Francisco 49ers",
+  "away_team": "Denver Broncos",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-04T19:49:49Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Christian McCaffrey",
+              "price": -170
+            },
+            {
+              "name": "Yes",
+              "description": "J.K. Dobbins",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "George Kittle",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Deebo Samuel",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Waddle",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Evans",
+              "price": 205
+            },
+            {
+              "name": "Yes",
+              "description": "Courtland Sutton",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "RJ Harvey",
+              "price": 235
+            },
+            {
+              "name": "Yes",
+              "description": "Kaelon Black",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Pat Bryant",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Purdy",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Nix",
+              "price": 425
+            },
+            {
+              "name": "Yes",
+              "description": "Evan Engram",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "San Francisco 49ers D/ST",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Denver Broncos D/ST",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Brandin Cooks",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Kyle Juszczyk",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Cowing",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Adam Trautman",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Marvin Mims Jr.",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Troy Franklin",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Watkins",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Nate Adkins",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Badie",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Turner",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Luke Farrell",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Brayden Willis",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Adam Prentice",
+              "price": 2500
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-04T19:49:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brock Purdy",
+              "price": -125,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Purdy",
+              "price": -102,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Bo Nix",
+              "price": -104,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Bo Nix",
+              "price": -122,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-04T19:49:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brock Purdy",
+              "price": -111,
+              "point": 236.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Purdy",
+              "price": -113,
+              "point": 236.5
+            },
+            {
+              "name": "Over",
+              "description": "Bo Nix",
+              "price": -112,
+              "point": 222.5
+            },
+            {
+              "name": "Under",
+              "description": "Bo Nix",
+              "price": -112,
+              "point": 222.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-04T19:49:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "George Kittle",
+              "price": -114,
+              "point": 64.5
+            },
+            {
+              "name": "Under",
+              "description": "George Kittle",
+              "price": -110,
+              "point": 64.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Waddle",
+              "price": -111,
+              "point": 58.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Waddle",
+              "price": -113,
+              "point": 58.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian McCaffrey",
+              "price": -110,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian McCaffrey",
+              "price": -114,
+              "point": 45.5
+            },
+            {
+              "name": "Over",
+              "description": "Mike Evans",
+              "price": -113,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "description": "Mike Evans",
+              "price": -111,
+              "point": 43.5
+            },
+            {
+              "name": "Over",
+              "description": "Courtland Sutton",
+              "price": -111,
+              "point": 39.5
+            },
+            {
+              "name": "Under",
+              "description": "Courtland Sutton",
+              "price": -113,
+              "point": 39.5
+            },
+            {
+              "name": "Over",
+              "description": "Deebo Samuel",
+              "price": -111,
+              "point": 33.5
+            },
+            {
+              "name": "Under",
+              "description": "Deebo Samuel",
+              "price": -113,
+              "point": 33.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Bryant",
+              "price": -116,
+              "point": 22.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Bryant",
+              "price": -108,
+              "point": 22.5
+            },
+            {
+              "name": "Over",
+              "description": "RJ Harvey",
+              "price": -111,
+              "point": 22.5
+            },
+            {
+              "name": "Under",
+              "description": "RJ Harvey",
+              "price": -113,
+              "point": 22.5
+            },
+            {
+              "name": "Over",
+              "description": "Evan Engram",
+              "price": -115,
+              "point": 16.5
+            },
+            {
+              "name": "Under",
+              "description": "Evan Engram",
+              "price": -109,
+              "point": 16.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Juszczyk",
+              "price": -115,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Juszczyk",
+              "price": -109,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Troy Franklin",
+              "price": -118,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Troy Franklin",
+              "price": -107,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Adam Trautman",
+              "price": -113,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Adam Trautman",
+              "price": -111,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-04T19:49:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Christian McCaffrey",
+              "price": 115,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian McCaffrey",
+              "price": -147,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "George Kittle",
+              "price": -139,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "George Kittle",
+              "price": 109,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Waddle",
+              "price": -110,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Waddle",
+              "price": -116,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Mike Evans",
+              "price": -119,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Mike Evans",
+              "price": -107,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "RJ Harvey",
+              "price": -110,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "RJ Harvey",
+              "price": -116,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Courtland Sutton",
+              "price": 109,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Courtland Sutton",
+              "price": -139,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Deebo Samuel",
+              "price": 120,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Deebo Samuel",
+              "price": -154,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Bryant",
+              "price": 115,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Bryant",
+              "price": -146,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Evan Engram",
+              "price": 117,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Evan Engram",
+              "price": -149,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Juszczyk",
+              "price": 140,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Juszczyk",
+              "price": -180,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Troy Franklin",
+              "price": -186,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Troy Franklin",
+              "price": 145,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "Adam Trautman",
+              "price": -179,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Adam Trautman",
+              "price": 140,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-04T19:49:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Christian McCaffrey",
+              "price": -110,
+              "point": 67.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian McCaffrey",
+              "price": -114,
+              "point": 67.5
+            },
+            {
+              "name": "Over",
+              "description": "J.K. Dobbins",
+              "price": -113,
+              "point": 59.5
+            },
+            {
+              "name": "Under",
+              "description": "J.K. Dobbins",
+              "price": -111,
+              "point": 59.5
+            },
+            {
+              "name": "Over",
+              "description": "Kaelon Black",
+              "price": -116,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Kaelon Black",
+              "price": -108,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "Brock Purdy",
+              "price": -108,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Purdy",
+              "price": -116,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "Bo Nix",
+              "price": -119,
+              "point": 15.5
+            },
+            {
+              "name": "Under",
+              "description": "Bo Nix",
+              "price": -106,
+              "point": 15.5
+            },
+            {
+              "name": "Over",
+              "description": "RJ Harvey",
+              "price": -111,
+              "point": 15.5
+            },
+            {
+              "name": "Under",
+              "description": "RJ Harvey",
+              "price": -113,
+              "point": 15.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-04T19:48:23Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Christian McCaffrey",
+              "price": -170
+            },
+            {
+              "name": "Yes",
+              "description": "J.K. Dobbins",
+              "price": 129
+            },
+            {
+              "name": "Yes",
+              "description": "George Kittle",
+              "price": 157
+            },
+            {
+              "name": "Yes",
+              "description": "Deebo Samuel",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Evans",
+              "price": 195
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Waddle",
+              "price": 197
+            },
+            {
+              "name": "Yes",
+              "description": "Courtland Sutton",
+              "price": 215
+            },
+            {
+              "name": "Yes",
+              "description": "RJ Harvey",
+              "price": 230
+            },
+            {
+              "name": "Yes",
+              "description": "Pat Bryant",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Purdy",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Kaelon Black",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Nix",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Evan Engram",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Brandin Cooks",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Kyle Juszczyk",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Adam Trautman",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Marvin Mims Jr.",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Troy Franklin",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Watkins",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Cowing",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Badie",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Nate Adkins",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Turner",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Luke Farrell",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Adam Prentice",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Brayden Willis",
+              "price": 2200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-04T19:49:51Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Christian McCaffrey",
+              "price": -170
+            },
+            {
+              "name": "Yes",
+              "description": "J.K. Dobbins",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "George Kittle",
+              "price": 160
+            },
+            {
+              "name": "Yes",
+              "description": "Deebo Samuel",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Waddle",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Evans",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Courtland Sutton",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "RJ Harvey",
+              "price": 230
+            },
+            {
+              "name": "Yes",
+              "description": "Pat Bryant",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Purdy",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Nix",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Kaelon Black",
+              "price": 420
+            },
+            {
+              "name": "Yes",
+              "description": "Evan Engram",
+              "price": 480
+            },
+            {
+              "name": "Yes",
+              "description": "Denver Broncos Defense",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "San Francisco 49ers Defense",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Adam Trautman",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Kyle Juszczyk",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Troy Franklin",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Marvin Mims Jr.",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Watkins",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Badie",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Nate Adkins",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Cowing",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Turner",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Luke Farrell",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Adam Prentice",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Brayden Willis",
+              "price": 2500
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-04T19:49:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brock Purdy",
+              "price": -140,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Purdy",
+              "price": 108,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Bo Nix",
+              "price": 106,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Bo Nix",
+              "price": -138,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-04T19:49:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bo Nix",
+              "price": -113,
+              "point": 221.5
+            },
+            {
+              "name": "Under",
+              "description": "Bo Nix",
+              "price": -113,
+              "point": 221.5
+            },
+            {
+              "name": "Over",
+              "description": "Brock Purdy",
+              "price": -113,
+              "point": 233.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Purdy",
+              "price": -113,
+              "point": 233.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-04T19:49:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jaylen Waddle",
+              "price": -113,
+              "point": 56.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Waddle",
+              "price": -113,
+              "point": 56.5
+            },
+            {
+              "name": "Over",
+              "description": "RJ Harvey",
+              "price": -113,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "RJ Harvey",
+              "price": -113,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Bryant",
+              "price": -113,
+              "point": 22.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Bryant",
+              "price": -113,
+              "point": 22.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Juszczyk",
+              "price": -113,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Juszczyk",
+              "price": -113,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Mike Evans",
+              "price": -113,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "description": "Mike Evans",
+              "price": -113,
+              "point": 44.5
+            },
+            {
+              "name": "Over",
+              "description": "Adam Trautman",
+              "price": -113,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Adam Trautman",
+              "price": -113,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Troy Franklin",
+              "price": -113,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Troy Franklin",
+              "price": -113,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Evan Engram",
+              "price": -113,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Evan Engram",
+              "price": -113,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian McCaffrey",
+              "price": -113,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian McCaffrey",
+              "price": -113,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "George Kittle",
+              "price": -113,
+              "point": 62.5
+            },
+            {
+              "name": "Under",
+              "description": "George Kittle",
+              "price": -113,
+              "point": 62.5
+            },
+            {
+              "name": "Over",
+              "description": "Deebo Samuel",
+              "price": -113,
+              "point": 34.5
+            },
+            {
+              "name": "Under",
+              "description": "Deebo Samuel",
+              "price": -113,
+              "point": 34.5
+            },
+            {
+              "name": "Over",
+              "description": "Courtland Sutton",
+              "price": -113,
+              "point": 38.5
+            },
+            {
+              "name": "Under",
+              "description": "Courtland Sutton",
+              "price": -113,
+              "point": 38.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-04T19:49:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deebo Samuel",
+              "price": 118,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Deebo Samuel",
+              "price": -158,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Juszczyk",
+              "price": 148,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Juszczyk",
+              "price": -200,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "RJ Harvey",
+              "price": 102,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "RJ Harvey",
+              "price": -136,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Courtland Sutton",
+              "price": 114,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Courtland Sutton",
+              "price": -152,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "George Kittle",
+              "price": -148,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "George Kittle",
+              "price": 112,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Troy Franklin",
+              "price": -160,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Troy Franklin",
+              "price": 120,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian McCaffrey",
+              "price": -138,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian McCaffrey",
+              "price": 104,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Mike Evans",
+              "price": -122,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Mike Evans",
+              "price": -108,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Bryant",
+              "price": 118,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Bryant",
+              "price": -158,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Evan Engram",
+              "price": 110,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Evan Engram",
+              "price": -146,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Waddle",
+              "price": -106,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Waddle",
+              "price": -125,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Adam Trautman",
+              "price": -182,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Adam Trautman",
+              "price": 136,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-04T19:49:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Christian McCaffrey",
+              "price": -113,
+              "point": 65.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian McCaffrey",
+              "price": -113,
+              "point": 65.5
+            },
+            {
+              "name": "Over",
+              "description": "RJ Harvey",
+              "price": -113,
+              "point": 15.5
+            },
+            {
+              "name": "Under",
+              "description": "RJ Harvey",
+              "price": -113,
+              "point": 15.5
+            },
+            {
+              "name": "Over",
+              "description": "J.K. Dobbins",
+              "price": -113,
+              "point": 58.5
+            },
+            {
+              "name": "Under",
+              "description": "J.K. Dobbins",
+              "price": -113,
+              "point": 58.5
+            },
+            {
+              "name": "Over",
+              "description": "Bo Nix",
+              "price": -113,
+              "point": 16.5
+            },
+            {
+              "name": "Under",
+              "description": "Bo Nix",
+              "price": -113,
+              "point": 16.5
+            },
+            {
+              "name": "Over",
+              "description": "Kaelon Black",
+              "price": -113,
+              "point": 20.5
+            },
+            {
+              "name": "Under",
+              "description": "Kaelon Black",
+              "price": -113,
+              "point": 20.5
+            },
+            {
+              "name": "Over",
+              "description": "Brock Purdy",
+              "price": -113,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Purdy",
+              "price": -113,
+              "point": 17.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-04T19:49:50Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Christian McCaffrey",
+              "price": -200
+            },
+            {
+              "name": "Yes",
+              "description": "J.K. Dobbins",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "RJ Harvey",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Waddle",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Brayden Willis",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Luke Farrell",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Badie",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "James Jordan",
+              "price": 2900
+            },
+            {
+              "name": "Yes",
+              "description": "Nate Adkins",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Troy Franklin",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Watkins",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Adam Trautman",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Marvin Mims Jr.",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Cowing",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Kyle Juszczyk",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Evan Engram",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Pat Bryant",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Purdy",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Nix",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Courtland Sutton",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Kaelon Black",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Evans",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Deebo Samuel",
+              "price": 170
+            },
+            {
+              "name": "Yes",
+              "description": "George Kittle",
+              "price": 160
+            },
+            {
+              "name": "Yes",
+              "description": "Dallen Bentley",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Adam Prentice",
+              "price": 1900
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-04T19:49:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brock Purdy",
+              "price": -127,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Purdy",
+              "price": -102,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Bo Nix",
+              "price": 104,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Bo Nix",
+              "price": -135,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-04T19:49:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bo Nix",
+              "price": -119,
+              "point": 221.5
+            },
+            {
+              "name": "Under",
+              "description": "Bo Nix",
+              "price": -109,
+              "point": 221.5
+            },
+            {
+              "name": "Over",
+              "description": "Brock Purdy",
+              "price": -115,
+              "point": 236.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Purdy",
+              "price": -112,
+              "point": 236.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-04T19:49:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "George Kittle",
+              "price": -114,
+              "point": 64.5
+            },
+            {
+              "name": "Under",
+              "description": "George Kittle",
+              "price": -114,
+              "point": 64.5
+            },
+            {
+              "name": "Over",
+              "description": "Evan Engram",
+              "price": -110,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Evan Engram",
+              "price": -118,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Bryant",
+              "price": -115,
+              "point": 22.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Bryant",
+              "price": -112,
+              "point": 22.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Waddle",
+              "price": -114,
+              "point": 57.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Waddle",
+              "price": -114,
+              "point": 57.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Juszczyk",
+              "price": -116,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Juszczyk",
+              "price": -111,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian McCaffrey",
+              "price": -114,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian McCaffrey",
+              "price": -114,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "RJ Harvey",
+              "price": -116,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "RJ Harvey",
+              "price": -111,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "Courtland Sutton",
+              "price": -114,
+              "point": 39.5
+            },
+            {
+              "name": "Under",
+              "description": "Courtland Sutton",
+              "price": -114,
+              "point": 39.5
+            },
+            {
+              "name": "Over",
+              "description": "Deebo Samuel",
+              "price": -116,
+              "point": 34.5
+            },
+            {
+              "name": "Under",
+              "description": "Deebo Samuel",
+              "price": -111,
+              "point": 34.5
+            },
+            {
+              "name": "Over",
+              "description": "Troy Franklin",
+              "price": -108,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Troy Franklin",
+              "price": -120,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Adam Trautman",
+              "price": -114,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Adam Trautman",
+              "price": -114,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-04T19:49:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Courtland Sutton",
+              "price": 112,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Courtland Sutton",
+              "price": -145,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Waddle",
+              "price": -111,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Waddle",
+              "price": -116,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "RJ Harvey",
+              "price": -106,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "RJ Harvey",
+              "price": -122,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Evan Engram",
+              "price": 115,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Evan Engram",
+              "price": -149,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Bryant",
+              "price": 115,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Bryant",
+              "price": -149,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "George Kittle",
+              "price": -143,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "George Kittle",
+              "price": 110,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Juszczyk",
+              "price": 146,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Juszczyk",
+              "price": -192,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Troy Franklin",
+              "price": -182,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Troy Franklin",
+              "price": 138,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "Adam Trautman",
+              "price": -149,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Adam Trautman",
+              "price": 115,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "Deebo Samuel",
+              "price": 115,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Deebo Samuel",
+              "price": -149,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian McCaffrey",
+              "price": 115,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian McCaffrey",
+              "price": -149,
+              "point": 5.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-04T19:49:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "J.K. Dobbins",
+              "price": -114,
+              "point": 59.5
+            },
+            {
+              "name": "Under",
+              "description": "J.K. Dobbins",
+              "price": -114,
+              "point": 59.5
+            },
+            {
+              "name": "Over",
+              "description": "Brock Purdy",
+              "price": -120,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Purdy",
+              "price": -108,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "RJ Harvey",
+              "price": -112,
+              "point": 15.5
+            },
+            {
+              "name": "Under",
+              "description": "RJ Harvey",
+              "price": -115,
+              "point": 15.5
+            },
+            {
+              "name": "Over",
+              "description": "Bo Nix",
+              "price": -112,
+              "point": 16.5
+            },
+            {
+              "name": "Under",
+              "description": "Bo Nix",
+              "price": -115,
+              "point": 16.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian McCaffrey",
+              "price": -114,
+              "point": 67.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian McCaffrey",
+              "price": -114,
+              "point": 67.5
+            },
+            {
+              "name": "Over",
+              "description": "Kaelon Black",
+              "price": -114,
+              "point": 20.5
+            },
+            {
+              "name": "Under",
+              "description": "Kaelon Black",
+              "price": -114,
+              "point": 20.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-04T19:49:21Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Marvin Mims Jr.",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "J.K. Dobbins",
+              "price": 110
+            },
+            {
+              "name": "Yes",
+              "description": "Luke Farrell",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Pat Bryant",
+              "price": 390
+            },
+            {
+              "name": "Yes",
+              "description": "Adam Trautman",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Badie",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Waddle",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Kyle Juszczyk",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "Evan Engram",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Cowing",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Evans",
+              "price": 188
+            },
+            {
+              "name": "Yes",
+              "description": "Brandin Cooks",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "RJ Harvey",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Kaelon Black",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Nate Adkins",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Purdy",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Watkins",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Courtland Sutton",
+              "price": 245
+            },
+            {
+              "name": "Yes",
+              "description": "Christian McCaffrey",
+              "price": -210
+            },
+            {
+              "name": "Yes",
+              "description": "Deebo Samuel",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Nix",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "George Kittle",
+              "price": 160
+            },
+            {
+              "name": "Yes",
+              "description": "Troy Franklin",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Adam Prentice",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Brayden Willis",
+              "price": 2900
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-04T19:49:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bo Nix",
+              "price": 112,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Bo Nix",
+              "price": -150,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Brock Purdy",
+              "price": -113,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Purdy",
+              "price": -118,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-04T19:49:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bo Nix",
+              "price": -115,
+              "point": 224.5
+            },
+            {
+              "name": "Under",
+              "description": "Bo Nix",
+              "price": -114,
+              "point": 224.5
+            },
+            {
+              "name": "Over",
+              "description": "Brock Purdy",
+              "price": -115,
+              "point": 236.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Purdy",
+              "price": -115,
+              "point": 236.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-04T19:49:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Troy Franklin",
+              "price": -121,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Troy Franklin",
+              "price": -110,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Adam Trautman",
+              "price": -118,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Adam Trautman",
+              "price": -113,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Courtland Sutton",
+              "price": -115,
+              "point": 37.5
+            },
+            {
+              "name": "Under",
+              "description": "Courtland Sutton",
+              "price": -115,
+              "point": 37.5
+            },
+            {
+              "name": "Over",
+              "description": "George Kittle",
+              "price": -114,
+              "point": 65.5
+            },
+            {
+              "name": "Under",
+              "description": "George Kittle",
+              "price": -117,
+              "point": 65.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Waddle",
+              "price": -114,
+              "point": 58.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Waddle",
+              "price": -117,
+              "point": 58.5
+            },
+            {
+              "name": "Over",
+              "description": "Deebo Samuel",
+              "price": -117,
+              "point": 35.5
+            },
+            {
+              "name": "Under",
+              "description": "Deebo Samuel",
+              "price": -114,
+              "point": 35.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian McCaffrey",
+              "price": -113,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian McCaffrey",
+              "price": -117,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Bryant",
+              "price": -113,
+              "point": 22.5
+            },
+            {
+              "name": "Under",
+              "description": "Pat Bryant",
+              "price": -117,
+              "point": 22.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Juszczyk",
+              "price": -112,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Juszczyk",
+              "price": -120,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "RJ Harvey",
+              "price": -120,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "RJ Harvey",
+              "price": -112,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "Evan Engram",
+              "price": -118,
+              "point": 15.5
+            },
+            {
+              "name": "Under",
+              "description": "Evan Engram",
+              "price": -113,
+              "point": 15.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-04T19:49:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Christian McCaffrey",
+              "price": -134,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Troy Franklin",
+              "price": -180,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Juszczyk",
+              "price": 150,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Deebo Samuel",
+              "price": 112,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Courtland Sutton",
+              "price": 114,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Adam Trautman",
+              "price": -190,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "George Kittle",
+              "price": -143,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Evan Engram",
+              "price": 114,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Pat Bryant",
+              "price": 106,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Waddle",
+              "price": -104,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "RJ Harvey",
+              "price": -113,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-04T19:49:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Christian McCaffrey",
+              "price": -115,
+              "point": 65.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian McCaffrey",
+              "price": -115,
+              "point": 65.5
+            },
+            {
+              "name": "Over",
+              "description": "Brock Purdy",
+              "price": -118,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Purdy",
+              "price": -113,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "Kaelon Black",
+              "price": -114,
+              "point": 22.5
+            },
+            {
+              "name": "Under",
+              "description": "Kaelon Black",
+              "price": -117,
+              "point": 22.5
+            },
+            {
+              "name": "Over",
+              "description": "RJ Harvey",
+              "price": -112,
+              "point": 16.5
+            },
+            {
+              "name": "Under",
+              "description": "RJ Harvey",
+              "price": -120,
+              "point": 16.5
+            },
+            {
+              "name": "Over",
+              "description": "J.K. Dobbins",
+              "price": -115,
+              "point": 59.5
+            },
+            {
+              "name": "Under",
+              "description": "J.K. Dobbins",
+              "price": -115,
+              "point": 59.5
+            },
+            {
+              "name": "Over",
+              "description": "Bo Nix",
+              "price": -114,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Bo Nix",
+              "price": -117,
+              "point": 17.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-04T19:49:51Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "No Scorer",
+              "price": 5000
+            },
+            {
+              "name": "Yes",
+              "description": "Christian McCaffrey",
+              "price": -155
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Evans",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "George Kittle",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "Kyle Juszczyk",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Deebo Samuel",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Luke Farrell",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Purdy",
+              "price": 410
+            },
+            {
+              "name": "Yes",
+              "description": "Brayden Willis",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Cowing",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Watkins",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Kaelon Black",
+              "price": 410
+            },
+            {
+              "name": "Yes",
+              "description": "San Francisco 49ers D/ST",
+              "price": 430
+            },
+            {
+              "name": "Yes",
+              "description": "Courtland Sutton",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "Evan Engram",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "J.K. Dobbins",
+              "price": 140
+            },
+            {
+              "name": "Yes",
+              "description": "Adam Trautman",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Waddle",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Badie",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Nate Adkins",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Marvin Mims Jr.",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Nix",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "Troy Franklin",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "RJ Harvey",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Pat Bryant",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Denver Broncos D/ST",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Adam Prentice",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Turner",
+              "price": 1200
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-04T19:49:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bo Nix",
+              "price": 105,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Bo Nix",
+              "price": -140,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-04T19:49:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Bo Nix",
+              "price": -110,
+              "point": 220.5
+            },
+            {
+              "name": "Under",
+              "description": "Bo Nix",
+              "price": -120,
+              "point": 220.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-04T19:49:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "George Kittle",
+              "price": -125,
+              "point": 60.5
+            },
+            {
+              "name": "Under",
+              "description": "George Kittle",
+              "price": -105,
+              "point": 60.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-04T19:49:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "RJ Harvey",
+              "price": -110,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "RJ Harvey",
+              "price": -120,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-04T19:49:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Christian McCaffrey",
+              "price": -120,
+              "point": 65.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian McCaffrey",
+              "price": -110,
+              "point": 65.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
