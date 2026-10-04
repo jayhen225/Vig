@@ -1,0 +1,218 @@
+{
+  "id": "6b024bad1abb54f597225e4ab9b39d89",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-11T17:00:00Z",
+  "home_team": "New England Patriots",
+  "away_team": "Las Vegas Raiders",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-04T22:35:01Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 160
+            },
+            {
+              "name": "New England Patriots",
+              "price": -192
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-04T22:35:01Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 3.5
+            },
+            {
+              "name": "New England Patriots",
+              "price": -110,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:35:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-04T22:35:02Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 164
+            },
+            {
+              "name": "New England Patriots",
+              "price": -197
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-04T22:35:02Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -106,
+              "point": 3.5
+            },
+            {
+              "name": "New England Patriots",
+              "price": -114,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:35:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-04T22:35:16Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 168
+            },
+            {
+              "name": "New England Patriots",
+              "price": -200
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-04T22:35:16Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -104,
+              "point": 3.5
+            },
+            {
+              "name": "New England Patriots",
+              "price": -118,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:35:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-04T22:34:49Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 155
+            },
+            {
+              "name": "New England Patriots",
+              "price": -190
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-04T22:34:49Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 3.5
+            },
+            {
+              "name": "New England Patriots",
+              "price": -110,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:34:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -114,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "id": "2caea57b1e5cfbba1334cfbfd46f6771",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-11T17:00:00Z",
+  "home_team": "Green Bay Packers",
+  "away_team": "Chicago Bears",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-04T22:35:01Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -118
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -102
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-04T22:35:01Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -105,
+              "point": -1.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -115,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:35:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:20:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-04T22:35:16Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -110
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -106
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-04T22:35:16Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -102,
+              "point": -1.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -120,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:35:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-04T22:34:49Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -110
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -110
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-04T22:34:49Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -104,
+              "point": -1.0
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -118,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:34:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

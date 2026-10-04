@@ -1,0 +1,188 @@
+{
+  "id": "fbffd0b7722fd81d68d5d62472dc80e8",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-11T17:00:00Z",
+  "home_team": "Washington Commanders",
+  "away_team": "New York Giants",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-04T22:35:01Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": 136
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -162
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-04T22:35:01Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": 3.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:35:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:35:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-04T22:35:16Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": 164
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -196
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-04T22:35:16Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": 3.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:35:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -104,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -118,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-04T22:34:49Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": 155
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -190
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-04T22:34:49Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": -115,
+              "point": 3.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -106,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:34:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

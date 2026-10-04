@@ -1,0 +1,204 @@
+{
+  "id": "cc52bba56e74f5cddbe9011046181c3d",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-11T17:00:00Z",
+  "home_team": "Tennessee Titans",
+  "away_team": "Houston Texans",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-04T22:35:01Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -290
+            },
+            {
+              "name": "Tennessee Titans",
+              "price": 235
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-04T22:35:01Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -105,
+              "point": -6.5
+            },
+            {
+              "name": "Tennessee Titans",
+              "price": -115,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:35:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-04T22:35:02Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -112,
+              "point": -6.5
+            },
+            {
+              "name": "Tennessee Titans",
+              "price": -108,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:35:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-04T22:35:16Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -320
+            },
+            {
+              "name": "Tennessee Titans",
+              "price": 260
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-04T22:35:16Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -115,
+              "point": -6.5
+            },
+            {
+              "name": "Tennessee Titans",
+              "price": -105,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:35:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 39.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 39.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-04T22:34:49Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -315
+            },
+            {
+              "name": "Tennessee Titans",
+              "price": 250
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-04T22:34:49Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -109,
+              "point": -6.5
+            },
+            {
+              "name": "Tennessee Titans",
+              "price": -112,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-04T22:34:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 39.0
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 39.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
