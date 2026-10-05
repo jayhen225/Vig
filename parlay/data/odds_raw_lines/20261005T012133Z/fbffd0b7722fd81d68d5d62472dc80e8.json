@@ -1,0 +1,384 @@
+{
+  "id": "fbffd0b7722fd81d68d5d62472dc80e8",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-11T17:00:00Z",
+  "home_team": "Washington Commanders",
+  "away_team": "New York Giants",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T01:21:19Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": 136
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -162
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T01:21:19Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": 3.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T01:21:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T01:18:18Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": 142
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T01:18:18Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": -114,
+              "point": 3.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -105,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T01:18:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -104,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -117,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T01:20:51Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": -105,
+              "point": 3.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -115,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T01:20:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T01:21:05Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": 152
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -180
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T01:21:05Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": -114,
+              "point": 3.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -106,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T01:21:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -104,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -118,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T01:20:24Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": 100,
+              "point": 3.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -110,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T01:20:24Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T01:21:19Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": -105,
+              "point": 3.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -115,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T01:21:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T01:21:21Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": 155
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -190
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T01:21:21Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": -115,
+              "point": 3.5
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -106,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T01:21:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T01:19:13Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": 140
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -175
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T01:19:13Z",
+          "outcomes": [
+            {
+              "name": "New York Giants",
+              "price": -102,
+              "point": 3.0
+            },
+            {
+              "name": "Washington Commanders",
+              "price": -118,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T01:19:13Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
