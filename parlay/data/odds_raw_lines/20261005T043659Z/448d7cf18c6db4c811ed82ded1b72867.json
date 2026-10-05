@@ -1,0 +1,450 @@
+{
+  "id": "448d7cf18c6db4c811ed82ded1b72867",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-11T17:00:00Z",
+  "home_team": "Pittsburgh Steelers",
+  "away_team": "Indianapolis Colts",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T04:36:19Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 114
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -135
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T04:36:19Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T04:36:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T04:36:33Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 113
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -134
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T04:36:33Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -109,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T04:36:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T04:36:20Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 105,
+              "point": 1.0
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -125,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T04:36:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T04:36:45Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 112
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -132
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T04:36:45Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -105,
+              "point": 1.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -115,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T04:36:45Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T04:35:50Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T04:35:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T04:36:03Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 122
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -142
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T04:36:03Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -105,
+              "point": 2.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -115,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T04:36:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T04:36:50Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 122
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -142
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T04:36:50Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 100,
+              "point": 2.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T04:36:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T04:36:04Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 110
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -134
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T04:36:04Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -110,
+              "point": 2.0
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -110,
+              "point": -2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T04:36:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T04:36:18Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 115
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -140
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T04:36:18Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -105,
+              "point": 2.0
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -112,
+              "point": -2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T04:36:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
