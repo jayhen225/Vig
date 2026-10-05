@@ -1,0 +1,450 @@
+{
+  "id": "d1d408fdfd272046fb517fe992a1c5a0",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-11T20:05:00Z",
+  "home_team": "Los Angeles Chargers",
+  "away_team": "Denver Broncos",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T12:04:48Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -180
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 150
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T12:04:48Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T12:04:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T12:05:31Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -182
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 152
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T12:05:31Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T12:05:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T12:05:46Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T12:05:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T12:06:02Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -188
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 158
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T12:06:02Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -108,
+              "point": -3.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -112,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T12:06:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T12:05:03Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T12:05:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T12:05:32Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -175
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 153
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T12:05:32Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -105,
+              "point": -3.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -115,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T12:05:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 42.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 42.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T12:05:17Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -175
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 153
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T12:05:17Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 100,
+              "point": -3.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T12:05:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 42.0
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 42.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T12:05:31Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -195
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 160
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T12:05:31Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -114,
+              "point": -3.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -107,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T12:05:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -114,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-05T12:06:00Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -185
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 155
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-05T12:06:00Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -108,
+              "point": -3.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-05T12:06:00Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
