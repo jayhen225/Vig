@@ -1,0 +1,914 @@
+{
+  "id": "e6d00eedd87d367e510314bd8cab8f6f",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-13T00:15:00Z",
+  "home_team": "Los Angeles Rams",
+  "away_team": "Buffalo Bills",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-06T05:16:44Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Kyren Williams",
+              "price": -175
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Allen",
+              "price": -130
+            },
+            {
+              "name": "Yes",
+              "description": "Puka Nacua",
+              "price": -120
+            },
+            {
+              "name": "Yes",
+              "description": "James Cook",
+              "price": -120
+            },
+            {
+              "name": "Yes",
+              "description": "Davante Adams",
+              "price": 100
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Higbee",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Kincaid",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Keon Coleman",
+              "price": 245
+            },
+            {
+              "name": "Yes",
+              "description": "Blake Corum",
+              "price": 255
+            },
+            {
+              "name": "Yes",
+              "description": "Khalil Shakir",
+              "price": 270
+            },
+            {
+              "name": "Yes",
+              "description": "Ty Johnson",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Buffalo Bills D/ST",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Los Angeles Rams D/ST",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Joshua Palmer",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Davis Allen",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Dawson Knox",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Konata Mumpfield",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Whittington",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Jackson Hawes",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Tutu Atwell",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Stafford",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Ray Davis",
+              "price": 1800
+            },
+            {
+              "name": "Yes",
+              "description": "Keleki Latu",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Dean Connors",
+              "price": 2800
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-06T05:16:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Matthew Stafford",
+              "price": 160,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Stafford",
+              "price": -206,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -109,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -117,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-06T05:16:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Matthew Stafford",
+              "price": -111,
+              "point": 281.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Stafford",
+              "price": -113,
+              "point": 281.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -111,
+              "point": 247.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -112,
+              "point": 247.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-06T05:16:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Puka Nacua",
+              "price": -112,
+              "point": 93.5
+            },
+            {
+              "name": "Under",
+              "description": "Puka Nacua",
+              "price": -112,
+              "point": 93.5
+            },
+            {
+              "name": "Over",
+              "description": "Davante Adams",
+              "price": -113,
+              "point": 60.5
+            },
+            {
+              "name": "Under",
+              "description": "Davante Adams",
+              "price": -111,
+              "point": 60.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyren Williams",
+              "price": -108,
+              "point": 19.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyren Williams",
+              "price": -116,
+              "point": 19.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-06T05:16:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Puka Nacua",
+              "price": 113,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Puka Nacua",
+              "price": -144,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Davante Adams",
+              "price": -101,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Davante Adams",
+              "price": -127,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyren Williams",
+              "price": -169,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyren Williams",
+              "price": 132,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-06T05:16:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": -111,
+              "point": 75.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -113,
+              "point": 75.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyren Williams",
+              "price": -113,
+              "point": 69.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyren Williams",
+              "price": -111,
+              "point": 69.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -110,
+              "point": 39.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -114,
+              "point": 39.5
+            },
+            {
+              "name": "Over",
+              "description": "Blake Corum",
+              "price": -108,
+              "point": 31.5
+            },
+            {
+              "name": "Under",
+              "description": "Blake Corum",
+              "price": -116,
+              "point": 31.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-06T05:14:54Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Kyren Williams",
+              "price": -182
+            },
+            {
+              "name": "Yes",
+              "description": "Puka Nacua",
+              "price": -130
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Allen",
+              "price": -125
+            },
+            {
+              "name": "Yes",
+              "description": "James Cook",
+              "price": -125
+            },
+            {
+              "name": "Yes",
+              "description": "Davante Adams",
+              "price": -107
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Higbee",
+              "price": 186
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Kincaid",
+              "price": 205
+            },
+            {
+              "name": "Yes",
+              "description": "Keon Coleman",
+              "price": 245
+            },
+            {
+              "name": "Yes",
+              "description": "Khalil Shakir",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Blake Corum",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Ty Johnson",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Joshua Palmer",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Dawson Knox",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Davis Allen",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Konata Mumpfield",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Whittington",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Jackson Hawes",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Tutu Atwell",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Stafford",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Ray Davis",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Keleki Latu",
+              "price": 2100
+            },
+            {
+              "name": "Yes",
+              "description": "Dean Connors",
+              "price": 2400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-06T05:17:04Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Kyren Williams",
+              "price": -180
+            },
+            {
+              "name": "Yes",
+              "description": "Puka Nacua",
+              "price": -130
+            },
+            {
+              "name": "Yes",
+              "description": "James Cook",
+              "price": -125
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Allen",
+              "price": -125
+            },
+            {
+              "name": "Yes",
+              "description": "Davante Adams",
+              "price": -105
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Higbee",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Kincaid",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Keon Coleman",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Blake Corum",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Khalil Shakir",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Joshua Palmer",
+              "price": 440
+            },
+            {
+              "name": "Yes",
+              "description": "Ty Johnson",
+              "price": 480
+            },
+            {
+              "name": "Yes",
+              "description": "Dawson Knox",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Davis Allen",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Los Angeles Rams Defense",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Konata Mumpfield",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Whittington",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Buffalo Bills Defense",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Jackson Hawes",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Tutu Atwell",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Stafford",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Ray Davis",
+              "price": 1800
+            },
+            {
+              "name": "Yes",
+              "description": "Keleki Latu",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Dean Connors",
+              "price": 2500
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-06T05:17:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Matthew Stafford",
+              "price": 162,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Stafford",
+              "price": -220,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -112,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -118,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-06T05:17:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -114,
+              "point": 245.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -114,
+              "point": 245.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Stafford",
+              "price": -114,
+              "point": 280.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Stafford",
+              "price": -114,
+              "point": 280.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-06T05:17:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Davante Adams",
+              "price": -114,
+              "point": 62.5
+            },
+            {
+              "name": "Under",
+              "description": "Davante Adams",
+              "price": -114,
+              "point": 62.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyren Williams",
+              "price": -114,
+              "point": 19.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyren Williams",
+              "price": -114,
+              "point": 19.5
+            },
+            {
+              "name": "Over",
+              "description": "Puka Nacua",
+              "price": -114,
+              "point": 92.5
+            },
+            {
+              "name": "Under",
+              "description": "Puka Nacua",
+              "price": -114,
+              "point": 92.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-06T05:17:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Puka Nacua",
+              "price": -160,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Puka Nacua",
+              "price": 120,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Davante Adams",
+              "price": 108,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Davante Adams",
+              "price": -144,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyren Williams",
+              "price": -172,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyren Williams",
+              "price": 128,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-06T05:17:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "James Cook",
+              "price": -114,
+              "point": 75.5
+            },
+            {
+              "name": "Under",
+              "description": "James Cook",
+              "price": -114,
+              "point": 75.5
+            },
+            {
+              "name": "Over",
+              "description": "Blake Corum",
+              "price": -114,
+              "point": 31.5
+            },
+            {
+              "name": "Under",
+              "description": "Blake Corum",
+              "price": -114,
+              "point": 31.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyren Williams",
+              "price": -114,
+              "point": 69.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyren Williams",
+              "price": -114,
+              "point": 69.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Allen",
+              "price": -114,
+              "point": 36.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Allen",
+              "price": -114,
+              "point": 36.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-06T05:17:25Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Matthew Stafford",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Dawson Knox",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Allen",
+              "price": -143
+            },
+            {
+              "name": "Yes",
+              "description": "Khalil Shakir",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Tutu Atwell",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Higbee",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Whittington",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Ty Johnson",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Kincaid",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Blake Corum",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "James Cook",
+              "price": -125
+            },
+            {
+              "name": "Yes",
+              "description": "Davis Allen",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Kyren Williams",
+              "price": -200
+            },
+            {
+              "name": "Yes",
+              "description": "Puka Nacua",
+              "price": -143
+            },
+            {
+              "name": "Yes",
+              "description": "Ray Davis",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Keon Coleman",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Davante Adams",
+              "price": -111
+            },
+            {
+              "name": "Yes",
+              "description": "Konata Mumpfield",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Keleki Latu",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Jackson Hawes",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Dean Connors",
+              "price": 2400
+            },
+            {
+              "name": "Yes",
+              "description": "Joshua Palmer",
+              "price": 400
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
