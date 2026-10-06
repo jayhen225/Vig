@@ -1,0 +1,582 @@
+{
+  "id": "8e5d515b10d8a5ffb324640ed60bcc55",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-11T20:25:00Z",
+  "home_team": "Seattle Seahawks",
+  "away_team": "San Francisco 49ers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-06T02:39:11Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": 124
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -148
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-06T02:39:11Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": 100,
+              "point": 2.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -120,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-06T02:39:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-06T02:28:08Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": 132
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -154
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-06T02:28:08Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": -115,
+              "point": 3.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -105,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-06T02:28:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-06T02:39:24Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": 134
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -155
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-06T02:39:24Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": -115,
+              "point": 3.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -105,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-06T02:39:24Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-06T02:39:11Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": 138
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -164
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-06T02:39:11Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": -110,
+              "point": 3.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -110,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-06T02:39:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -120,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-06T02:39:09Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": 128
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -164
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-06T02:39:09Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": -120,
+              "point": 3.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": 100,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-06T02:39:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-06T02:38:53Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": 135
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -155
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-06T02:38:53Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": -115,
+              "point": 3.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -105,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-06T02:38:53Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-06T02:38:26Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": 135
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -155
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-06T02:38:26Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": -110,
+              "point": 3.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": 100,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-06T02:38:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-06T02:38:54Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": 128
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -157
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-06T02:38:54Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": -109,
+              "point": 3.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -112,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-06T02:38:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-06T02:39:09Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": 130
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -155
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-06T02:39:09Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": -110,
+              "point": 3.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -108,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-06T02:39:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-06T02:39:30Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": 130
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -150
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-06T02:39:30Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": -120,
+              "point": 3.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": 100,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-06T02:39:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 47.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 47.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-06T02:38:55Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": 130
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -155
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-06T02:38:55Z",
+          "outcomes": [
+            {
+              "name": "San Francisco 49ers",
+              "price": -115,
+              "point": 3.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -105,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-06T02:38:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
