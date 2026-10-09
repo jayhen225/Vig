@@ -1,0 +1,2636 @@
+{
+  "id": "c4647ca1201e6768501877267ca8251b",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-11T17:00:00Z",
+  "home_team": "Miami Dolphins",
+  "away_team": "Cincinnati Bengals",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T03:29:43Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -160
+            },
+            {
+              "name": "Yes",
+              "description": "Ollie Gordon II",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Wright",
+              "price": 255
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 255
+            },
+            {
+              "name": "Yes",
+              "description": "Mitchell Tinsley",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Washington",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Willis",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Bell",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Greg Dulcich",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Caleb Douglas",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Coleman Jr.",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Tanner Hudson",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Jack Endries",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Will Kacmarek",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Jalen Tolbert",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Ryan Miller",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Joly",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Herman",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Seydou Traore",
+              "price": 2800
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-09T03:29:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -153,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": 120,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -179,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": 139,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-09T03:29:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -111,
+              "point": 245.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -113,
+              "point": 245.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -114,
+              "point": 193.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": -110,
+              "point": 193.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-09T03:29:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Malik Washington",
+              "price": -115,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Washington",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Over",
+              "description": "Chris Bell",
+              "price": -109,
+              "point": 32.5
+            },
+            {
+              "name": "Under",
+              "description": "Chris Bell",
+              "price": -115,
+              "point": 32.5
+            },
+            {
+              "name": "Over",
+              "description": "Greg Dulcich",
+              "price": -116,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Greg Dulcich",
+              "price": -108,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -107,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": -117,
+              "point": 11.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-09T03:29:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Malik Washington",
+              "price": -115,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Washington",
+              "price": -111,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Greg Dulcich",
+              "price": -134,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Greg Dulcich",
+              "price": 105,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Chris Bell",
+              "price": -103,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Chris Bell",
+              "price": -123,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -162,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": 127,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-09T03:29:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -114,
+              "point": 65.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -110,
+              "point": 65.5
+            },
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -113,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": -111,
+              "point": 42.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -108,
+              "point": 33.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": -116,
+              "point": 33.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Wright",
+              "price": -108,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Wright",
+              "price": -116,
+              "point": 25.5
+            },
+            {
+              "name": "Over",
+              "description": "Samaje Perine",
+              "price": -107,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Samaje Perine",
+              "price": -117,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -110,
+              "point": 8.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T03:30:54Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -164
+            },
+            {
+              "name": "Yes",
+              "description": "Tee Higgins",
+              "price": -118
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Marr Chase",
+              "price": -112
+            },
+            {
+              "name": "Yes",
+              "description": "Ollie Gordon II",
+              "price": 152
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 235
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Wright",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Mitchell Tinsley",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Washington",
+              "price": 305
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Willis",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Greg Dulcich",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Bell",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Caleb Douglas",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 625
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Coleman Jr.",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Tanner Hudson",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Jack Endries",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Will Kacmarek",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Ryan Miller",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Jalen Tolbert",
+              "price": 1750
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 2100
+            },
+            {
+              "name": "Yes",
+              "description": "Seydou Traore",
+              "price": 2300
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Herman",
+              "price": 2300
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Joly",
+              "price": 2400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T03:31:02Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -160
+            },
+            {
+              "name": "Yes",
+              "description": "Ollie Gordon II",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 230
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Wright",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Mitchell Tinsley",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Willis",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Washington",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 430
+            },
+            {
+              "name": "Yes",
+              "description": "Greg Dulcich",
+              "price": 470
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Bell",
+              "price": 490
+            },
+            {
+              "name": "Yes",
+              "description": "Miami Dolphins Defense",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Cincinnati Bengals Defense",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Coleman Jr.",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Tanner Hudson",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Jack Endries",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Will Kacmarek",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Ryan Miller",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Jalen Tolbert",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Joly",
+              "price": 2700
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Herman",
+              "price": 2700
+            },
+            {
+              "name": "Yes",
+              "description": "Seydou Traore",
+              "price": 2700
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-09T03:31:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -166,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": 124,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -188,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": 140,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-09T03:31:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 242.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 242.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -114,
+              "point": 192.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": -114,
+              "point": 192.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-09T03:31:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kevin Coleman Jr.",
+              "price": -114,
+              "point": 18.5
+            },
+            {
+              "name": "Under",
+              "description": "Kevin Coleman Jr.",
+              "price": -114,
+              "point": 18.5
+            },
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -114,
+              "point": 10.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": -114,
+              "point": 10.5
+            },
+            {
+              "name": "Over",
+              "description": "Greg Dulcich",
+              "price": -114,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Greg Dulcich",
+              "price": -114,
+              "point": 25.5
+            },
+            {
+              "name": "Over",
+              "description": "Chris Bell",
+              "price": -114,
+              "point": 34.5
+            },
+            {
+              "name": "Under",
+              "description": "Chris Bell",
+              "price": -114,
+              "point": 34.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Washington",
+              "price": -114,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Washington",
+              "price": -114,
+              "point": 44.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-09T03:31:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -180,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": 134,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Chris Bell",
+              "price": -108,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Chris Bell",
+              "price": -122,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Kevin Coleman Jr.",
+              "price": -158,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Kevin Coleman Jr.",
+              "price": 118,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Washington",
+              "price": -138,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Washington",
+              "price": 104,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Greg Dulcich",
+              "price": -138,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Greg Dulcich",
+              "price": 104,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-09T03:31:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -114,
+              "point": 67.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -114,
+              "point": 67.5
+            },
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -114,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": -114,
+              "point": 43.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Wright",
+              "price": -114,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Wright",
+              "price": -114,
+              "point": 25.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -114,
+              "point": 32.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": -114,
+              "point": 32.5
+            },
+            {
+              "name": "Over",
+              "description": "Samaje Perine",
+              "price": -114,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Samaje Perine",
+              "price": -114,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -114,
+              "point": 8.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T03:30:32Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Ollie Gordon II",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -167
+            },
+            {
+              "name": "Yes",
+              "description": "Seydou Traore",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Joly",
+              "price": 2400
+            },
+            {
+              "name": "Yes",
+              "description": "Tanner Hudson",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Jalen Tolbert",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Will Kacmarek",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Ryan Miller",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Jack Endries",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Coleman Jr.",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Caleb Douglas",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Mitchell Tinsley",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Greg Dulcich",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Bell",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Washington",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Wright",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Willis",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 230
+            },
+            {
+              "name": "Yes",
+              "description": "Tee Higgins",
+              "price": -125
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Marr Chase",
+              "price": -125
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-09T03:30:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -161,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": 123,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -185,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": 141,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-09T03:30:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -114,
+              "point": 192.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": -114,
+              "point": 192.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -112,
+              "point": 243.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 243.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-09T03:30:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -114,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": -114,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Washington",
+              "price": -114,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Washington",
+              "price": -114,
+              "point": 45.5
+            },
+            {
+              "name": "Over",
+              "description": "Greg Dulcich",
+              "price": -114,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Greg Dulcich",
+              "price": -114,
+              "point": 25.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-09T03:30:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -167,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": 127,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Washington",
+              "price": -119,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Washington",
+              "price": -109,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Greg Dulcich",
+              "price": -143,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Greg Dulcich",
+              "price": 110,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-09T03:30:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -112,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -114,
+              "point": 67.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -114,
+              "point": 67.5
+            },
+            {
+              "name": "Over",
+              "description": "Samaje Perine",
+              "price": -115,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Samaje Perine",
+              "price": -112,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -114,
+              "point": 32.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": -114,
+              "point": 32.5
+            },
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -116,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": -111,
+              "point": 42.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Wright",
+              "price": -112,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Wright",
+              "price": -115,
+              "point": 25.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T03:30:27Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Marr Chase",
+              "price": 106
+            },
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -139
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Bell",
+              "price": 410
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Jalen Tolbert",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Washington",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Ollie Gordon II",
+              "price": -121
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Wright",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Will Kacmarek",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Willis",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "Caleb Douglas",
+              "price": 390
+            },
+            {
+              "name": "Yes",
+              "description": "Tee Higgins",
+              "price": 107
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Ryan Miller",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Herman",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Joly",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Greg Dulcich",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Seydou Traore",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 425
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 295
+            },
+            {
+              "name": "Yes",
+              "description": "Tanner Hudson",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Coleman Jr.",
+              "price": 1050
+            },
+            {
+              "name": "Yes",
+              "description": "Jack Endries",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Mitchell Tinsley",
+              "price": 370
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-09T03:30:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -165,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": 123,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -180,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": 132,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-09T03:30:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -115,
+              "point": 191.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": -115,
+              "point": 191.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 240.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 240.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-09T03:30:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -114,
+              "point": 10.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": -117,
+              "point": 10.5
+            },
+            {
+              "name": "Over",
+              "description": "Greg Dulcich",
+              "price": -118,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Greg Dulcich",
+              "price": -113,
+              "point": 25.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-09T03:30:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -155,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Washington",
+              "price": -130,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Greg Dulcich",
+              "price": -137,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-09T03:30:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -117,
+              "point": 33.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": -113,
+              "point": 33.5
+            },
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -115,
+              "point": 68.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -115,
+              "point": 68.5
+            },
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -112,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": -120,
+              "point": 43.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Samaje Perine",
+              "price": -121,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Samaje Perine",
+              "price": -110,
+              "point": 14.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T03:30:54Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Ryan Miller",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Willis",
+              "price": 270
+            },
+            {
+              "name": "Yes",
+              "description": "Caleb Douglas",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Ollie Gordon II",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -150
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Wright",
+              "price": 280
+            },
+            {
+              "name": "Yes",
+              "description": "Will Kacmarek",
+              "price": 1050
+            },
+            {
+              "name": "Yes",
+              "description": "Greg Dulcich",
+              "price": 390
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Washington",
+              "price": 260
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Bell",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Coleman Jr.",
+              "price": 675
+            },
+            {
+              "name": "Yes",
+              "description": "Miami Dolphins D/ST",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Cincinnati Bengals D/ST",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Herman",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Seydou Traore",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Jalen Tolbert",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 260
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Tanner Hudson",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 260
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 775
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Marr Chase",
+              "price": -111
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-09T03:30:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -190,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": 140,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -155,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": 115,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-09T03:30:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -115,
+              "point": 188.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": -115,
+              "point": 188.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 243.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 243.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-09T03:30:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -115,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": -115,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Greg Dulcich",
+              "price": -120,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Greg Dulcich",
+              "price": -111,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Washington",
+              "price": -115,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Washington",
+              "price": -115,
+              "point": 42.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-09T03:30:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -155,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": 115,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Greg Dulcich",
+              "price": -135,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Greg Dulcich",
+              "price": 100,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Washington",
+              "price": -105,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Washington",
+              "price": -125,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-09T03:30:54Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -111,
+              "point": 33.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": -118,
+              "point": 33.5
+            },
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -115,
+              "point": 64.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -115,
+              "point": 64.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -105,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -125,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Wright",
+              "price": -115,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Wright",
+              "price": -115,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -115,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": -115,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T03:31:12Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Malik Willis",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Greg Dulcich",
+              "price": 410
+            },
+            {
+              "name": "Yes",
+              "description": "Jalen Tolbert",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Ryan Miller",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Jaylen Wright",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Washington",
+              "price": 290
+            },
+            {
+              "name": "Yes",
+              "description": "Ollie Gordon II",
+              "price": 135
+            },
+            {
+              "name": "Yes",
+              "description": "Caleb Douglas",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Bell",
+              "price": 430
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Joly",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Seydou Traore",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Herman",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Coleman Jr.",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Will Kacmarek",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Miami Dolphins D/ST",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "Tanner Hudson",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "Tee Higgins",
+              "price": -110
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Marr Chase",
+              "price": 100
+            },
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -165
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Jack Endries",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "Cincinnati Bengals D/ST",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "Mitchell Tinsley",
+              "price": 290
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-09T03:31:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -165,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": 125,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-09T03:31:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -115,
+              "point": 190.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": -115,
+              "point": 190.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-09T03:31:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Greg Dulcich",
+              "price": -115,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Greg Dulcich",
+              "price": -115,
+              "point": 25.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-09T03:31:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Malik Washington",
+              "price": -125,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Washington",
+              "price": -105,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-09T03:31:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -125,
+              "point": 65.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -105,
+              "point": 65.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T03:30:29Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Jaylen Wright",
+              "price": 255
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Willis",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Joe Burrow",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Samaje Perine",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Ollie Gordon II",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": -162
+            },
+            {
+              "name": "Yes",
+              "description": "Jalen Tolbert",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Ryan Miller",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Joly",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Seydou Traore",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Will Kacmarek",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Bell",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Herman",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Greg Dulcich",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Washington",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Tahj Brooks",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Mike Gesicki",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Dohnte Meyers",
+              "price": 255
+            },
+            {
+              "name": "Yes",
+              "description": "Jack Endries",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Tanner Hudson",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Erick All",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Caleb Douglas",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Colbie Young",
+              "price": 440
+            },
+            {
+              "name": "Yes",
+              "description": "Mitchell Tinsley",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Drew Sample",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Kevin Coleman Jr.",
+              "price": 725
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-09T03:30:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -160,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": 120,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -185,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": 140,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-09T03:30:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 245.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 245.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -115,
+              "point": 193.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": -115,
+              "point": 193.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-09T03:30:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Greg Dulcich",
+              "price": -120,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Greg Dulcich",
+              "price": -110,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Washington",
+              "price": -120,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Washington",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -110,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": -120,
+              "point": 11.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-09T03:30:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Greg Dulcich",
+              "price": -135,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Greg Dulcich",
+              "price": 105,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Washington",
+              "price": -120,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Washington",
+              "price": -110,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -165,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": 125,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-09T03:30:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Chase Brown",
+              "price": -115,
+              "point": 65.5
+            },
+            {
+              "name": "Under",
+              "description": "Chase Brown",
+              "price": -115,
+              "point": 65.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Wright",
+              "price": -110,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Wright",
+              "price": -120,
+              "point": 25.5
+            },
+            {
+              "name": "Over",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Joe Burrow",
+              "price": -115,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Willis",
+              "price": -110,
+              "point": 33.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Willis",
+              "price": -120,
+              "point": 33.5
+            },
+            {
+              "name": "Over",
+              "description": "Ollie Gordon II",
+              "price": -115,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Ollie Gordon II",
+              "price": -115,
+              "point": 42.5
+            },
+            {
+              "name": "Over",
+              "description": "Samaje Perine",
+              "price": -110,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Samaje Perine",
+              "price": -120,
+              "point": 14.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
