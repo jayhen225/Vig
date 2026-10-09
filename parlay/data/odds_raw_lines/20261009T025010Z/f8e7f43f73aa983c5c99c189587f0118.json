@@ -1,0 +1,582 @@
+{
+  "id": "f8e7f43f73aa983c5c99c189587f0118",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-11T20:25:00Z",
+  "home_team": "Arizona Cardinals",
+  "away_team": "Detroit Lions",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:50:05Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 210
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -258
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:50:05Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 5.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:50:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 54.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:45:48Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 205
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -250
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:45:48Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -114,
+              "point": 5.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -105,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:45:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 54.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:49:50Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 194
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -235
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:49:50Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -118,
+              "point": 5.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -104,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:49:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 54.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:48:44Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 192
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -242
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:48:44Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 5.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:48:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 54.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:49:50Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 215
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -255
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:49:50Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 5.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:49:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 54.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:50:05Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 211
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -255
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:50:05Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -108,
+              "point": 5.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -112,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:50:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 54.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:50:08Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 211
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -255
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:50:08Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -103,
+              "point": 5.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -107,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:50:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 54.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:50:06Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 190
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -235
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:50:06Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 5.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:50:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 54.0
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 54.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:49:52Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 200
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -235
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:49:52Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 5.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -108,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:49:52Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 54.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:48:59Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 210
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -260
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:48:59Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 5.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:48:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 54.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:50:11Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 215
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -260
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:50:11Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -105,
+              "point": 5.5
+            },
+            {
+              "name": "Detroit Lions",
+              "price": -115,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:50:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 54.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

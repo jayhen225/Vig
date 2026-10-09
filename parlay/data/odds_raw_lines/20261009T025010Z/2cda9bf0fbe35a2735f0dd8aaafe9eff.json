@@ -1,0 +1,582 @@
+{
+  "id": "2cda9bf0fbe35a2735f0dd8aaafe9eff",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-11T17:00:00Z",
+  "home_team": "New Orleans Saints",
+  "away_team": "Minnesota Vikings",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:50:05Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -142
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 120
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:50:05Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -108,
+              "point": -2.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -112,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:50:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:45:48Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -139
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 118
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:45:48Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -109,
+              "point": -2.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:45:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:49:50Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -140
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 120
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:49:50Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -125,
+              "point": -1.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 105,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:49:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 42.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 42.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:49:50Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -132
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 112
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:49:50Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -120,
+              "point": -1.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -102,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:49:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:48:44Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -140
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:48:44Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -2.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:48:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:50:05Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -140
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 120
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:50:05Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -125,
+              "point": -1.0
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 105,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:50:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 42.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 42.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:50:08Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -140
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 120
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:50:08Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -105,
+              "point": -2.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -105,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:50:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 42.0
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 42.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:50:06Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -136
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 112
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:50:06Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -109,
+              "point": -2.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -112,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:50:06Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:49:52Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -140
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:49:52Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -2.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -108,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:49:52Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:48:59Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -140
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:48:59Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -2.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:48:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-09T02:50:11Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -140
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": 120
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-09T02:50:11Z",
+          "outcomes": [
+            {
+              "name": "Minnesota Vikings",
+              "price": -110,
+              "point": -2.5
+            },
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-09T02:50:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

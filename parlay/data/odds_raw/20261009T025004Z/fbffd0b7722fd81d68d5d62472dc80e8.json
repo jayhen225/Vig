@@ -1,0 +1,2584 @@
+{
+  "id": "fbffd0b7722fd81d68d5d62472dc80e8",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-11T17:00:00Z",
+  "home_team": "Washington Commanders",
+  "away_team": "New York Giants",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T02:49:30Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Cam Skattebo",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "Jacory Croskey-Merritt",
+              "price": 140
+            },
+            {
+              "name": "Yes",
+              "description": "Stefon Diggs",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Terry McLaurin",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Nabers",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Rachaad White",
+              "price": 215
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Likely",
+              "price": 235
+            },
+            {
+              "name": "Yes",
+              "description": "Jayden Daniels",
+              "price": 290
+            },
+            {
+              "name": "Yes",
+              "description": "Chig Okonkwo",
+              "price": 295
+            },
+            {
+              "name": "Yes",
+              "description": "Antonio Williams",
+              "price": 330
+            },
+            {
+              "name": "Yes",
+              "description": "Treylon Burks",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Dyami Brown",
+              "price": 425
+            },
+            {
+              "name": "Yes",
+              "description": "Najee Harris",
+              "price": 425
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Fields",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Austin Ekeler",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Mooney",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Tyrone Tracy Jr.",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Jameis Winston",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Theo Johnson",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Devin Singletary",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "John Bates",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Sinnott",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Luke McCaffrey",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Charlie Jones",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Colson Yankoff",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Patrick Ricard",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Manhertz",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Thomas Fidone",
+              "price": 3000
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-09T02:49:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": 130,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -167,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": 183,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -237,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-09T02:49:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": -111,
+              "point": 199.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -113,
+              "point": 199.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": -112,
+              "point": 198.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -112,
+              "point": 198.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-09T02:49:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Malik Nabers",
+              "price": -113,
+              "point": 55.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Nabers",
+              "price": -111,
+              "point": 55.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaiah Likely",
+              "price": -111,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaiah Likely",
+              "price": -113,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "Malachi Fields",
+              "price": -110,
+              "point": 27.5
+            },
+            {
+              "name": "Under",
+              "description": "Malachi Fields",
+              "price": -114,
+              "point": 27.5
+            },
+            {
+              "name": "Over",
+              "description": "Darnell Mooney",
+              "price": -114,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Darnell Mooney",
+              "price": -110,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": -111,
+              "point": 13.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": -113,
+              "point": 13.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-09T02:49:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Malik Nabers",
+              "price": 112,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Nabers",
+              "price": -142,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaiah Likely",
+              "price": -110,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaiah Likely",
+              "price": -116,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Malachi Fields",
+              "price": 126,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Malachi Fields",
+              "price": -161,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": 127,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": -162,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Darnell Mooney",
+              "price": -116,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Darnell Mooney",
+              "price": -110,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-09T02:49:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": -114,
+              "point": 56.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": -110,
+              "point": 56.5
+            },
+            {
+              "name": "Over",
+              "description": "Jacory Croskey-Merritt",
+              "price": -115,
+              "point": 55.5
+            },
+            {
+              "name": "Under",
+              "description": "Jacory Croskey-Merritt",
+              "price": -109,
+              "point": 55.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": -109,
+              "point": 31.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -115,
+              "point": 31.5
+            },
+            {
+              "name": "Over",
+              "description": "Najee Harris",
+              "price": -112,
+              "point": 29.5
+            },
+            {
+              "name": "Under",
+              "description": "Najee Harris",
+              "price": -112,
+              "point": 29.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": -112,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -112,
+              "point": 2.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T02:45:54Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Cam Skattebo",
+              "price": 126
+            },
+            {
+              "name": "Yes",
+              "description": "Jacory Croskey-Merritt",
+              "price": 141
+            },
+            {
+              "name": "Yes",
+              "description": "Stefon Diggs",
+              "price": 167
+            },
+            {
+              "name": "Yes",
+              "description": "Terry McLaurin",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Nabers",
+              "price": 205
+            },
+            {
+              "name": "Yes",
+              "description": "Rachaad White",
+              "price": 205
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Likely",
+              "price": 235
+            },
+            {
+              "name": "Yes",
+              "description": "Jayden Daniels",
+              "price": 235
+            },
+            {
+              "name": "Yes",
+              "description": "Chig Okonkwo",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Antonio Williams",
+              "price": 305
+            },
+            {
+              "name": "Yes",
+              "description": "Treylon Burks",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Dyami Brown",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Najee Harris",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Fields",
+              "price": 425
+            },
+            {
+              "name": "Yes",
+              "description": "Austin Ekeler",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Mooney",
+              "price": 675
+            },
+            {
+              "name": "Yes",
+              "description": "Theo Johnson",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Jameis Winston",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Tyrone Tracy Jr.",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Devin Singletary",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Luke McCaffrey",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "John Bates",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Sinnott",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Charlie Jones",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Colson Yankoff",
+              "price": 2300
+            },
+            {
+              "name": "Yes",
+              "description": "Patrick Ricard",
+              "price": 2400
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Manhertz",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Thomas Fidone",
+              "price": 2800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T02:49:26Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Cam Skattebo",
+              "price": 125
+            },
+            {
+              "name": "Yes",
+              "description": "Jacory Croskey-Merritt",
+              "price": 155
+            },
+            {
+              "name": "Yes",
+              "description": "Stefon Diggs",
+              "price": 170
+            },
+            {
+              "name": "Yes",
+              "description": "Terry McLaurin",
+              "price": 170
+            },
+            {
+              "name": "Yes",
+              "description": "Rachaad White",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Jayden Daniels",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Nabers",
+              "price": 220
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Likely",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Antonio Williams",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Chig Okonkwo",
+              "price": 330
+            },
+            {
+              "name": "Yes",
+              "description": "Dyami Brown",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Treylon Burks",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Najee Harris",
+              "price": 420
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Fields",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Austin Ekeler",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Theo Johnson",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Washington Commanders Defense",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "New York Giants Defense",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Mooney",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Jameis Winston",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Luke McCaffrey",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Devin Singletary",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Tyrone Tracy Jr.",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "John Bates",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Charlie Jones",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Sinnott",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Colson Yankoff",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Patrick Ricard",
+              "price": 2700
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Manhertz",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "Thomas Fidone",
+              "price": 3000
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-09T02:49:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": 118,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -158,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": 172,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -235,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-09T02:49:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": -114,
+              "point": 198.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -114,
+              "point": 198.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": -114,
+              "point": 201.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -114,
+              "point": 201.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-09T02:49:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Darnell Mooney",
+              "price": -114,
+              "point": 18.5
+            },
+            {
+              "name": "Under",
+              "description": "Darnell Mooney",
+              "price": -114,
+              "point": 18.5
+            },
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": -114,
+              "point": 12.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": -114,
+              "point": 12.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Nabers",
+              "price": -114,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Nabers",
+              "price": -114,
+              "point": 54.5
+            },
+            {
+              "name": "Over",
+              "description": "Malachi Fields",
+              "price": -114,
+              "point": 27.5
+            },
+            {
+              "name": "Under",
+              "description": "Malachi Fields",
+              "price": -114,
+              "point": 27.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaiah Likely",
+              "price": -114,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaiah Likely",
+              "price": -114,
+              "point": 41.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-09T02:49:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Isaiah Likely",
+              "price": 102,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaiah Likely",
+              "price": -136,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": -205,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": 152,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Malachi Fields",
+              "price": 118,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Malachi Fields",
+              "price": -158,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Darnell Mooney",
+              "price": -132,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Darnell Mooney",
+              "price": 100,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Nabers",
+              "price": 120,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Nabers",
+              "price": -160,
+              "point": 5.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-09T02:49:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": -114,
+              "point": 30.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -114,
+              "point": 30.5
+            },
+            {
+              "name": "Over",
+              "description": "Najee Harris",
+              "price": -114,
+              "point": 28.5
+            },
+            {
+              "name": "Under",
+              "description": "Najee Harris",
+              "price": -114,
+              "point": 28.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": -102,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -128,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": -114,
+              "point": 56.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": -114,
+              "point": 56.5
+            },
+            {
+              "name": "Over",
+              "description": "Jacory Croskey-Merritt",
+              "price": -114,
+              "point": 55.5
+            },
+            {
+              "name": "Under",
+              "description": "Jacory Croskey-Merritt",
+              "price": -114,
+              "point": 55.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T02:49:01Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Isaiah Likely",
+              "price": 230
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Nabers",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Cam Skattebo",
+              "price": 110
+            },
+            {
+              "name": "Yes",
+              "description": "Thomas Fidone",
+              "price": 2400
+            },
+            {
+              "name": "Yes",
+              "description": "Patrick Ricard",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Manhertz",
+              "price": 2400
+            },
+            {
+              "name": "Yes",
+              "description": "Colson Yankoff",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Tyrone Tracy Jr.",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Luke McCaffrey",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Sinnott",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Jameis Winston",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Devin Singletary",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Theo Johnson",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "John Bates",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Mooney",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Fields",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Treylon Burks",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Dyami Brown",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Chig Okonkwo",
+              "price": 290
+            },
+            {
+              "name": "Yes",
+              "description": "Rachaad White",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Austin Ekeler",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Najee Harris",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Antonio Williams",
+              "price": 270
+            },
+            {
+              "name": "Yes",
+              "description": "Jayden Daniels",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Stefon Diggs",
+              "price": 160
+            },
+            {
+              "name": "Yes",
+              "description": "Jacory Croskey-Merritt",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "Terry McLaurin",
+              "price": 160
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-09T02:49:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": 174,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -233,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": 122,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -159,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-09T02:49:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": -115,
+              "point": 201.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -112,
+              "point": 201.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": -105,
+              "point": 198.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -123,
+              "point": 198.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-09T02:49:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Isaiah Likely",
+              "price": -114,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaiah Likely",
+              "price": -114,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "Malachi Fields",
+              "price": -114,
+              "point": 27.5
+            },
+            {
+              "name": "Under",
+              "description": "Malachi Fields",
+              "price": -114,
+              "point": 27.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Nabers",
+              "price": -114,
+              "point": 56.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Nabers",
+              "price": -114,
+              "point": 56.5
+            },
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": -114,
+              "point": 12.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": -114,
+              "point": 12.5
+            },
+            {
+              "name": "Over",
+              "description": "Darnell Mooney",
+              "price": -114,
+              "point": 18.5
+            },
+            {
+              "name": "Under",
+              "description": "Darnell Mooney",
+              "price": -114,
+              "point": 18.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-09T02:49:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Malachi Fields",
+              "price": 124,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Malachi Fields",
+              "price": -161,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Darnell Mooney",
+              "price": -123,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Darnell Mooney",
+              "price": -105,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": 118,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": -154,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaiah Likely",
+              "price": -106,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaiah Likely",
+              "price": -122,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Nabers",
+              "price": 122,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Nabers",
+              "price": -159,
+              "point": 5.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-09T02:49:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jacory Croskey-Merritt",
+              "price": -111,
+              "point": 55.5
+            },
+            {
+              "name": "Under",
+              "description": "Jacory Croskey-Merritt",
+              "price": -116,
+              "point": 55.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": -115,
+              "point": 30.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -112,
+              "point": 30.5
+            },
+            {
+              "name": "Over",
+              "description": "Najee Harris",
+              "price": -112,
+              "point": 28.5
+            },
+            {
+              "name": "Under",
+              "description": "Najee Harris",
+              "price": -115,
+              "point": 28.5
+            },
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": -115,
+              "point": 56.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": -112,
+              "point": 56.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T02:49:19Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Rachaad White",
+              "price": 215
+            },
+            {
+              "name": "Yes",
+              "description": "Austin Ekeler",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Dalen Cambre",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Fields",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Stefon Diggs",
+              "price": 160
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Likely",
+              "price": 235
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Sinnott",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Antonio Williams",
+              "price": 335
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Manhertz",
+              "price": 1800
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Nabers",
+              "price": 155
+            },
+            {
+              "name": "Yes",
+              "description": "Tyrone Tracy Jr.",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Theo Johnson",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Jacory Croskey-Merritt",
+              "price": 125
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Mooney",
+              "price": 510
+            },
+            {
+              "name": "Yes",
+              "description": "Jayden Daniels",
+              "price": 235
+            },
+            {
+              "name": "Yes",
+              "description": "Thomas Fidone",
+              "price": 1800
+            },
+            {
+              "name": "Yes",
+              "description": "Luke McCaffrey",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Charlie Jones",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "John Bates",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Treylon Burks",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Chig Okonkwo",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Patrick Ricard",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Cam Skattebo",
+              "price": 100
+            },
+            {
+              "name": "Yes",
+              "description": "Devin Singletary",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Najee Harris",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Dyami Brown",
+              "price": 510
+            },
+            {
+              "name": "Yes",
+              "description": "Terry McLaurin",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Jameis Winston",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Colson Yankoff",
+              "price": 3500
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-09T02:49:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": 155,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -215,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": 108,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -143,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-09T02:49:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": -114,
+              "point": 199.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -117,
+              "point": 199.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": -117,
+              "point": 198.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -114,
+              "point": 198.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": -117,
+              "point": 198.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -114,
+              "point": 198.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-09T02:49:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": -114,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": -117,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Nabers",
+              "price": -115,
+              "point": 55.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Nabers",
+              "price": -115,
+              "point": 55.5
+            },
+            {
+              "name": "Over",
+              "description": "Malachi Fields",
+              "price": -117,
+              "point": 26.5
+            },
+            {
+              "name": "Under",
+              "description": "Malachi Fields",
+              "price": -113,
+              "point": 26.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaiah Likely",
+              "price": -113,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaiah Likely",
+              "price": -118,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "Darnell Mooney",
+              "price": -117,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Darnell Mooney",
+              "price": -114,
+              "point": 17.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-09T02:49:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Isaiah Likely",
+              "price": -103,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Nabers",
+              "price": -103,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Malachi Fields",
+              "price": 123,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Darnell Mooney",
+              "price": -121,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": 145,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-09T02:49:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": -114,
+              "point": 30.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -117,
+              "point": 30.5
+            },
+            {
+              "name": "Over",
+              "description": "Jacory Croskey-Merritt",
+              "price": -113,
+              "point": 57.5
+            },
+            {
+              "name": "Under",
+              "description": "Jacory Croskey-Merritt",
+              "price": -118,
+              "point": 57.5
+            },
+            {
+              "name": "Over",
+              "description": "Najee Harris",
+              "price": -112,
+              "point": 31.5
+            },
+            {
+              "name": "Under",
+              "description": "Najee Harris",
+              "price": -120,
+              "point": 31.5
+            },
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": -113,
+              "point": 55.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": -118,
+              "point": 55.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T02:49:18Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Tyrone Tracy Jr.",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Theo Johnson",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Nabers",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Stefon Diggs",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Terry McLaurin",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "Jameis Winston",
+              "price": 775
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Fields",
+              "price": 390
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Mooney",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "Cam Skattebo",
+              "price": 100
+            },
+            {
+              "name": "Yes",
+              "description": "Jayden Daniels",
+              "price": 260
+            },
+            {
+              "name": "Yes",
+              "description": "Chig Okonkwo",
+              "price": 325
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Likely",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Rachaad White",
+              "price": 140
+            },
+            {
+              "name": "Yes",
+              "description": "Jacory Croskey-Merritt",
+              "price": 100
+            },
+            {
+              "name": "Yes",
+              "description": "Washington Commanders D/ST",
+              "price": 425
+            },
+            {
+              "name": "Yes",
+              "description": "New York Giants D/ST",
+              "price": 600
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-09T02:49:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": 180,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -250,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": 120,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -160,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-09T02:49:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": -115,
+              "point": 203.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -115,
+              "point": 203.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": -115,
+              "point": 203.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -115,
+              "point": 203.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T02:48:48Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Chris Manhertz",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Treylon Burks",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Dyami Brown",
+              "price": 420
+            },
+            {
+              "name": "Yes",
+              "description": "Tyrone Tracy Jr.",
+              "price": 825
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Fields",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Sinnott",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Luke McCaffrey",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Najee Harris",
+              "price": 420
+            },
+            {
+              "name": "Yes",
+              "description": "Stefon Diggs",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "John Bates",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Charlie Jones",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Austin Ekeler",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Jayden Daniels",
+              "price": 290
+            },
+            {
+              "name": "Yes",
+              "description": "Devin Singletary",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Jacory Croskey-Merritt",
+              "price": 140
+            },
+            {
+              "name": "Yes",
+              "description": "Thomas Fidone",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Chig Okonkwo",
+              "price": 295
+            },
+            {
+              "name": "Yes",
+              "description": "Antonio Williams",
+              "price": 330
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Mooney",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Colson Yankoff",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Theo Johnson",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Jameis Winston",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Rachaad White",
+              "price": 215
+            },
+            {
+              "name": "Yes",
+              "description": "Patrick Ricard",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Terry McLaurin",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Nabers",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Cam Skattebo",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Likely",
+              "price": 235
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-09T02:48:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": 180,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -245,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": 130,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -170,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-09T02:48:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": -115,
+              "point": 199.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -115,
+              "point": 199.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": -115,
+              "point": 198.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -115,
+              "point": 198.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-09T02:48:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": -115,
+              "point": 13.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": -115,
+              "point": 13.5
+            },
+            {
+              "name": "Over",
+              "description": "Darnell Mooney",
+              "price": -115,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Darnell Mooney",
+              "price": -115,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaiah Likely",
+              "price": -115,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaiah Likely",
+              "price": -115,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "Malachi Fields",
+              "price": -115,
+              "point": 27.5
+            },
+            {
+              "name": "Under",
+              "description": "Malachi Fields",
+              "price": -115,
+              "point": 27.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Nabers",
+              "price": -115,
+              "point": 55.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Nabers",
+              "price": -115,
+              "point": 55.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-09T02:48:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": 125,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": -165,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Darnell Mooney",
+              "price": -120,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Darnell Mooney",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaiah Likely",
+              "price": -110,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaiah Likely",
+              "price": -120,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Malachi Fields",
+              "price": 125,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Malachi Fields",
+              "price": -165,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Malik Nabers",
+              "price": 110,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Nabers",
+              "price": -145,
+              "point": 5.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-09T02:48:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": -115,
+              "point": 56.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": -115,
+              "point": 56.5
+            },
+            {
+              "name": "Over",
+              "description": "Jacory Croskey-Merritt",
+              "price": -120,
+              "point": 55.5
+            },
+            {
+              "name": "Under",
+              "description": "Jacory Croskey-Merritt",
+              "price": -110,
+              "point": 55.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": -115,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -115,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": -110,
+              "point": 31.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -120,
+              "point": 31.5
+            },
+            {
+              "name": "Over",
+              "description": "Najee Harris",
+              "price": -115,
+              "point": 29.5
+            },
+            {
+              "name": "Under",
+              "description": "Najee Harris",
+              "price": -115,
+              "point": 29.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-09T02:49:38Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Stefon Diggs",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Terry McLaurin",
+              "price": 160
+            },
+            {
+              "name": "Yes",
+              "description": "Dyami Brown",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "John Bates",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Treylon Burks",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Chig Okonkwo",
+              "price": 275
+            },
+            {
+              "name": "Yes",
+              "description": "Rachaad White",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Luke McCaffrey",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Colson Yankoff",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Ben Sinnott",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Jacory Croskey-Merritt",
+              "price": 140
+            },
+            {
+              "name": "Yes",
+              "description": "Antonio Williams",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Austin Ekeler",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Washington Commanders D/ST",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Patrick Ricard",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Manhertz",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Jameis Winston",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Devin Singletary",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Darnell Mooney",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Najee Harris",
+              "price": 410
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Likely",
+              "price": 225
+            },
+            {
+              "name": "Yes",
+              "description": "Charlie Jones",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Nabers",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Tyrone Tracy Jr.",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Theo Johnson",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Cam Skattebo",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "Thomas Fidone",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Fields",
+              "price": 410
+            },
+            {
+              "name": "Yes",
+              "description": "New York Giants D/ST",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Jayden Daniels",
+              "price": 215
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-09T02:49:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jameis Winston",
+              "price": 170,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameis Winston",
+              "price": -230,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-09T02:49:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jayden Daniels",
+              "price": -120,
+              "point": 195.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayden Daniels",
+              "price": -110,
+              "point": 195.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-09T02:49:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Malik Nabers",
+              "price": -115,
+              "point": 55.5
+            },
+            {
+              "name": "Under",
+              "description": "Malik Nabers",
+              "price": -115,
+              "point": 55.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-09T02:49:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Cam Skattebo",
+              "price": 135,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Cam Skattebo",
+              "price": -185,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-09T02:49:38Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jacory Croskey-Merritt",
+              "price": -115,
+              "point": 55.5
+            },
+            {
+              "name": "Under",
+              "description": "Jacory Croskey-Merritt",
+              "price": -115,
+              "point": 55.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
