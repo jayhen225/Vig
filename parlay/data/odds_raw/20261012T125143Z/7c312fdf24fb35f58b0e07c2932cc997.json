@@ -1,0 +1,52 @@
+{
+  "id": "7c312fdf24fb35f58b0e07c2932cc997",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T17:00:00Z",
+  "home_team": "Atlanta Falcons",
+  "away_team": "Chicago Bears",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-12T12:51:35Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Bijan Robinson",
+              "price": -185
+            },
+            {
+              "name": "Yes",
+              "description": "D'Andre Swift",
+              "price": -150
+            },
+            {
+              "name": "Yes",
+              "description": "Drake London",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Colston Loveland",
+              "price": 170
+            },
+            {
+              "name": "Yes",
+              "description": "Rome Odunze",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Luther Burden III",
+              "price": 215
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "id": "caca2d752fe1a1779029082e95332fcc",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T17:00:00Z",
+  "home_team": "Philadelphia Eagles",
+  "away_team": "Carolina Panthers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T12:51:17Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -102
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -118
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T12:51:17Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -115,
+              "point": 1.5
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -105,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T12:51:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T12:39:42Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 102
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -120
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T12:39:42Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -109,
+              "point": 1.5
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -109,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T12:39:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T12:51:02Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 100
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -120
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T12:51:02Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -105,
+              "point": 1.0
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -115,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T12:51:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 42.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 42.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T12:51:46Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": 102
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -120
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T12:51:46Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -110,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T12:51:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -106,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -114,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T12:51:17Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -105
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T12:51:17Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -108,
+              "point": 1.0
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -102,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T12:51:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -104,
+              "point": 42.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T12:50:49Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -105
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T12:50:49Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -113,
+              "point": 1.0
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -107,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T12:50:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 42.0
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 42.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T12:50:35Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -103
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -120
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T12:50:35Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -109,
+              "point": 1.0
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -112,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T12:50:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 42.0
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 42.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T12:51:02Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -105
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -121
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T12:51:02Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -110,
+              "point": 1.0
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -110,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T12:51:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T12:50:33Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -102
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -118
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T12:50:33Z",
+          "outcomes": [
+            {
+              "name": "Carolina Panthers",
+              "price": -108,
+              "point": 1.0
+            },
+            {
+              "name": "Philadelphia Eagles",
+              "price": -110,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T12:50:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

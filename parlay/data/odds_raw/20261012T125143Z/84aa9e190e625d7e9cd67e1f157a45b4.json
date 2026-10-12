@@ -1,0 +1,37 @@
+{
+  "id": "84aa9e190e625d7e9cd67e1f157a45b4",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T17:00:00Z",
+  "home_team": "Indianapolis Colts",
+  "away_team": "Tennessee Titans",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-12T12:50:44Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Jonathan Taylor",
+              "price": -200
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Warren",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Tony Pollard",
+              "price": 195
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

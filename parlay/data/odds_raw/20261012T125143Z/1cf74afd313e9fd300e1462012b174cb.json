@@ -1,0 +1,42 @@
+{
+  "id": "1cf74afd313e9fd300e1462012b174cb",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T17:00:00Z",
+  "home_team": "New York Giants",
+  "away_team": "New Orleans Saints",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-12T12:51:33Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Cam Skattebo",
+              "price": 100
+            },
+            {
+              "name": "Yes",
+              "description": "Chris Olave",
+              "price": 140
+            },
+            {
+              "name": "Yes",
+              "description": "Malik Nabers",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Likely",
+              "price": 255
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "0b0b582b32b09ab6ff6664ffae0c9653",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T17:00:00Z",
+  "home_team": "New England Patriots",
+  "away_team": "New York Jets",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-12T12:51:01Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Rhamondre Stevenson",
+              "price": -170
+            },
+            {
+              "name": "Yes",
+              "description": "Garrett Wilson",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "Hunter Henry",
+              "price": 195
+            },
+            {
+              "name": "Yes",
+              "description": "Romeo Doubs",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Drake Maye",
+              "price": 320
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

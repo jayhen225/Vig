@@ -1,0 +1,32 @@
+{
+  "id": "caca2d752fe1a1779029082e95332fcc",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T17:00:00Z",
+  "home_team": "Philadelphia Eagles",
+  "away_team": "Carolina Panthers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-12T12:50:43Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Chuba Hubbard",
+              "price": -115
+            },
+            {
+              "name": "Yes",
+              "description": "Tetairoa McMillan",
+              "price": 155
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

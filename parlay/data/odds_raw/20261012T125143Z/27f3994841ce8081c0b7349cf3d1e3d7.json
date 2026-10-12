@@ -1,0 +1,42 @@
+{
+  "id": "27f3994841ce8081c0b7349cf3d1e3d7",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T17:00:00Z",
+  "home_team": "Tampa Bay Buccaneers",
+  "away_team": "Pittsburgh Steelers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-12T12:49:53Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Jaylen Warren",
+              "price": -115
+            },
+            {
+              "name": "Yes",
+              "description": "Bucky Irving",
+              "price": 155
+            },
+            {
+              "name": "Yes",
+              "description": "DK Metcalf",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "Emeka Egbuka",
+              "price": 225
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
