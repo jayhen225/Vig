@@ -1,0 +1,398 @@
+{
+  "id": "855f58fad5f0f14b239f4f63df27998b",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-16T00:15:00Z",
+  "home_team": "Denver Broncos",
+  "away_team": "Seattle Seahawks",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 120
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -142
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -102,
+              "point": 2.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -118,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 121
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -143
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -103,
+              "point": 2.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -117,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 126
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -148
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -102,
+              "point": 2.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -120,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:55Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -116,
+              "point": 3.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": 105,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:56Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -120,
+              "point": 3.0
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": 100,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 114
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -148
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -108,
+              "point": 2.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -113,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:02:26Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 119
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -152
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:26Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 125
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -150
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "Denver Broncos",
+              "price": 100,
+              "point": 2.5
+            },
+            {
+              "name": "Seattle Seahawks",
+              "price": -118,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 42.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "id": "0b0b582b32b09ab6ff6664ffae0c9653",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T17:00:00Z",
+  "home_team": "New England Patriots",
+  "away_team": "New York Jets",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "New England Patriots",
+              "price": -345
+            },
+            {
+              "name": "New York Jets",
+              "price": 275
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "New England Patriots",
+              "price": -105,
+              "point": -7.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -115,
+              "point": 7.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "New England Patriots",
+              "price": -380
+            },
+            {
+              "name": "New York Jets",
+              "price": 295
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "New England Patriots",
+              "price": -110,
+              "point": -7.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -109,
+              "point": 7.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "New England Patriots",
+              "price": -375
+            },
+            {
+              "name": "New York Jets",
+              "price": 300
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "New England Patriots",
+              "price": -105,
+              "point": -7.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -115,
+              "point": 7.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:55Z",
+          "outcomes": [
+            {
+              "name": "New England Patriots",
+              "price": 101,
+              "point": -7.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -112,
+              "point": 7.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:56Z",
+          "outcomes": [
+            {
+              "name": "New England Patriots",
+              "price": -104,
+              "point": -7.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -116,
+              "point": 7.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "New England Patriots",
+              "price": -360
+            },
+            {
+              "name": "New York Jets",
+              "price": 280
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "New England Patriots",
+              "price": -115,
+              "point": -7.0
+            },
+            {
+              "name": "New York Jets",
+              "price": -106,
+              "point": 7.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "New England Patriots",
+              "price": -350
+            },
+            {
+              "name": "New York Jets",
+              "price": 290
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "New England Patriots",
+              "price": -105,
+              "point": -7.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -115,
+              "point": 7.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

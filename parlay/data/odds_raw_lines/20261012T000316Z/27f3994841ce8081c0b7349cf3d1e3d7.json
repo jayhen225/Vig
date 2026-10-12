@@ -1,0 +1,346 @@
+{
+  "id": "27f3994841ce8081c0b7349cf3d1e3d7",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T17:00:00Z",
+  "home_team": "Tampa Bay Buccaneers",
+  "away_team": "Pittsburgh Steelers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -155
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 130
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -102,
+              "point": -3.0
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -118,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -152
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 128
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -115,
+              "point": -2.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -105,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -138
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 118
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -115,
+              "point": -2.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -105,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -104,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -118,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:55Z",
+          "outcomes": [
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -116,
+              "point": -2.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 105,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:56Z",
+          "outcomes": [
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -120,
+              "point": -2.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 100,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -141
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 117
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -114,
+              "point": -2.5
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -107,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -114,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -145
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": 125
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "Pittsburgh Steelers",
+              "price": 100,
+              "point": -3.0
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "price": -120,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

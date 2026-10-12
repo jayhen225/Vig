@@ -1,0 +1,346 @@
+{
+  "id": "3729ac6d2a66b642850caf2044cdc658",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T20:05:00Z",
+  "home_team": "Los Angeles Rams",
+  "away_team": "Arizona Cardinals",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 470
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -650
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 12.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -110,
+              "point": -12.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 500
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -750
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 12.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -110,
+              "point": -12.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 590
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -850
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -105,
+              "point": 12.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -115,
+              "point": -12.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 51.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 51.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:55Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -105,
+              "point": 13.0
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -105,
+              "point": -13.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:56Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 13.0
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -110,
+              "point": -13.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 525
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -770
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -109,
+              "point": 11.0
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -112,
+              "point": -11.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 550
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -750
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -108,
+              "point": 12.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -110,
+              "point": -12.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

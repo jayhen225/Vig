@@ -1,0 +1,346 @@
+{
+  "id": "57418b2cf5aca558b3c98eafac1e264a",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T13:30:00Z",
+  "home_team": "Jacksonville Jaguars",
+  "away_team": "Houston Texans",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": 124
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -148
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -115,
+              "point": 3.0
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -105,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": 125
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -148
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -117,
+              "point": 3.0
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -104,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": 128
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -152
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -102,
+              "point": 2.5
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -120,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": 125
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -150
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": 100,
+              "point": 2.5
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -118,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:39Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:55Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -116,
+              "point": 3.0
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 105,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:55Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:02:56Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -120,
+              "point": 3.0
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": 100,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:02:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": 130
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -157
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -118,
+              "point": 3.0
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -104,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T00:03:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
