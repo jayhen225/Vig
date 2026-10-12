@@ -1,0 +1,488 @@
+{
+  "id": "20fefae8c296247460ba5773caa42218",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T20:25:00Z",
+  "home_team": "Kansas City Chiefs",
+  "away_team": "Los Angeles Chargers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:51:59Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -375
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 295
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:51:59Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -105,
+              "point": -8.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -115,
+              "point": 8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:51:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:52:26Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -420
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 320
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:26Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -113,
+              "point": -8.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -107,
+              "point": 8.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:28Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -7.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": 7.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -480
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 370
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -105,
+              "point": -8.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -115,
+              "point": 8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:51:32Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -8.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 100,
+              "point": 8.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:51:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:29Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -115,
+              "point": -8.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -105,
+              "point": 8.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:52:00Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -455
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 335
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:00Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -114,
+              "point": -8.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -107,
+              "point": 8.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:00Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:51:30Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -441
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 310
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:51:30Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -8.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": 8.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:51:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -425
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 333
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -8.0
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -108,
+              "point": 8.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:47:16Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -430
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": 320
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:47:16Z",
+          "outcomes": [
+            {
+              "name": "Kansas City Chiefs",
+              "price": -110,
+              "point": -8.5
+            },
+            {
+              "name": "Los Angeles Chargers",
+              "price": -110,
+              "point": 8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:47:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

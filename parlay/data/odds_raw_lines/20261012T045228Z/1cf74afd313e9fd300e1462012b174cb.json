@@ -1,0 +1,436 @@
+{
+  "id": "1cf74afd313e9fd300e1462012b174cb",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T17:00:00Z",
+  "home_team": "New York Giants",
+  "away_team": "New Orleans Saints",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:51:59Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -112
+            },
+            {
+              "name": "New York Giants",
+              "price": -108
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:51:59Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 102,
+              "point": -1.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -122,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:51:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:52:26Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -105
+            },
+            {
+              "name": "New York Giants",
+              "price": -113
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:26Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 101,
+              "point": -1.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -121,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:28Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 1.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -116
+            },
+            {
+              "name": "New York Giants",
+              "price": -102
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -102,
+              "point": -1.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -120,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:29Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -115,
+              "point": 0.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -105,
+              "point": 0.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:51:32Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 0.0
+            },
+            {
+              "name": "New York Giants",
+              "price": 100,
+              "point": 0.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:51:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:52:00Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -108
+            },
+            {
+              "name": "New York Giants",
+              "price": -113
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:00Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -115,
+              "point": 1.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -106,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:00Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:51:30Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -110
+            },
+            {
+              "name": "New York Giants",
+              "price": -115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:51:30Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -110,
+              "point": 0.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": -0.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:51:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -112
+            },
+            {
+              "name": "New York Giants",
+              "price": -105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -105,
+              "point": -1.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -112,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

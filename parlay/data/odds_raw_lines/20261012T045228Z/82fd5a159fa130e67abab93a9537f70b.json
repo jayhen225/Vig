@@ -1,0 +1,488 @@
+{
+  "id": "82fd5a159fa130e67abab93a9537f70b",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-19T00:20:00Z",
+  "home_team": "Green Bay Packers",
+  "away_team": "Dallas Cowboys",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:51:59Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -105
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:51:59Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -120,
+              "point": 1.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": 100,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:51:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:52:26Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -106
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -112
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:26Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -117,
+              "point": 1.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -104,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:28Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -105,
+              "point": 1.0
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -115,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": 100
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -118
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -115,
+              "point": 1.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -105,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -106,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -114,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:51:32Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -110,
+              "point": 1.0
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": 100,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:51:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:29Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -115,
+              "point": 1.0
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -105,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:52:00Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -117
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -105
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:00Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -110,
+              "point": -1.0
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": 1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:00Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:51:30Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -106
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -120
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:51:30Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -110,
+              "point": 1.0
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:51:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -102
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -118
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -112,
+              "point": 1.0
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -108,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:52:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-12T04:47:16Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -105
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-12T04:47:16Z",
+          "outcomes": [
+            {
+              "name": "Dallas Cowboys",
+              "price": -110,
+              "point": 1.0
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-12T04:47:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
