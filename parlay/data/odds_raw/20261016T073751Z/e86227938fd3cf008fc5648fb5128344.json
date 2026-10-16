@@ -1,0 +1,1946 @@
+{
+  "id": "e86227938fd3cf008fc5648fb5128344",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T17:00:00Z",
+  "home_team": "Cleveland Browns",
+  "away_team": "Baltimore Ravens",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-16T07:36:44Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -185
+            },
+            {
+              "name": "Yes",
+              "description": "Zay Flowers",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Dylan Sampson",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Jaleel McLaughlin",
+              "price": 205
+            },
+            {
+              "name": "Yes",
+              "description": "Harold Fannin Jr.",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Denzel Boston",
+              "price": 215
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Jerry Jeudy",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Kobi Lane",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Bond",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Deshaun Watson",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Baltimore Ravens D/ST",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Cleveland Browns D/ST",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Vannett",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Blake Whiteheart",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Tylan Wallace",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Corley",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Burton",
+              "price": 3500
+            },
+            {
+              "name": "Yes",
+              "description": "Carsen Ryan",
+              "price": 4500
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-16T07:36:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": 144,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -185,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-16T07:36:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": -113,
+              "point": 199.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -111,
+              "point": 199.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-16T07:36:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Denzel Boston",
+              "price": -110,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Boston",
+              "price": -114,
+              "point": 54.5
+            },
+            {
+              "name": "Over",
+              "description": "Harold Fannin Jr.",
+              "price": -112,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "description": "Harold Fannin Jr.",
+              "price": -112,
+              "point": 41.5
+            },
+            {
+              "name": "Over",
+              "description": "Mark Andrews",
+              "price": -113,
+              "point": 33.5
+            },
+            {
+              "name": "Under",
+              "description": "Mark Andrews",
+              "price": -111,
+              "point": 33.5
+            },
+            {
+              "name": "Over",
+              "description": "Justice Hill",
+              "price": -112,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Justice Hill",
+              "price": -112,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -118,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -106,
+              "point": 7.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-16T07:36:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Harold Fannin Jr.",
+              "price": -123,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Harold Fannin Jr.",
+              "price": -104,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Mark Andrews",
+              "price": -148,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Mark Andrews",
+              "price": 116,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Boston",
+              "price": -121,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Boston",
+              "price": -105,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Justice Hill",
+              "price": -107,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Justice Hill",
+              "price": -119,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": 109,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -139,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-16T07:36:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -112,
+              "point": 88.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -112,
+              "point": 88.5
+            },
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": -118,
+              "point": 27.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -107,
+              "point": 27.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-16T07:37:02Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -182
+            },
+            {
+              "name": "Yes",
+              "description": "Zay Flowers",
+              "price": 172
+            },
+            {
+              "name": "Yes",
+              "description": "Denzel Boston",
+              "price": 195
+            },
+            {
+              "name": "Yes",
+              "description": "Jaleel McLaughlin",
+              "price": 198
+            },
+            {
+              "name": "Yes",
+              "description": "Harold Fannin Jr.",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Dylan Sampson",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 235
+            },
+            {
+              "name": "Yes",
+              "description": "KC Concepcion",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Jerry Jeudy",
+              "price": 305
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Kobi Lane",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Bond",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Deshaun Watson",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Blake Whiteheart",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Vannett",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Tylan Wallace",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Corley",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Burton",
+              "price": 3300
+            },
+            {
+              "name": "Yes",
+              "description": "Carsen Ryan",
+              "price": 4000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-16T07:37:35Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -175
+            },
+            {
+              "name": "Yes",
+              "description": "Zay Flowers",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "Denzel Boston",
+              "price": 195
+            },
+            {
+              "name": "Yes",
+              "description": "Jaleel McLaughlin",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Dylan Sampson",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Harold Fannin Jr.",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Jerry Jeudy",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Kobi Lane",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Bond",
+              "price": 470
+            },
+            {
+              "name": "Yes",
+              "description": "Deshaun Watson",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Cleveland Browns Defense",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Baltimore Ravens Defense",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Blake Whiteheart",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Vannett",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Corley",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Tylan Wallace",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 3500
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Burton",
+              "price": 4000
+            },
+            {
+              "name": "Yes",
+              "description": "Carsen Ryan",
+              "price": 4500
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-16T07:37:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": 154,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -210,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-16T07:37:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": -114,
+              "point": 200.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -114,
+              "point": 200.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-16T07:37:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Denzel Boston",
+              "price": -114,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Boston",
+              "price": -114,
+              "point": 54.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -114,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -114,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Justice Hill",
+              "price": -114,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "Justice Hill",
+              "price": -114,
+              "point": 9.5
+            },
+            {
+              "name": "Over",
+              "description": "Mark Andrews",
+              "price": -114,
+              "point": 32.5
+            },
+            {
+              "name": "Under",
+              "description": "Mark Andrews",
+              "price": -114,
+              "point": 32.5
+            },
+            {
+              "name": "Over",
+              "description": "Harold Fannin Jr.",
+              "price": -114,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "description": "Harold Fannin Jr.",
+              "price": -114,
+              "point": 40.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-16T07:37:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Mark Andrews",
+              "price": -148,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Mark Andrews",
+              "price": 112,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Denzel Boston",
+              "price": -136,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Boston",
+              "price": 102,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Justice Hill",
+              "price": -108,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Justice Hill",
+              "price": -122,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": 116,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -154,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Harold Fannin Jr.",
+              "price": -114,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Harold Fannin Jr.",
+              "price": -114,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-16T07:37:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": -114,
+              "point": 28.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -114,
+              "point": 28.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -114,
+              "point": 89.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -114,
+              "point": 89.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-16T07:37:29Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Lamar Jackson",
+              "price": 260
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Deshaun Watson",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Blake Whiteheart",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 2900
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Bond",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Harold Fannin Jr.",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Jerry Jeudy",
+              "price": 300
+            },
+            {
+              "name": "Yes",
+              "description": "Zay Flowers",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -200
+            },
+            {
+              "name": "Yes",
+              "description": "Tylan Wallace",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Quinshon Judkins",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Corley",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Denzel Boston",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Burton",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "KC Concepcion",
+              "price": 270
+            },
+            {
+              "name": "Yes",
+              "description": "Carsen Ryan",
+              "price": 3400
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Jaleel McLaughlin",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Vannett",
+              "price": 1100
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-16T07:37:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": 144,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -189,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-16T07:37:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": -114,
+              "point": 200.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -114,
+              "point": 200.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-16T07:37:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Denzel Boston",
+              "price": -116,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Boston",
+              "price": -111,
+              "point": 54.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-16T07:37:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Denzel Boston",
+              "price": -132,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Boston",
+              "price": 102,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-16T07:37:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": -116,
+              "point": 28.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -111,
+              "point": 28.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -114,
+              "point": 89.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -114,
+              "point": 89.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-16T07:37:04Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Isaiah Bond",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Denzel Boston",
+              "price": 225
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Dylan Sampson",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Deshaun Watson",
+              "price": 540
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Huntley",
+              "price": 265
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Corley",
+              "price": 1800
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Vannett",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Kobi Lane",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "KC Concepcion",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Harold Fannin Jr.",
+              "price": 265
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 375
+            },
+            {
+              "name": "Yes",
+              "description": "Blake Whiteheart",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Zay Flowers",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Elijah Sarratt",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Jerry Jeudy",
+              "price": 410
+            },
+            {
+              "name": "Yes",
+              "description": "Jaleel McLaughlin",
+              "price": 250
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Burton",
+              "price": 4500
+            },
+            {
+              "name": "Yes",
+              "description": "Carsen Ryan",
+              "price": 4500
+            },
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -186
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-16T07:37:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": 150,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -205,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-16T07:37:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": -117,
+              "point": 195.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -114,
+              "point": 195.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-16T07:37:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Denzel Boston",
+              "price": -117,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Boston",
+              "price": -114,
+              "point": 54.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-16T07:37:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Denzel Boston",
+              "price": -127,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-16T07:37:04Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": -114,
+              "point": 28.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -117,
+              "point": 28.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -118,
+              "point": 87.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -113,
+              "point": 87.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-16T07:37:05Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Blake Whiteheart",
+              "price": 1350
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Burton",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "KC Concepcion",
+              "price": 320
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 1650
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Deshaun Watson",
+              "price": 270
+            },
+            {
+              "name": "Yes",
+              "description": "Baltimore Ravens D/ST",
+              "price": 390
+            },
+            {
+              "name": "Yes",
+              "description": "Cleveland Browns D/ST",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Bond",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Harold Fannin Jr.",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 425
+            },
+            {
+              "name": "Yes",
+              "description": "Zay Flowers",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Jerry Jeudy",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -190
+            },
+            {
+              "name": "Yes",
+              "description": "Denzel Boston",
+              "price": 210
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-16T07:37:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": 150,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -200,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-16T07:37:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": -115,
+              "point": 201.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -115,
+              "point": 201.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-16T07:37:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Denzel Boston",
+              "price": -115,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Boston",
+              "price": -115,
+              "point": 53.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-16T07:37:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Denzel Boston",
+              "price": -150,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Boston",
+              "price": 110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-16T07:37:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -115,
+              "point": 90.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -115,
+              "point": 90.5
+            },
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": -115,
+              "point": 29.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -115,
+              "point": 29.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-16T07:36:56Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Harold Fannin Jr.",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Denzel Boston",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Cleveland Browns D/ST",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -185
+            },
+            {
+              "name": "Yes",
+              "description": "Zay Flowers",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Baltimore Ravens D/ST",
+              "price": 410
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 230
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Vannett",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Quinshon Judkins",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "KC Concepcion",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Bond",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Corley",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Burton",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "Tylan Wallace",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Deshaun Watson",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Blake Whiteheart",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Jaleel McLaughlin",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Jerry Jeudy",
+              "price": 285
+            },
+            {
+              "name": "Yes",
+              "description": "Carsen Ryan",
+              "price": 3500
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 2500
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-16T07:36:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": 145,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -190,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-16T07:36:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Deshaun Watson",
+              "price": -120,
+              "point": 195.5
+            },
+            {
+              "name": "Under",
+              "description": "Deshaun Watson",
+              "price": -110,
+              "point": 195.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-16T07:36:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Denzel Boston",
+              "price": -115,
+              "point": 55.5
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Boston",
+              "price": -135,
+              "point": 55.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-16T07:36:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Denzel Boston",
+              "price": 155,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Boston",
+              "price": -245,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-16T07:36:56Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -135,
+              "point": 85.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -110,
+              "point": 85.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-16T07:36:25Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Zay Flowers",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Harold Fannin Jr.",
+              "price": 210
+            },
+            {
+              "name": "Yes",
+              "description": "Denzel Boston",
+              "price": 215
+            },
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -186
+            },
+            {
+              "name": "Yes",
+              "description": "Isaiah Bond",
+              "price": 460
+            },
+            {
+              "name": "Yes",
+              "description": "Carsen Ryan",
+              "price": 4000
+            },
+            {
+              "name": "Yes",
+              "description": "Malachi Corley",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Jerry Jeudy",
+              "price": 310
+            },
+            {
+              "name": "Yes",
+              "description": "Blake Whiteheart",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Michael Burton",
+              "price": 3300
+            },
+            {
+              "name": "Yes",
+              "description": "Deshaun Watson",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Hibner",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Rasheen Ali",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "LaJohntay Wester",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Devontez Walker",
+              "price": 725
+            },
+            {
+              "name": "Yes",
+              "description": "Rashod Bateman",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Justice Hill",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Cuevas",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 240
+            },
+            {
+              "name": "Yes",
+              "description": "Nick Vannett",
+              "price": 1200
+            },
+            {
+              "name": "Yes",
+              "description": "Ja'Kobi Lane",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Baltimore Ravens D/ST",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Cleveland Browns D/ST",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Dylan Sampson",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Tylan Wallace",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Jaleel McLaughlin",
+              "price": 205
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-16T07:36:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Denzel Boston",
+              "price": -115,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Boston",
+              "price": -115,
+              "point": 54.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-16T07:36:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Denzel Boston",
+              "price": -125,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Denzel Boston",
+              "price": -105,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-16T07:36:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Derrick Henry",
+              "price": -115,
+              "point": 88.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick Henry",
+              "price": -115,
+              "point": 88.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

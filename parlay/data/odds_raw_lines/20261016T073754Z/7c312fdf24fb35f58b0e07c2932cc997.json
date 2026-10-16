@@ -1,0 +1,540 @@
+{
+  "id": "7c312fdf24fb35f58b0e07c2932cc997",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T17:00:00Z",
+  "home_team": "Atlanta Falcons",
+  "away_team": "Chicago Bears",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:43Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -105
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:43Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -118,
+              "point": 1.5
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -102,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 51.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 51.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:16Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -102
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -117
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:16Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -117,
+              "point": 1.5
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -103,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 51.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 51.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 104
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -122
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -110,
+              "point": 0.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": 0.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:36:50Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -105,
+              "point": 0.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -105,
+              "point": 0.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:36:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -110,
+              "point": 0.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": 0.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -105
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -117
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -109,
+              "point": 1.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -113,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 51.5
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 51.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:17Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -106
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -116
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:17Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -110,
+              "point": 1.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:02Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -105
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -112
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:02Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -115,
+              "point": 1.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -105,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:02Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:46Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -105
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:46Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -105,
+              "point": -0.5
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -115,
+              "point": 0.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:21Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -105
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:21Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -115,
+              "point": 1.0
+            },
+            {
+              "name": "Chicago Bears",
+              "price": -105,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

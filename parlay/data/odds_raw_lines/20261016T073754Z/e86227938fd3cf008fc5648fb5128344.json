@@ -1,0 +1,582 @@
+{
+  "id": "e86227938fd3cf008fc5648fb5128344",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-18T17:00:00Z",
+  "home_team": "Cleveland Browns",
+  "away_team": "Baltimore Ravens",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:43Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -205
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": 170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:43Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -115,
+              "point": -3.5
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": -105,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:16Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -213
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": 178
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:16Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 100,
+              "point": -4.0
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": -120,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -210
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": 180
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -110,
+              "point": -4.0
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": -110,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -205
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": 172
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -115,
+              "point": -3.5
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": -105,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 41.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 41.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:36:50Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -210
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": 180
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:36:50Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 100,
+              "point": -4.0
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": -110,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:36:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -210
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": 180
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -105,
+              "point": -4.0
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": -115,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:42Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:43Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -230
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": 185
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:43Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -113,
+              "point": -4.0
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": -108,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:17Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -210
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": 169
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:17Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -110,
+              "point": -4.0
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": -110,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:01Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -210
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": 170
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:01Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -108,
+              "point": -4.0
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": -110,
+              "point": 4.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:46Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -215
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": 175
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:46Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -115,
+              "point": -3.5
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": -105,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 40.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-16T07:37:21Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -210
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": 175
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-16T07:37:21Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -115,
+              "point": -3.5
+            },
+            {
+              "name": "Cleveland Browns",
+              "price": -105,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-16T07:37:21Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 41.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 41.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
