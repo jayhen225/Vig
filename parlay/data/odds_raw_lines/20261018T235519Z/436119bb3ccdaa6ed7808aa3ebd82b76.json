@@ -1,0 +1,346 @@
+{
+  "id": "436119bb3ccdaa6ed7808aa3ebd82b76",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-25T20:05:00Z",
+  "home_team": "Arizona Cardinals",
+  "away_team": "Denver Broncos",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:55:08Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 180
+            },
+            {
+              "name": "Denver Broncos",
+              "price": -218
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:55:08Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 4.5
+            },
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": -4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:55:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -102,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -118,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 186
+            },
+            {
+              "name": "Denver Broncos",
+              "price": -225
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -112,
+              "point": 4.5
+            },
+            {
+              "name": "Denver Broncos",
+              "price": -108,
+              "point": -4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 184
+            },
+            {
+              "name": "Denver Broncos",
+              "price": -220
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -115,
+              "point": 4.5
+            },
+            {
+              "name": "Denver Broncos",
+              "price": -105,
+              "point": -4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:50Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 4.5
+            },
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": -4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:51Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -105,
+              "point": 4.5
+            },
+            {
+              "name": "Denver Broncos",
+              "price": -105,
+              "point": -4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 43.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 43.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:54:49Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 172
+            },
+            {
+              "name": "Denver Broncos",
+              "price": -215
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:49Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 3.5
+            },
+            {
+              "name": "Denver Broncos",
+              "price": -110,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:53:53Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": 180
+            },
+            {
+              "name": "Denver Broncos",
+              "price": -220
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:53:53Z",
+          "outcomes": [
+            {
+              "name": "Arizona Cardinals",
+              "price": -110,
+              "point": 4.5
+            },
+            {
+              "name": "Denver Broncos",
+              "price": -108,
+              "point": -4.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:53:53Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

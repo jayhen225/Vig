@@ -1,0 +1,346 @@
+{
+  "id": "e8e5715eefb6a9ce64765e9ddf49c0cc",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-25T20:25:00Z",
+  "home_team": "Detroit Lions",
+  "away_team": "Green Bay Packers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:55:08Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -180
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": 150
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:55:08Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -115,
+              "point": -3.0
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -105,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:55:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -179
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": 151
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -108,
+              "point": -3.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -112,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -180
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": 152
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -105,
+              "point": -3.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -115,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:50Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -110,
+              "point": -3.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -110,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 53.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 53.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:51Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -105,
+              "point": -3.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -105,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 53.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 53.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:54:49Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -215
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": 175
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:49Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -112,
+              "point": -3.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -109,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:53:53Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -185
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": 150
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:53:53Z",
+          "outcomes": [
+            {
+              "name": "Detroit Lions",
+              "price": -105,
+              "point": -3.5
+            },
+            {
+              "name": "Green Bay Packers",
+              "price": -112,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:53:53Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 53.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 53.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

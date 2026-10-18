@@ -1,0 +1,346 @@
+{
+  "id": "f7679cf18454e4d88a8f2b990c3f08ac",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-25T20:25:00Z",
+  "home_team": "Las Vegas Raiders",
+  "away_team": "Los Angeles Rams",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:55:08Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 225
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -278
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:55:08Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 6.0
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -110,
+              "point": -6.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:55:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 220
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -275
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -109,
+              "point": 5.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -109,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 205
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -250
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -105,
+              "point": 5.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -115,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:48Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:51Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 5.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": 100,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:50Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -115,
+              "point": 5.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -105,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:50Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:54:49Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 205
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -265
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:54:49Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -108,
+              "point": 5.5
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -113,
+              "point": -5.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:54:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 48.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-18T23:53:53Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 210
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -250
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-18T23:53:53Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -112,
+              "point": 6.0
+            },
+            {
+              "name": "Los Angeles Rams",
+              "price": -105,
+              "point": -6.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-18T23:53:53Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 47.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
