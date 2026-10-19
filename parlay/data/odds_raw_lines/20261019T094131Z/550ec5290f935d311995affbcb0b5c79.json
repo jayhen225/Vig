@@ -1,0 +1,436 @@
+{
+  "id": "550ec5290f935d311995affbcb0b5c79",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-25T17:00:00Z",
+  "home_team": "Baltimore Ravens",
+  "away_team": "Cincinnati Bengals",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T09:40:13Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -155
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": 130
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T09:40:13Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -105,
+              "point": -3.0
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": -115,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T09:40:13Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T09:41:09Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -157
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": 133
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T09:41:09Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -105,
+              "point": -3.0
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": -114,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T09:41:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T09:41:26Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 100,
+              "point": -3.0
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": -120,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T09:41:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T09:41:26Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -164
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": 138
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T09:41:26Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -110,
+              "point": -3.0
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": -110,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T09:41:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 50.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T09:40:51Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 100,
+              "point": -3.0
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": -120,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T09:40:51Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T09:40:33Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 105,
+              "point": -3.0
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": -116,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T09:40:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -102,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T09:41:28Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -167
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": 135
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T09:41:28Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -109,
+              "point": -3.0
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": -112,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T09:41:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T09:40:32Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -160
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": 130
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T09:40:32Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -102,
+              "point": -3.0
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": -118,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T09:40:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T09:39:37Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -163
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": 127
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T09:39:37Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -110,
+              "point": -3.0
+            },
+            {
+              "name": "Cincinnati Bengals",
+              "price": -110,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T09:39:37Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 51.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 51.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

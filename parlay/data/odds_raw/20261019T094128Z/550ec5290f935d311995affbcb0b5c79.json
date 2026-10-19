@@ -1,0 +1,37 @@
+{
+  "id": "550ec5290f935d311995affbcb0b5c79",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-25T17:00:00Z",
+  "home_team": "Baltimore Ravens",
+  "away_team": "Cincinnati Bengals",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-19T09:41:15Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -205
+            },
+            {
+              "name": "Yes",
+              "description": "Zay Flowers",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 200
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
