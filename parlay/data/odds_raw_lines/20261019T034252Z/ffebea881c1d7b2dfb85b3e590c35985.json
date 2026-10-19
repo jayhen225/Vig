@@ -1,0 +1,568 @@
+{
+  "id": "ffebea881c1d7b2dfb85b3e590c35985",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-23T00:15:00Z",
+  "home_team": "Chicago Bears",
+  "away_team": "New England Patriots",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:29Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -155
+            },
+            {
+              "name": "New England Patriots",
+              "price": 130
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:29Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -120,
+              "point": -2.5
+            },
+            {
+              "name": "New England Patriots",
+              "price": 100,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 49.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:40:05Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -157
+            },
+            {
+              "name": "New England Patriots",
+              "price": 132
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:40:05Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -106,
+              "point": -3.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -114,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:40:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:47Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -148
+            },
+            {
+              "name": "New England Patriots",
+              "price": 126
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:47Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -104,
+              "point": -3.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -118,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 49.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:30Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -115,
+              "point": -3.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -105,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:11Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -163
+            },
+            {
+              "name": "New England Patriots",
+              "price": 143
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:11Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -108,
+              "point": -3.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -102,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:46Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -163
+            },
+            {
+              "name": "New England Patriots",
+              "price": 143
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:46Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -113,
+              "point": -3.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -107,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:30Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -150
+            },
+            {
+              "name": "New England Patriots",
+              "price": 123
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:30Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -106,
+              "point": -3.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -115,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 49.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:49Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -162
+            },
+            {
+              "name": "New England Patriots",
+              "price": 127
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:49Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": -3.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -110,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:49Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:46Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -160
+            },
+            {
+              "name": "New England Patriots",
+              "price": 130
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:46Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -102,
+              "point": -3.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -118,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:29Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -165
+            },
+            {
+              "name": "New England Patriots",
+              "price": 135
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:29Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": -3.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -110,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:33Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -165
+            },
+            {
+              "name": "New England Patriots",
+              "price": 140
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:33Z",
+          "outcomes": [
+            {
+              "name": "Chicago Bears",
+              "price": -110,
+              "point": -3.0
+            },
+            {
+              "name": "New England Patriots",
+              "price": -110,
+              "point": 3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

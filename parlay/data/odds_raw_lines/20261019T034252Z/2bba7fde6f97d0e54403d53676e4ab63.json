@@ -1,0 +1,484 @@
+{
+  "id": "2bba7fde6f97d0e54403d53676e4ab63",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-25T17:00:00Z",
+  "home_team": "Houston Texans",
+  "away_team": "New York Giants",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:29Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -485
+            },
+            {
+              "name": "New York Giants",
+              "price": 370
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:29Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": -9.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": 9.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:40:05Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -460
+            },
+            {
+              "name": "New York Giants",
+              "price": 350
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:40:05Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -112,
+              "point": -9.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -107,
+              "point": 9.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:40:05Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:30Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": 100,
+              "point": -10.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -120,
+              "point": 10.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:47Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -450
+            },
+            {
+              "name": "New York Giants",
+              "price": 350
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:47Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": -8.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": 8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:47Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:11Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -415
+            },
+            {
+              "name": "New York Giants",
+              "price": 327
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:11Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -105,
+              "point": -9.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -105,
+              "point": 9.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:11Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:46Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -415
+            },
+            {
+              "name": "New York Giants",
+              "price": 327
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:46Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": -9.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": 9.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:30Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -435
+            },
+            {
+              "name": "New York Giants",
+              "price": 330
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:30Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": -8.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": 8.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -114,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:46Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -450
+            },
+            {
+              "name": "New York Giants",
+              "price": 340
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:46Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -108,
+              "point": -9.0
+            },
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": 9.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:46Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:50Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -490
+            },
+            {
+              "name": "New York Giants",
+              "price": 330
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-19T03:42:33Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -430
+            },
+            {
+              "name": "New York Giants",
+              "price": 320
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-19T03:42:33Z",
+          "outcomes": [
+            {
+              "name": "Houston Texans",
+              "price": -110,
+              "point": -9.5
+            },
+            {
+              "name": "New York Giants",
+              "price": -110,
+              "point": 9.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-19T03:42:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 43.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
