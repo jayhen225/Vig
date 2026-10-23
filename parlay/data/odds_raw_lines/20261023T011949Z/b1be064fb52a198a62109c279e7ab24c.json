@@ -1,0 +1,582 @@
+{
+  "id": "b1be064fb52a198a62109c279e7ab24c",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-25T17:00:00Z",
+  "home_team": "Atlanta Falcons",
+  "away_team": "San Francisco 49ers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T01:19:09Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 124
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -148
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T01:19:09Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -102,
+              "point": 2.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -118,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T01:19:09Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 49.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T01:18:12Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 125
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -148
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T01:18:12Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 100,
+              "point": 2.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -120,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T01:18:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T01:18:44Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 125
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -145
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T01:18:44Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 100,
+              "point": 2.0
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -120,
+              "point": -2.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T01:18:44Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T01:19:33Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 126
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -148
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T01:19:33Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -102,
+              "point": 2.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -120,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T01:19:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 49.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T01:19:08Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 125
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -145
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T01:19:08Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 102,
+              "point": 2.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -113,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T01:19:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -104,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T01:19:30Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 125
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -145
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T01:19:30Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -103,
+              "point": 2.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -117,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T01:19:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -113,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T01:19:08Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 132
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -159
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T01:19:08Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -117,
+              "point": 3.0
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -105,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T01:19:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 49.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T01:19:08Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 125
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -145
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T01:19:08Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -102,
+              "point": 2.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -118,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T01:19:08Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T01:19:30Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 118
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -145
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T01:19:30Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -110,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T01:19:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 49.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T01:19:30Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 125
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -150
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T01:19:30Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 100,
+              "point": 2.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -120,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T01:19:30Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T01:19:36Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 130
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -150
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T01:19:36Z",
+          "outcomes": [
+            {
+              "name": "Atlanta Falcons",
+              "price": 100,
+              "point": 2.5
+            },
+            {
+              "name": "San Francisco 49ers",
+              "price": -120,
+              "point": -2.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T01:19:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 50.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 50.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
