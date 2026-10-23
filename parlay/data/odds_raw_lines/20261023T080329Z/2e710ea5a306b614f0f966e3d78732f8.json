@@ -1,0 +1,582 @@
+{
+  "id": "2e710ea5a306b614f0f966e3d78732f8",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-25T13:30:00Z",
+  "home_team": "New Orleans Saints",
+  "away_team": "Pittsburgh Steelers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T08:02:35Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 145
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -175
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T08:02:35Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -102,
+              "point": 3.0
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -118,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T08:02:35Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T08:03:20Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 154
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -182
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T08:03:20Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -102,
+              "point": 3.0
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -120,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T08:03:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T08:03:19Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 142
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -168
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T08:03:19Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -104,
+              "point": 3.0
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -118,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T08:03:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T08:01:26Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 150
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -175
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T08:01:26Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -125,
+              "point": 3.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -105,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T08:01:26Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -108,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betus",
+      "title": "BetUS",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T08:03:18Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 157
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -182
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T08:03:18Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -120,
+              "point": 3.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": 100,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T08:03:18Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T08:02:12Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 148
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -183
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T08:02:12Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 100,
+              "point": 3.0
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -120,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T08:02:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T08:03:20Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 159
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -182
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T08:03:20Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -118,
+              "point": 3.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -102,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T08:03:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -113,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T08:02:59Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 159
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -182
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T08:02:59Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -120,
+              "point": 3.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": 109,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T08:02:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T08:02:57Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 145
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -177
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T08:02:57Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -117,
+              "point": 3.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -105,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T08:02:57Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -114,
+              "point": 44.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 44.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T08:02:17Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 155
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -180
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T08:02:17Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 100,
+              "point": 3.0
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -120,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T08:02:17Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-23T08:02:59Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": 150
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": -180
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-23T08:02:59Z",
+          "outcomes": [
+            {
+              "name": "New Orleans Saints",
+              "price": -120,
+              "point": 3.5
+            },
+            {
+              "name": "Pittsburgh Steelers",
+              "price": 100,
+              "point": -3.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-23T08:02:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
