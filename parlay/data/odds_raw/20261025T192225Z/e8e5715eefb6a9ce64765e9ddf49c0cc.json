@@ -1,0 +1,4225 @@
+{
+  "id": "e8e5715eefb6a9ce64765e9ddf49c0cc",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-10-25T20:25:00Z",
+  "home_team": "Detroit Lions",
+  "away_team": "Green Bay Packers",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-25T19:22:20Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Jahmyr Gibbs",
+              "price": -400
+            },
+            {
+              "name": "Yes",
+              "description": "Amon-Ra St. Brown",
+              "price": -145
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Jacobs",
+              "price": 105
+            },
+            {
+              "name": "Yes",
+              "description": "Christian Watson",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "Sam LaPorta",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Golden",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Tucker Kraft",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Jameson Williams",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Savion Williams",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Isaac TeSlaa",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Pierre Strong Jr.",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "MarShawn Lloyd",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Detroit Lions D/ST",
+              "price": 550
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Wright",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Green Bay Packers D/ST",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Love",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Sione Vaki",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Jared Goff",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Jonnu Smith",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Redman",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Conklin",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Melton",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Whyle",
+              "price": 1800
+            },
+            {
+              "name": "Yes",
+              "description": "DeAndre Carter",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "J. Michael Sturdivant",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Coleman Owen",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Tay Martin",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Saylors",
+              "price": 3500
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-25T19:22:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": 125,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -159,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -199,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": 154,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-25T19:22:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -112,
+              "point": 289.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -112,
+              "point": 289.5
+            },
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": -111,
+              "point": 281.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -113,
+              "point": 281.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-25T19:22:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": -111,
+              "point": 85.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": -113,
+              "point": 85.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -112,
+              "point": 77.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -112,
+              "point": 77.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": -111,
+              "point": 72.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -113,
+              "point": 72.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": -112,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": -112,
+              "point": 53.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -112,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -112,
+              "point": 52.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": -114,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": -110,
+              "point": 48.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -112,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -112,
+              "point": 42.5
+            },
+            {
+              "name": "Over",
+              "description": "Savion Williams",
+              "price": -109,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Savion Williams",
+              "price": -115,
+              "point": 25.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaac TeSlaa",
+              "price": -111,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaac TeSlaa",
+              "price": -113,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -107,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -118,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Pierre Strong Jr.",
+              "price": -108,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Pierre Strong Jr.",
+              "price": -117,
+              "point": 7.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-25T19:22:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": -115,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": -111,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": 121,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -154,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": 121,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": -154,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -157,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": 123,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -119,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -107,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -118,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -108,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": -129,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": 101,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Savion Williams",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Savion Williams",
+              "price": -116,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaac TeSlaa",
+              "price": -149,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaac TeSlaa",
+              "price": 117,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -126,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -102,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Pierre Strong Jr.",
+              "price": 104,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Pierre Strong Jr.",
+              "price": -133,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-25T19:22:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -112,
+              "point": 96.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -112,
+              "point": 96.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -114,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -110,
+              "point": 47.5
+            },
+            {
+              "name": "Over",
+              "description": "MarShawn Lloyd",
+              "price": -107,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "MarShawn Lloyd",
+              "price": -118,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Pierre Strong Jr.",
+              "price": -112,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Pierre Strong Jr.",
+              "price": -112,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Sione Vaki",
+              "price": -108,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Sione Vaki",
+              "price": -116,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -111,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -113,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": -111,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -113,
+              "point": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-25T19:22:03Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Jahmyr Gibbs",
+              "price": -380
+            },
+            {
+              "name": "Yes",
+              "description": "Amon-Ra St. Brown",
+              "price": -143
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Jacobs",
+              "price": 105
+            },
+            {
+              "name": "Yes",
+              "description": "Christian Watson",
+              "price": 125
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Golden",
+              "price": 147
+            },
+            {
+              "name": "Yes",
+              "description": "Sam LaPorta",
+              "price": 148
+            },
+            {
+              "name": "Yes",
+              "description": "Tucker Kraft",
+              "price": 157
+            },
+            {
+              "name": "Yes",
+              "description": "Jameson Williams",
+              "price": 181
+            },
+            {
+              "name": "Yes",
+              "description": "Savion Williams",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Pierre Strong Jr.",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Isaac TeSlaa",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "MarShawn Lloyd",
+              "price": 425
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Wright",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Love",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Sione Vaki",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Jared Goff",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Jonnu Smith",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Redman",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Conklin",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Melton",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Whyle",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "DeAndre Carter",
+              "price": 1750
+            },
+            {
+              "name": "Yes",
+              "description": "Coleman Owen",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Tay Martin",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Saylors",
+              "price": 3300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-25T19:22:15Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Jahmyr Gibbs",
+              "price": -425
+            },
+            {
+              "name": "Yes",
+              "description": "Amon-Ra St. Brown",
+              "price": -140
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Jacobs",
+              "price": 105
+            },
+            {
+              "name": "Yes",
+              "description": "Christian Watson",
+              "price": 125
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Golden",
+              "price": 145
+            },
+            {
+              "name": "Yes",
+              "description": "Sam LaPorta",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Tucker Kraft",
+              "price": 160
+            },
+            {
+              "name": "Yes",
+              "description": "Jameson Williams",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Savion Williams",
+              "price": 370
+            },
+            {
+              "name": "Yes",
+              "description": "Pierre Strong Jr.",
+              "price": 400
+            },
+            {
+              "name": "Yes",
+              "description": "Isaac TeSlaa",
+              "price": 410
+            },
+            {
+              "name": "Yes",
+              "description": "MarShawn Lloyd",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Green Bay Packers Defense",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Wright",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Detroit Lions Defense",
+              "price": 750
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Love",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Sione Vaki",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Jonnu Smith",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Jared Goff",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Redman",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Conklin",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Whyle",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Melton",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "DeAndre Carter",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Coleman Owen",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "J. Michael Sturdivant",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Tay Martin",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Saylors",
+              "price": 3500
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-25T19:22:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -196,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": 148,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": 142,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -188,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-25T19:22:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -113,
+              "point": 281.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -113,
+              "point": 281.5
+            },
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": -113,
+              "point": 278.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -113,
+              "point": 278.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-25T19:22:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brock Wright",
+              "price": -102,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Wright",
+              "price": -125,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": -113,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": -113,
+              "point": 49.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -113,
+              "point": 75.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -113,
+              "point": 75.5
+            },
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": -113,
+              "point": 79.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": -113,
+              "point": 79.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": -113,
+              "point": 74.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -113,
+              "point": 74.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -113,
+              "point": 39.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -113,
+              "point": 39.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -113,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -113,
+              "point": 9.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -113,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -113,
+              "point": 49.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": -113,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": -113,
+              "point": 54.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaac TeSlaa",
+              "price": -113,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaac TeSlaa",
+              "price": -113,
+              "point": 25.5
+            },
+            {
+              "name": "Over",
+              "description": "Savion Williams",
+              "price": -113,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Savion Williams",
+              "price": -113,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Pierre Strong Jr.",
+              "price": -113,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Pierre Strong Jr.",
+              "price": -113,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-25T19:22:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": -148,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": 112,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -130,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -102,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -158,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": 118,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Brock Wright",
+              "price": -168,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Brock Wright",
+              "price": 126,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": -148,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": 112,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaac TeSlaa",
+              "price": -144,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaac TeSlaa",
+              "price": 108,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -132,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": 100,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -114,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -114,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": -138,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": 104,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Savion Williams",
+              "price": -102,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Savion Williams",
+              "price": -130,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Pierre Strong Jr.",
+              "price": 116,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Pierre Strong Jr.",
+              "price": -154,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": 100,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": -132,
+              "point": 7.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-25T19:22:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sione Vaki",
+              "price": -113,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Sione Vaki",
+              "price": -113,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -113,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -113,
+              "point": 47.5
+            },
+            {
+              "name": "Over",
+              "description": "MarShawn Lloyd",
+              "price": -113,
+              "point": 10.5
+            },
+            {
+              "name": "Under",
+              "description": "MarShawn Lloyd",
+              "price": -113,
+              "point": 10.5
+            },
+            {
+              "name": "Over",
+              "description": "Pierre Strong Jr.",
+              "price": -113,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Pierre Strong Jr.",
+              "price": -113,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": -130,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": 102,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -113,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -113,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -113,
+              "point": 93.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -113,
+              "point": 93.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-25T19:22:15Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Amon-Ra St. Brown",
+              "price": -167
+            },
+            {
+              "name": "Yes",
+              "description": "Christian Watson",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "Tucker Kraft",
+              "price": 140
+            },
+            {
+              "name": "Yes",
+              "description": "Jameson Williams",
+              "price": 170
+            },
+            {
+              "name": "Yes",
+              "description": "Jahmyr Gibbs",
+              "price": -500
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Golden",
+              "price": 140
+            },
+            {
+              "name": "Yes",
+              "description": "Sam LaPorta",
+              "price": 140
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Saylors",
+              "price": 3400
+            },
+            {
+              "name": "Yes",
+              "description": "Jackson Meeks",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Whyle",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Jared Goff",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Tay Martin",
+              "price": 1900
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Redman",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Jonnu Smith",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Love",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Savion Williams",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Wright",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Sione Vaki",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Melton",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Kaleb Johnson",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Isaac TeSlaa",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Pierre Strong Jr.",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "MarShawn Lloyd",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Jacobs",
+              "price": 100
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Conklin",
+              "price": 1100
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-25T19:22:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -200,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": 153,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": 136,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -179,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-25T19:22:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": -114,
+              "point": 281.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -114,
+              "point": 281.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -114,
+              "point": 289.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -114,
+              "point": 289.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-25T19:22:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": -114,
+              "point": 73.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -114,
+              "point": 73.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": -115,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": -112,
+              "point": 49.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -127,
+              "point": 74.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -102,
+              "point": 74.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaac TeSlaa",
+              "price": -116,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaac TeSlaa",
+              "price": -111,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": -114,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": -114,
+              "point": 53.5
+            },
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": -115,
+              "point": 79.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": -112,
+              "point": 79.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -120,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -108,
+              "point": 9.5
+            },
+            {
+              "name": "Over",
+              "description": "Pierre Strong Jr.",
+              "price": -109,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Pierre Strong Jr.",
+              "price": -119,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -120,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -108,
+              "point": 52.5
+            },
+            {
+              "name": "Over",
+              "description": "Savion Williams",
+              "price": -114,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Savion Williams",
+              "price": -114,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -114,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -114,
+              "point": 42.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-25T19:22:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -135,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": 105,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaac TeSlaa",
+              "price": -154,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaac TeSlaa",
+              "price": 118,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -149,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": 115,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -127,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -102,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": -143,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": 110,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": -108,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": -120,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": -120,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": -108,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Savion Williams",
+              "price": -103,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Savion Williams",
+              "price": -125,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": 125,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -164,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -132,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": 102,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Pierre Strong Jr.",
+              "price": 115,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Pierre Strong Jr.",
+              "price": -149,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-25T19:22:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -114,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -114,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -114,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -114,
+              "point": 46.5
+            },
+            {
+              "name": "Over",
+              "description": "Sione Vaki",
+              "price": -114,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Sione Vaki",
+              "price": -114,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Pierre Strong Jr.",
+              "price": -114,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Pierre Strong Jr.",
+              "price": -114,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "MarShawn Lloyd",
+              "price": -116,
+              "point": 10.5
+            },
+            {
+              "name": "Under",
+              "description": "MarShawn Lloyd",
+              "price": -111,
+              "point": 10.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -114,
+              "point": 95.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -114,
+              "point": 95.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-25T19:22:03Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Savion Williams",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Golden",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Conklin",
+              "price": 1150
+            },
+            {
+              "name": "Yes",
+              "description": "Jared Goff",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Pierre Strong Jr.",
+              "price": 350
+            },
+            {
+              "name": "Yes",
+              "description": "Jonnu Smith",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Tay Martin",
+              "price": 1600
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Love",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Whyle",
+              "price": 2000
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Jacobs",
+              "price": -103
+            },
+            {
+              "name": "Yes",
+              "description": "Sam LaPorta",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Sione Vaki",
+              "price": 650
+            },
+            {
+              "name": "Yes",
+              "description": "Amon-Ra St. Brown",
+              "price": -150
+            },
+            {
+              "name": "Yes",
+              "description": "MarShawn Lloyd",
+              "price": 225
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Saylors",
+              "price": 2900
+            },
+            {
+              "name": "Yes",
+              "description": "Christian Watson",
+              "price": 108
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Redman",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Isaac TeSlaa",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Melton",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Tucker Kraft",
+              "price": 170
+            },
+            {
+              "name": "Yes",
+              "description": "Jahmyr Gibbs",
+              "price": -455
+            },
+            {
+              "name": "Yes",
+              "description": "Jameson Williams",
+              "price": 180
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Wright",
+              "price": 500
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-25T19:22:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": 150,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -200,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -215,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": 160,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-25T19:22:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": -115,
+              "point": 289.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -114,
+              "point": 289.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -115,
+              "point": 287.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -115,
+              "point": 287.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-25T19:22:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": -114,
+              "point": 54.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": -115,
+              "point": 54.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": -114,
+              "point": 74.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -117,
+              "point": 74.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": -114,
+              "point": 50.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": -115,
+              "point": 50.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -118,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -113,
+              "point": 40.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaac TeSlaa",
+              "price": -117,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaac TeSlaa",
+              "price": -114,
+              "point": 25.5
+            },
+            {
+              "name": "Over",
+              "description": "Savion Williams",
+              "price": -113,
+              "point": 23.5
+            },
+            {
+              "name": "Under",
+              "description": "Savion Williams",
+              "price": -117,
+              "point": 23.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -113,
+              "point": 51.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -118,
+              "point": 51.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -115,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -115,
+              "point": 9.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -114,
+              "point": 76.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -117,
+              "point": 76.5
+            },
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": -113,
+              "point": 82.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": -118,
+              "point": 82.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-25T19:22:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": -112,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": -152,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -120,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -114,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": -155,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": 116,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -134,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -152,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaac TeSlaa",
+              "price": -175,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Savion Williams",
+              "price": -108,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-25T19:22:03Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -115,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -115,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -115,
+              "point": 93.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -114,
+              "point": 93.5
+            },
+            {
+              "name": "Over",
+              "description": "Pierre Strong Jr.",
+              "price": -107,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Pierre Strong Jr.",
+              "price": -125,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "MarShawn Lloyd",
+              "price": -122,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "MarShawn Lloyd",
+              "price": -109,
+              "point": 9.5
+            },
+            {
+              "name": "Over",
+              "description": "Sione Vaki",
+              "price": -120,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Sione Vaki",
+              "price": -112,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -112,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -120,
+              "point": 48.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-25T19:16:59Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Detroit Lions D/ST",
+              "price": 450
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Wright",
+              "price": 775
+            },
+            {
+              "name": "Yes",
+              "description": "Green Bay Packers D/ST",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "Jonnu Smith",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Jahmyr Gibbs",
+              "price": -325
+            },
+            {
+              "name": "Yes",
+              "description": "Tucker Kraft",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "Jameson Williams",
+              "price": 200
+            },
+            {
+              "name": "Yes",
+              "description": "Isaac TeSlaa",
+              "price": 340
+            },
+            {
+              "name": "Yes",
+              "description": "J. Michael Sturdivant",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Sione Vaki",
+              "price": 850
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Saylors",
+              "price": 1850
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Whyle",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Conklin",
+              "price": 1850
+            },
+            {
+              "name": "Yes",
+              "description": "MarShawn Lloyd",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Jared Goff",
+              "price": 950
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Love",
+              "price": 775
+            },
+            {
+              "name": "Yes",
+              "description": "Savion Williams",
+              "price": 375
+            },
+            {
+              "name": "Yes",
+              "description": "Amon-Ra St. Brown",
+              "price": -125
+            },
+            {
+              "name": "Yes",
+              "description": "Christian Watson",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Melton",
+              "price": 1050
+            },
+            {
+              "name": "Yes",
+              "description": "Pierre Strong Jr.",
+              "price": 500
+            },
+            {
+              "name": "Yes",
+              "description": "Sam LaPorta",
+              "price": 175
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Golden",
+              "price": 135
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Jacobs",
+              "price": -110
+            },
+            {
+              "name": "Yes",
+              "description": "Jackson Meeks",
+              "price": 4000
+            },
+            {
+              "name": "Yes",
+              "description": "Tay Martin",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Redman",
+              "price": 1050
+            },
+            {
+              "name": "Yes",
+              "description": "Coleman Owen",
+              "price": 1900
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-25T19:16:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -200,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": 150,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": 150,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -200,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-25T19:16:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": -115,
+              "point": 278.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -115,
+              "point": 278.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -115,
+              "point": 285.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -115,
+              "point": 285.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-25T19:16:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Isaac TeSlaa",
+              "price": -115,
+              "point": 22.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaac TeSlaa",
+              "price": -115,
+              "point": 22.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -115,
+              "point": 76.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -115,
+              "point": 76.5
+            },
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": -115,
+              "point": 80.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": -115,
+              "point": 80.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -125,
+              "point": 49.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -105,
+              "point": 49.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -115,
+              "point": 10.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -115,
+              "point": 10.5
+            },
+            {
+              "name": "Over",
+              "description": "Savion Williams",
+              "price": -135,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Savion Williams",
+              "price": 100,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": -115,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": -115,
+              "point": 48.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": -135,
+              "point": 72.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": 100,
+              "point": 72.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": -115,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": -115,
+              "point": 52.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -115,
+              "point": 40.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -115,
+              "point": 40.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-25T19:16:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": -140,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": 105,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": -115,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": -115,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": -150,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": 110,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Savion Williams",
+              "price": 100,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Savion Williams",
+              "price": -135,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": 110,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -150,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -125,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -105,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -135,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": 100,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": 125,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -165,
+              "point": 5.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-25T19:16:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -115,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -115,
+              "point": 47.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -115,
+              "point": 95.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -115,
+              "point": 95.5
+            },
+            {
+              "name": "Over",
+              "description": "Sione Vaki",
+              "price": -111,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "Sione Vaki",
+              "price": -120,
+              "point": 9.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -145,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": 105,
+              "point": 5.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-25T19:21:29Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Tyler Conklin",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Jared Goff",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "Amon-Ra St. Brown",
+              "price": -145
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Wright",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Tay Martin",
+              "price": 3000
+            },
+            {
+              "name": "Yes",
+              "description": "Jameson Williams",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Saylors",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Jahmyr Gibbs",
+              "price": -425
+            },
+            {
+              "name": "Yes",
+              "description": "Sam LaPorta",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "Sione Vaki",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Isaac TeSlaa",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Detroit Lions D/ST",
+              "price": 575
+            },
+            {
+              "name": "Yes",
+              "description": "Jonnu Smith",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Love",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Pierre Strong Jr.",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Christian Watson",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Melton",
+              "price": 1500
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Whyle",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Tucker Kraft",
+              "price": 135
+            },
+            {
+              "name": "Yes",
+              "description": "MarShawn Lloyd",
+              "price": 475
+            },
+            {
+              "name": "Yes",
+              "description": "Savion Williams",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Golden",
+              "price": 145
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Redman",
+              "price": 900
+            },
+            {
+              "name": "Yes",
+              "description": "J. Michael Sturdivant",
+              "price": 2800
+            },
+            {
+              "name": "Yes",
+              "description": "Green Bay Packers D/ST",
+              "price": 600
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Jacobs",
+              "price": 105
+            },
+            {
+              "name": "Yes",
+              "description": "DeAndre Carter",
+              "price": 1700
+            },
+            {
+              "name": "Yes",
+              "description": "Coleman Owen",
+              "price": 2200
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-25T19:21:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": 120,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -160,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-25T19:21:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": -115,
+              "point": 275.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -115,
+              "point": 275.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-25T19:21:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": -125,
+              "point": 70.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -105,
+              "point": 70.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-25T19:21:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -120,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -110,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-25T19:21:29Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -115,
+              "point": 95.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -115,
+              "point": 95.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "bovada",
+      "title": "Bovada",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-25T19:21:59Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Coleman Owen",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "J. Michael Sturdivant",
+              "price": 2200
+            },
+            {
+              "name": "Yes",
+              "description": "Sione Vaki",
+              "price": 825
+            },
+            {
+              "name": "Yes",
+              "description": "Tay Martin",
+              "price": 2500
+            },
+            {
+              "name": "Yes",
+              "description": "Brock Wright",
+              "price": 700
+            },
+            {
+              "name": "Yes",
+              "description": "Tyler Conklin",
+              "price": 1300
+            },
+            {
+              "name": "Yes",
+              "description": "Isaac TeSlaa",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Jacob Saylors",
+              "price": 3300
+            },
+            {
+              "name": "Yes",
+              "description": "Jared Goff",
+              "price": 1000
+            },
+            {
+              "name": "Yes",
+              "description": "Detroit Lions D/ST",
+              "price": 525
+            },
+            {
+              "name": "Yes",
+              "description": "Green Bay Packers D/ST",
+              "price": 725
+            },
+            {
+              "name": "Yes",
+              "description": "Jahmyr Gibbs",
+              "price": -400
+            },
+            {
+              "name": "Yes",
+              "description": "Christian Watson",
+              "price": 120
+            },
+            {
+              "name": "Yes",
+              "description": "Sam LaPorta",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Matthew Golden",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "Tucker Kraft",
+              "price": 165
+            },
+            {
+              "name": "Yes",
+              "description": "Amon-Ra St. Brown",
+              "price": -148
+            },
+            {
+              "name": "Yes",
+              "description": "Jameson Williams",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Jacobs",
+              "price": 105
+            },
+            {
+              "name": "Yes",
+              "description": "Pierre Strong Jr.",
+              "price": 380
+            },
+            {
+              "name": "Yes",
+              "description": "Jonnu Smith",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "Bo Melton",
+              "price": 1400
+            },
+            {
+              "name": "Yes",
+              "description": "Savion Williams",
+              "price": 360
+            },
+            {
+              "name": "Yes",
+              "description": "Jordan Love",
+              "price": 800
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Redman",
+              "price": 1100
+            },
+            {
+              "name": "Yes",
+              "description": "MarShawn Lloyd",
+              "price": 440
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Whyle",
+              "price": 1800
+            },
+            {
+              "name": "Yes",
+              "description": "DeAndre Carter",
+              "price": 1900
+            }
+          ]
+        },
+        {
+          "key": "player_pass_tds",
+          "last_update": "2026-10-25T19:21:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": 125,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -165,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -200,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": 150,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_pass_yds",
+          "last_update": "2026-10-25T19:21:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": -245,
+              "point": 251.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": 180,
+              "point": 251.5
+            },
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": -185,
+              "point": 261.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": 140,
+              "point": 261.5
+            },
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": -145,
+              "point": 271.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": 110,
+              "point": 271.5
+            },
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": -115,
+              "point": 281.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -115,
+              "point": 281.5
+            },
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": 110,
+              "point": 291.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -145,
+              "point": 291.5
+            },
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": 140,
+              "point": 301.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -185,
+              "point": 301.5
+            },
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": 170,
+              "point": 311.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -230,
+              "point": 311.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -245,
+              "point": 259.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": 180,
+              "point": 259.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -185,
+              "point": 269.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": 140,
+              "point": 269.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -145,
+              "point": 279.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": 110,
+              "point": 279.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -115,
+              "point": 289.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -115,
+              "point": 289.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": 110,
+              "point": 299.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -145,
+              "point": 299.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": 140,
+              "point": 309.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -185,
+              "point": 309.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": 170,
+              "point": 319.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -230,
+              "point": 319.5
+            }
+          ]
+        },
+        {
+          "key": "player_reception_yds",
+          "last_update": "2026-10-25T19:21:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": -275,
+              "point": 65.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": 200,
+              "point": 65.5
+            },
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": -170,
+              "point": 75.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": 130,
+              "point": 75.5
+            },
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": -115,
+              "point": 85.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": -115,
+              "point": 85.5
+            },
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": 125,
+              "point": 95.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": -165,
+              "point": 95.5
+            },
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": 175,
+              "point": 105.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": -240,
+              "point": 105.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -280,
+              "point": 58.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": 205,
+              "point": 58.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -170,
+              "point": 68.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": 130,
+              "point": 68.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -115,
+              "point": 77.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -115,
+              "point": 77.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": 125,
+              "point": 88.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -165,
+              "point": 88.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": 180,
+              "point": 98.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -245,
+              "point": 98.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaac TeSlaa",
+              "price": -115,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaac TeSlaa",
+              "price": -115,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -210,
+              "point": 32.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": 155,
+              "point": 32.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -150,
+              "point": 37.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": 115,
+              "point": 37.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -115,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -115,
+              "point": 42.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": 115,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -150,
+              "point": 47.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": 145,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -190,
+              "point": 52.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": -190,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": 145,
+              "point": 43.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": -145,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": 110,
+              "point": 48.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": -115,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": -115,
+              "point": 53.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": 110,
+              "point": 58.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": -145,
+              "point": 58.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": 135,
+              "point": 63.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": -180,
+              "point": 63.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -110,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -120,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": -180,
+              "point": 62.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": 135,
+              "point": 62.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": -145,
+              "point": 67.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": 110,
+              "point": 67.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": -115,
+              "point": 72.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -115,
+              "point": 72.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": 105,
+              "point": 77.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -135,
+              "point": 77.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": 130,
+              "point": 82.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -170,
+              "point": 82.5
+            },
+            {
+              "name": "Over",
+              "description": "Pierre Strong Jr.",
+              "price": -110,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Pierre Strong Jr.",
+              "price": -120,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": -200,
+              "point": 38.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": 150,
+              "point": 38.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": -150,
+              "point": 43.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": 115,
+              "point": 43.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": -115,
+              "point": 48.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": -115,
+              "point": 48.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": 110,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": -145,
+              "point": 53.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": 140,
+              "point": 58.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": -185,
+              "point": 58.5
+            },
+            {
+              "name": "Over",
+              "description": "Savion Williams",
+              "price": -110,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Savion Williams",
+              "price": -120,
+              "point": 25.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -190,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": 145,
+              "point": 42.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -145,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": 110,
+              "point": 47.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -115,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -115,
+              "point": 52.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": 110,
+              "point": 57.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -145,
+              "point": 57.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": 135,
+              "point": 62.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -180,
+              "point": 62.5
+            }
+          ]
+        },
+        {
+          "key": "player_receptions",
+          "last_update": "2026-10-25T19:21:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Amon-Ra St. Brown",
+              "price": -120,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Amon-Ra St. Brown",
+              "price": -110,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Christian Watson",
+              "price": -120,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Christian Watson",
+              "price": -110,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Isaac TeSlaa",
+              "price": -150,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Isaac TeSlaa",
+              "price": 115,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -160,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": 120,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Jameson Williams",
+              "price": -130,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Jameson Williams",
+              "price": 100,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -125,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -105,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Matthew Golden",
+              "price": 120,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Matthew Golden",
+              "price": -160,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Pierre Strong Jr.",
+              "price": 105,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Pierre Strong Jr.",
+              "price": -135,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam LaPorta",
+              "price": 120,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam LaPorta",
+              "price": -160,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Savion Williams",
+              "price": -110,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Savion Williams",
+              "price": -120,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Tucker Kraft",
+              "price": -120,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Tucker Kraft",
+              "price": -110,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "player_rush_yds",
+          "last_update": "2026-10-25T19:21:59Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -300,
+              "point": 76.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": 220,
+              "point": 76.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -180,
+              "point": 86.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": 135,
+              "point": 86.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": -115,
+              "point": 96.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -115,
+              "point": 96.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": 130,
+              "point": 106.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -170,
+              "point": 106.5
+            },
+            {
+              "name": "Over",
+              "description": "Jahmyr Gibbs",
+              "price": 190,
+              "point": 116.5
+            },
+            {
+              "name": "Under",
+              "description": "Jahmyr Gibbs",
+              "price": -260,
+              "point": 116.5
+            },
+            {
+              "name": "Over",
+              "description": "Jared Goff",
+              "price": -115,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Jared Goff",
+              "price": -115,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "Jordan Love",
+              "price": -115,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Jordan Love",
+              "price": -115,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -230,
+              "point": 37.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": 170,
+              "point": 37.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -160,
+              "point": 42.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": 120,
+              "point": 42.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": -115,
+              "point": 47.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -115,
+              "point": 47.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": 115,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -150,
+              "point": 52.5
+            },
+            {
+              "name": "Over",
+              "description": "Josh Jacobs",
+              "price": 155,
+              "point": 57.5
+            },
+            {
+              "name": "Under",
+              "description": "Josh Jacobs",
+              "price": -210,
+              "point": 57.5
+            },
+            {
+              "name": "Over",
+              "description": "MarShawn Lloyd",
+              "price": -110,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "MarShawn Lloyd",
+              "price": -120,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Pierre Strong Jr.",
+              "price": -115,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Pierre Strong Jr.",
+              "price": -115,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Sione Vaki",
+              "price": -110,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Sione Vaki",
+              "price": -120,
+              "point": 8.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
