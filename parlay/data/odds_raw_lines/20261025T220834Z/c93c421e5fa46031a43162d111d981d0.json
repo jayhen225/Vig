@@ -1,0 +1,254 @@
+{
+  "id": "c93c421e5fa46031a43162d111d981d0",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-11-01T18:00:00Z",
+  "home_team": "Buffalo Bills",
+  "away_team": "Baltimore Ravens",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-25T22:07:31Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 150
+            },
+            {
+              "name": "Buffalo Bills",
+              "price": -180
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-25T22:07:31Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 100,
+              "point": 3.0
+            },
+            {
+              "name": "Buffalo Bills",
+              "price": -120,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-25T22:07:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-25T22:08:14Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 150
+            },
+            {
+              "name": "Buffalo Bills",
+              "price": -178
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-25T22:08:14Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -104,
+              "point": 3.0
+            },
+            {
+              "name": "Buffalo Bills",
+              "price": -118,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-25T22:08:14Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -115,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "price": -105,
+              "point": 53.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-25T22:08:13Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 150
+            },
+            {
+              "name": "Buffalo Bills",
+              "price": -182
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-25T22:08:13Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": -105,
+              "point": 3.0
+            },
+            {
+              "name": "Buffalo Bills",
+              "price": -117,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-25T22:08:13Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 53.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-25T22:06:28Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 150
+            },
+            {
+              "name": "Buffalo Bills",
+              "price": -185
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-25T22:06:28Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 100,
+              "point": 3.0
+            },
+            {
+              "name": "Buffalo Bills",
+              "price": -118,
+              "point": -3.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-25T22:06:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 53.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 53.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-25T22:08:16Z",
+          "outcomes": [
+            {
+              "name": "Baltimore Ravens",
+              "price": 147
+            },
+            {
+              "name": "Buffalo Bills",
+              "price": -182
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-25T22:08:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 52.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 52.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

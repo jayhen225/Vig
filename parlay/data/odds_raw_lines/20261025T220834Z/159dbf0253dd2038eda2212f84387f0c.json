@@ -1,0 +1,254 @@
+{
+  "id": "159dbf0253dd2038eda2212f84387f0c",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-11-01T18:00:00Z",
+  "home_team": "Jacksonville Jaguars",
+  "away_team": "Indianapolis Colts",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-25T22:07:31Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 275
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -345
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-25T22:07:31Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -115,
+              "point": 7.5
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -105,
+              "point": -7.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-25T22:07:31Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-25T22:08:15Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 340
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -430
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-25T22:08:15Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -110,
+              "point": 7.5
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -110,
+              "point": -7.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-25T22:08:15Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -118,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -104,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-25T22:08:13Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 335
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -435
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-25T22:08:13Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -112,
+              "point": 7.5
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -109,
+              "point": -7.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-25T22:08:13Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -112,
+              "point": 45.5
+            },
+            {
+              "name": "Under",
+              "price": -109,
+              "point": 45.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-25T22:06:28Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 300
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -375
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-25T22:06:28Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": -110,
+              "point": 7.5
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -108,
+              "point": -7.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-25T22:06:28Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-25T22:08:16Z",
+          "outcomes": [
+            {
+              "name": "Indianapolis Colts",
+              "price": 290
+            },
+            {
+              "name": "Jacksonville Jaguars",
+              "price": -391
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-25T22:08:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 46.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 46.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
