@@ -1,0 +1,57 @@
+{
+  "id": "c93c421e5fa46031a43162d111d981d0",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-11-01T18:00:00Z",
+  "home_team": "Buffalo Bills",
+  "away_team": "Baltimore Ravens",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-26T09:51:14Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Derrick Henry",
+              "price": -205
+            },
+            {
+              "name": "Yes",
+              "description": "James Cook",
+              "price": -170
+            },
+            {
+              "name": "Yes",
+              "description": "Josh Allen",
+              "price": -145
+            },
+            {
+              "name": "Yes",
+              "description": "Zay Flowers",
+              "price": 145
+            },
+            {
+              "name": "Yes",
+              "description": "DJ Moore",
+              "price": 160
+            },
+            {
+              "name": "Yes",
+              "description": "Dalton Kincaid",
+              "price": 190
+            },
+            {
+              "name": "Yes",
+              "description": "Mark Andrews",
+              "price": 220
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

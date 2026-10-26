@@ -1,0 +1,42 @@
+{
+  "id": "9c5d8f57e0ba0fbd9ef436c1f0898f99",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-11-01T18:00:00Z",
+  "home_team": "Cincinnati Bengals",
+  "away_team": "Tennessee Titans",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-26T09:49:41Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Ja'Marr Chase",
+              "price": -110
+            },
+            {
+              "name": "Yes",
+              "description": "Chase Brown",
+              "price": 100
+            },
+            {
+              "name": "Yes",
+              "description": "Tee Higgins",
+              "price": 105
+            },
+            {
+              "name": "Yes",
+              "description": "Tony Pollard",
+              "price": 110
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

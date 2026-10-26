@@ -1,0 +1,52 @@
+{
+  "id": "52e7ee9c42525e6deec02da32dc2fad8",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-11-01T18:00:00Z",
+  "home_team": "Detroit Lions",
+  "away_team": "Minnesota Vikings",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_anytime_td",
+          "last_update": "2026-10-26T09:51:26Z",
+          "outcomes": [
+            {
+              "name": "Yes",
+              "description": "Jahmyr Gibbs",
+              "price": -250
+            },
+            {
+              "name": "Yes",
+              "description": "Amon-Ra St. Brown",
+              "price": -120
+            },
+            {
+              "name": "Yes",
+              "description": "Justin Jefferson",
+              "price": 130
+            },
+            {
+              "name": "Yes",
+              "description": "Jameson Williams",
+              "price": 150
+            },
+            {
+              "name": "Yes",
+              "description": "T.J. Hockenson",
+              "price": 185
+            },
+            {
+              "name": "Yes",
+              "description": "Sam LaPorta",
+              "price": 215
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
