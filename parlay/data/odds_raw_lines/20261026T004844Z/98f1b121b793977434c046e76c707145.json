@@ -1,0 +1,382 @@
+{
+  "id": "98f1b121b793977434c046e76c707145",
+  "sport_key": "americanfootball_nfl",
+  "sport_title": "NFL",
+  "commence_time": "2026-11-01T18:00:00Z",
+  "home_team": "New York Jets",
+  "away_team": "Las Vegas Raiders",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-26T00:48:33Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -102
+            },
+            {
+              "name": "New York Jets",
+              "price": -118
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-26T00:48:33Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -118,
+              "point": 1.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -102,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-26T00:48:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-26T00:48:12Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -103
+            },
+            {
+              "name": "New York Jets",
+              "price": -115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-26T00:48:12Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -117,
+              "point": 1.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -103,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-26T00:48:12Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -106,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -114,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-26T00:48:33Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -102
+            },
+            {
+              "name": "New York Jets",
+              "price": -116
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-26T00:48:33Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -118,
+              "point": 1.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -104,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-26T00:48:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -105,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -115,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betrivers",
+      "title": "BetRivers",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-26T00:48:13Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": 102
+            },
+            {
+              "name": "New York Jets",
+              "price": -124
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-26T00:48:13Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 1.5
+            },
+            {
+              "name": "New York Jets",
+              "price": -110,
+              "point": -1.5
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-26T00:48:13Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -109,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -112,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "lowvig",
+      "title": "LowVig.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-26T00:48:33Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -105,
+              "point": 1.0
+            },
+            {
+              "name": "New York Jets",
+              "price": -105,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-26T00:48:33Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -107,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -107,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betonlineag",
+      "title": "BetOnline.ag",
+      "markets": [
+        {
+          "key": "spreads",
+          "last_update": "2026-10-26T00:48:13Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 1.0
+            },
+            {
+              "name": "New York Jets",
+              "price": -110,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-26T00:48:13Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -110,
+              "point": 45.0
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 45.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "betmgm",
+      "title": "BetMGM",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-26T00:48:32Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -105
+            },
+            {
+              "name": "New York Jets",
+              "price": -115
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-26T00:48:32Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 1.0
+            },
+            {
+              "name": "New York Jets",
+              "price": -108,
+              "point": -1.0
+            }
+          ]
+        },
+        {
+          "key": "totals",
+          "last_update": "2026-10-26T00:48:32Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "price": -108,
+              "point": 44.5
+            },
+            {
+              "name": "Under",
+              "price": -110,
+              "point": 44.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "mybookieag",
+      "title": "MyBookie.ag",
+      "markets": [
+        {
+          "key": "h2h",
+          "last_update": "2026-10-26T00:48:13Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -104
+            },
+            {
+              "name": "New York Jets",
+              "price": -117
+            }
+          ]
+        },
+        {
+          "key": "spreads",
+          "last_update": "2026-10-26T00:48:13Z",
+          "outcomes": [
+            {
+              "name": "Las Vegas Raiders",
+              "price": -110,
+              "point": 1.0
+            },
+            {
+              "name": "New York Jets",
+              "price": -110,
+              "point": -1.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
